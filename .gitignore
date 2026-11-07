@@ -4,6 +4,7 @@ __pycache__/
 .claude/
 # chave do Mercado Livre: só existe no computador do Matheus, nunca vai pro GitHub
 .segredos/
+robo/ultimo_log.txt
 # vídeos e quadros do motion (pesados)
 motion/*.mp4
 motion/*.png

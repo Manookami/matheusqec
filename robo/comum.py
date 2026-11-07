@@ -100,6 +100,7 @@ def historico(pid, produtos, precos):
 DESCONTO_JANELA = 30      # dias usados para saber o preço "normal" do produto
 DESCONTO_MIN_DIAS = 7     # histórico mínimo antes de afirmar que caiu
 DESCONTO_MIN = 0.05       # queda mínima para valer como desconto
+PRECO_VALIDO_DIAS = 3     # preço mais velho que isso vira "Ver preço no Mercado Livre"
 DESCONTO_MAX = 0.60       # acima disso não é promoção: costuma ser golpe ou anúncio errado
 DESCONTO_MIN_LEITURAS = 3 # leituras de preço necessárias (com o robô diário, isso sai em 3 dias)
 
@@ -149,6 +150,8 @@ def resumo_preco(pid, produtos, precos):
         "media_30d": sum(recente) / len(recente),
         "pontos": h,
         "ao_vivo": pid in precos and bool(precos[pid].get("historico")),
+        # preço confirmado há no máximo 3 dias; mais velho que isso o site não mostra (pode ter mudado)
+        "recente": date.fromisoformat(atual["data"]) >= date.today() - timedelta(days=PRECO_VALIDO_DIAS),
     }
 
 

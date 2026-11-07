@@ -48,7 +48,8 @@ def main():
         SEGREDOS.write_text(json.dumps(chave, indent=1), encoding="utf-8")
         novo.unlink()
     if r.returncode:
-        sys.exit("Parou: o Mercado Livre recusou a chave. Refaça 'python robo/autorizar_ml.py'.")
+        sys.exit("Parou: o robô de preços deu erro (veja as mensagens acima). Nada foi enviado ao site.\n"
+                 "Se a mensagem disser que o Mercado Livre recusou o token, rode de novo 'python robo/autorizar_ml.py'.")
 
     passo("2/4 Testes")
     roda(sys.executable, "testes/teste.py")

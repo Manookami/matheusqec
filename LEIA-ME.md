@@ -15,6 +15,12 @@ O robô roda **no computador do Matheus**, não no servidor:
 
 Se alguém invadir o site ou o GitHub, não acha acesso nenhum à conta do Mercado Livre.
 
+**Agendado:** o Agendador de Tarefas do Windows roda `robo/agendado.bat` **todo dia às 12h** (tarefa "Qual Eu Compro -
+precos"; se o PC estiver desligado, roda quando ligar). O resultado da última rodada fica em `robo/ultimo_log.txt`.
+
+**Limite da API:** produtos de catálogo (`/p/MLB...`) são lidos pela API. Anúncios fora do catálogo (`/up/...`, ~50)
+o ML não deixa ler: o site mostra o último preço por até **3 dias** e depois troca por "Ver preço no Mercado Livre".
+
 ## Fitinha de desconto (regras anti-desconto-falso)
 
 `desconto_real` em `robo/comum.py`: só aparece se o preço de hoje estiver **5% ou mais abaixo da mediana dos últimos

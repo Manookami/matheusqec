@@ -56,9 +56,15 @@ def imagem(pid, dados, precos):
 
 # ---------- cartão de produto ----------
 
+def resumo_valido(pid, dados, precos):
+    """Resumo de preço só se o preço foi confirmado nos últimos dias (senão o site não mostra valor)."""
+    r = resumo_preco(pid, dados, precos)
+    return r if r and r["recente"] else None
+
+
 def cartao(pid, dados, precos):
     prod = dados["produtos"][pid]
-    r = resumo_preco(pid, dados, precos)
+    r = resumo_valido(pid, dados, precos)
     p = precos.get(pid, {})
     esgotado = p.get("disponivel") is False
     url = link_produto(pid, dados, precos)
@@ -149,14 +155,14 @@ try {{ var t = localStorage.getItem('tema'); if (t === 'claro' || t === 'escuro'
 
 
 def preco_hoje(pid, dados, precos):
-    r = resumo_preco(pid, dados, precos)
+    r = resumo_valido(pid, dados, precos)
     return r["atual"] if r and precos.get(pid, {}).get("disponivel") is not False else None
 
 
 def escolhidos(pids, dados, precos, n):
     """Ordem dos destaques: queda de preço real primeiro, depois recomendados no canal, depois o resto."""
     def chave(pid):
-        r = resumo_preco(pid, dados, precos) or {}
+        r = resumo_valido(pid, dados, precos) or {}
         return (-r.get("desconto", 0), not dados["produtos"][pid].get("videos"))
     return sorted(pids, key=chave)[:n]
 
@@ -249,7 +255,7 @@ def faixas_preco(valores):
 
 def filtros(pids, dados, precos):
     valores = [x for p in pids if (x := preco_hoje(p, dados, precos))]
-    com_desc = sum(1 for p in pids if (resumo_preco(p, dados, precos) or {}).get("desconto", 0) >= FITA_MINIMA)
+    com_desc = sum(1 for p in pids if (resumo_valido(p, dados, precos) or {}).get("desconto", 0) >= FITA_MINIMA)
     opcoes = [f'<label><input type="radio" name="faixa" value="" checked><span>Qualquer preço</span><i>{len(pids)}</i></label>']
     for a, b, rotulo in faixas_preco(valores):
         n = sum(1 for x in valores if a < x <= b)
@@ -281,7 +287,7 @@ def gerar_categoria(c, dados, precos):
 
 def gerar_ofertas(dados, precos):
     pids = [p for p in escolhidos(list(dados["produtos"]), dados, precos, 999)
-            if (resumo_preco(p, dados, precos) or {}).get("desconto", 0) >= FITA_MINIMA]
+            if (resumo_valido(p, dados, precos) or {}).get("desconto", 0) >= FITA_MINIMA]
     caiu = [q["produto"] for q in quedas(dados, precos) if q["produto"] not in pids]
     corpo = '<p class="trilha"><a href="/">Início</a> › Ofertas</p>'
     corpo += secao(f"🔥 Preço caiu de verdade <small>{len(pids)} produtos</small>", pids, dados, precos, sid="ofertas")

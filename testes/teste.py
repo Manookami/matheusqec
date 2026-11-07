@@ -135,6 +135,8 @@ curto = serie((3, 1, 2400), (0, 0, 1999))
 confere(desconto_de(curto) == 0, "só 3 dias de histórico -> ainda não afirma desconto")
 dois = {"historico": [{"data": dia(10), "preco": 684}, {"data": dia(0), "preco": 387}], "disponivel": True}
 confere(desconto_de(dois) == 0, "só 2 leituras (684 -> 387) -> não afirma desconto")
+velho_preco = comum.resumo_preco("poco-x8-pro", produtos, {"poco-x8-pro": serie((10, 5, 2400))})
+confere(velho_preco and not velho_preco["recente"], "último preço de 5 dias atrás -> não é mais 'recente' (site mostra 'Ver preço')")
 golpe = serie((25, 1, 2400), (0, 0, 699))
 confere(desconto_de(golpe) == 0, "caiu 71% de um dia pro outro -> suspeito, sem fitinha")
 pouco = serie((20, 1, 2400), (0, 0, 2340))

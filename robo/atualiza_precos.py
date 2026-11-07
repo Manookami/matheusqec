@@ -8,6 +8,7 @@ salvar de volta no secret. Sem credenciais, o robô avisa e sai sem erro (o site
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -23,8 +24,17 @@ def pedir(caminho, token=None, dados=None):
         req.add_header("Authorization", f"Bearer {token}")
     if dados:
         req.add_header("Content-Type", "application/x-www-form-urlencoded")
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return json.loads(r.read())
+    for tentativa in range(4):  # conexão derrubada / lentidão: espera e tenta de novo
+        try:
+            with urllib.request.urlopen(req, timeout=25) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 500, 502, 503, 504) or tentativa == 3:
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
+            if tentativa == 3:
+                raise
+        time.sleep(2 * (tentativa + 1))
 
 
 def token_ml():
@@ -111,6 +121,7 @@ def main():
         print("Sem credenciais do Mercado Livre: preços não atualizados (o site usa os últimos).")
         return 0
 
+    lidos = 0
     for pid, cat in produtos["produtos"].items():
         ref = (("item", cat["item"]) if cat.get("item") else None) or id_ml(cat.get("ml")) \
             or id_ml(precos.get(pid, {}).get("ml_resolvido"))
@@ -122,11 +133,18 @@ def main():
         if not ref:
             print(f"- {pid}: sem link do ML ainda, pulando")
             continue
+        time.sleep(0.25)  # sem pressa: o ML derruba conexões quando as consultas vêm coladas
         try:
             info = (consulta_produto if ref[0] == "produto" else consulta_item)(ref[1], token)
         except urllib.error.HTTPError as e:
             print(f"- {pid}: erro {e.code} no ML, mantendo o último preço")
             continue
+        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+            print(f"- {pid}: falha de conexão ({e}), mantendo o último preço")
+            continue
+        lidos += 1
+        if lidos % 50 == 0:  # salva o progresso de tempos em tempos
+            gravar_json(ARQ_PRECOS, precos)
         reg = precos.setdefault(pid, {"historico": []})
         reg.update({k: v for k, v in info.items() if k != "preco" and v is not None})
         reg["disponivel"] = info["disponivel"]
@@ -140,6 +158,7 @@ def main():
         print(f"- {pid}: {'R$ %.2f' % info['preco'] if info.get('preco') else 'indisponível'}")
 
     gravar_json(ARQ_PRECOS, precos)
+    print(f"\n{lidos} de {len(produtos['produtos'])} produtos consultados com sucesso.")
     return 0
 
 
