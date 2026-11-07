@@ -1,0 +1,10 @@
+{
+  "_provedor": "teste = só gera a prévia em bot_whatsapp/saida | whapi = Canal do WhatsApp (pago) | telegram = canal do Telegram (grátis)",
+  "provedor": "teste",
+  "queda_minima": 0.05,
+  "janela_dias": 7,
+  "nova_queda_minima": 0.03,
+  "pausa_dias_mesmo_produto": 3,
+  "max_alertas_por_vez": 3,
+  "horario": [8, 22]
+}

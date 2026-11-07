@@ -1,0 +1,9318 @@
+{
+ "galaxy-a57": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 1899
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1899
+   }
+  ],
+  "preco_original": 3799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "poco-x8-pro": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2422.5
+   }
+  ],
+  "preco_original": 2550,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "redmi-note-15-pro": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2232.49
+   }
+  ],
+  "preco_original": 2349.99,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "moto-g86": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 1799.1
+   }
+  ],
+  "preco_original": 2999,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "galaxy-a17-5g": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 971.1
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 989.1
+   }
+  ],
+  "preco_original": 1855.71,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "edge-70": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2633.44
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "tv-aoc-50u7045": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2079
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2190
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tv-hisense-50a6nv": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2088.94
+   }
+  ],
+  "preco_original": 2856.9,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "tv-lg-50ua7500": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2199
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2327
+   }
+  ],
+  "preco_original": 5000,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tv-samsung-u8600f": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2799
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "tv-tcl-50p7k": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2207.91
+   }
+  ],
+  "preco_original": 2399.9,
+  "disponivel": true,
+  "atualizado": "2026-10-26T20:00:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "iphone-16": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 4598
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4549
+   }
+  ],
+  "preco_original": 7799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-15": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 3779
+   }
+  ],
+  "preco_original": 7209,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "galaxy-s25-fe": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2841
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2699
+   }
+  ],
+  "preco_original": 4499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "galaxy-a56": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2299
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2199
+   }
+  ],
+  "preco_original": 3999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "galaxy-a36": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 1331
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1414
+   }
+  ],
+  "preco_original": 2599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "redmi-note-14-pro": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2005
+   }
+  ],
+  "preco_original": 2180,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "tv-samsung-55-u8600f": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2698
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2950
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tv-tcl-55-p7l": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2801
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2599
+   }
+  ],
+  "preco_original": 4699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tv-lg-55-qned73": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2865
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2865
+   }
+  ],
+  "preco_original": 4900,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tv-tcl-65-p7l": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 3799
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3999
+   }
+  ],
+  "preco_original": 6099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "lenovo-ideapad-slim-3": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 3899
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3899
+   }
+  ],
+  "preco_original": 6199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "acer-aspire-go-15": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 3654
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3329
+   }
+  ],
+  "preco_original": 5717.8,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "macbook-air-m4": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 11099
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "acer-nitro-v15": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 7999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 7999
+   }
+  ],
+  "preco_original": 13431.34,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ipad-11-a16": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 3089
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "galaxy-tab-s10-fe": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 3249
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3039
+   }
+  ],
+  "preco_original": 5999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "galaxy-tab-a9-plus": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 1990
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "redmi-pad-2": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 1462
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1699
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ps5-slim": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 4399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4349
+   }
+  ],
+  "preco_original": 4899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xbox-series-s": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 4599
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 5099
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xbox-series-x": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 7799
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "switch-2": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 4199
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4454
+   }
+  ],
+  "preco_original": 5699.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "switch-oled": {
+  "historico": [
+   {
+    "data": "2026-10-26",
+    "preco": 2099
+   }
+  ],
+  "preco_original": 2299,
+  "disponivel": true,
+  "atualizado": "2026-10-26T21:30:00",
+  "fonte": "leitura manual no navegador"
+ },
+ "celular-samsung-galaxy-a17-com-ia": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 849.06
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 949
+   }
+  ],
+  "preco_original": 1499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a17-8gb-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1145
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1349
+   }
+  ],
+  "preco_original": 1699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g06-128gb-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 778.5
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 798.3
+   }
+  ],
+  "preco_original": 1399,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-a15-dual-sim-4g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1899
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a06-4g-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 970
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a17-com-ia-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1169
+   }
+  ],
+  "preco_original": 1699,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g06-256gb-4gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 899.1
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1009
+   }
+  ],
+  "preco_original": 1299.8,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-motorola-moto-g06-128gb-4gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 780
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a26-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1899
+   }
+  ],
+  "preco_original": 2167.14,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "redmi-note-13-4g-dual-sim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1345
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-s25-ultra-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5689
+   }
+  ],
+  "preco_original": 10499,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-s25-5g-256gb-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3704
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3898
+   }
+  ],
+  "preco_original": 5999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-s25-fe-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2998
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2998
+   }
+  ],
+  "preco_original": 4499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-s24-fe-8gb-ram": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5129
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3999
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a36-5g-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1493
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1394
+   }
+  ],
+  "preco_original": 2212.86,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-edge-60-pro-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2609
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2564
+   }
+  ],
+  "preco_original": 3629,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-edge-60-fusion-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1799
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1799
+   }
+  ],
+  "preco_original": 3299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g86-5g-512gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2209
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2024
+   }
+  ],
+  "preco_original": 3099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g56-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1449
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1540
+   }
+  ],
+  "preco_original": 2299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-g17-tela-6-7-polegadas": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 854.1
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 798.3
+   }
+  ],
+  "preco_original": 1599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-g17-tela-6-7-polegadas-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1169
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1198
+   }
+  ],
+  "preco_original": 1749,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-moto-g06-4g-tela-6": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 899.1
+   }
+  ],
+  "preco_original": 1399,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-edge-60-5g-512gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2339
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2339
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g05-256gb-4gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 896.16
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-16e-128-gb-preto-distribuidor": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3299
+   }
+  ],
+  "preco_original": 5799,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17-256-gb-8-gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5381
+   }
+  ],
+  "preco_original": 7999,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-16-256-gb-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5199
+   }
+  ],
+  "preco_original": 9538.5,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-15-128-gb-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3779
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3779
+   }
+  ],
+  "preco_original": 7209,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-16-128-gb-ultramarine": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4557
+   }
+  ],
+  "preco_original": 7799,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-15-256-gb-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4219
+   }
+  ],
+  "preco_original": 8095.5,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-smartphone-realme-c73-256gb-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1228
+   }
+  ],
+  "preco_original": 1699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a17-5g-a17": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1675
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "poco-x6-pro-5g-dual-sim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4499
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-xiaomi-redmi-14c-preto-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 999.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-s24-ultra-256gb-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5570
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 5214
+   }
+  ],
+  "preco_original": 9199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-s24-fe-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3231
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a17-5g-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1253
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-a55-5g-dual-sim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2299
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2399
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-poco-x7-pro-5g-12ram": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2539
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-poco-x7-pro-5g-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2538
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2749
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-poco-x7-pro-dual-sim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2538
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-xiaomi-poco-x7-pro-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2499
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a36-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2499
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-a55-5g-dual-sim-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2449
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 29999
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-a34-5g-256-gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2047
+   }
+  ],
+  "preco_original": 2899,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-edge-50-fusion-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2499
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-moto-g75-5g-256gb-vegan": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1999
+   }
+  ],
+  "preco_original": 2899,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "motorola-edge-40-neo-5g-dual": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1950
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-motorola-moto-g56-256gb-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1690
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1745
+   }
+  ],
+  "preco_original": 2699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-poco-x6-pro-5g-dual": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2460
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-xiaomi-redmi-note-13-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1299
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "poco-c85-256gb-dual-sim-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 999.63
+   }
+  ],
+  "preco_original": 1149,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-note-14-4g-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1657
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1556
+   }
+  ],
+  "preco_original": 1729,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a35-5g-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1999
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "motorola-edge-30-neo-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1765
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1765
+   }
+  ],
+  "preco_original": 1995,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-note-13-pro-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3269
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-12c-dual-sim-128": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 878
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "realme-c55-dual-sim-256-gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1147
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1287
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "realme-c53-dual-sim-128-gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1001
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1001
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-11-128-gb-branco": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1999
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-s25-fe-jetblack": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3599
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3419
+   }
+  ],
+  "preco_original": 5799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a37-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1889
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1889
+   }
+  ],
+  "preco_original": 3899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a57-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2299
+   }
+  ],
+  "preco_original": 4299,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-edge-70-fusion-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2159
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2159
+   }
+  ],
+  "preco_original": 3799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g67-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1456
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1699
+   }
+  ],
+  "preco_original": 2099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g06-128gb-4gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 790.41
+   }
+  ],
+  "preco_original": 999.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "motorola-moto-g86-5g-dual-sim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1899
+   }
+  ],
+  "preco_original": 1999.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-smartphone-realme-c73-128gb-4gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1347
+   }
+  ],
+  "preco_original": 2299.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a57-5g-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1899
+   }
+  ],
+  "preco_original": 3799,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-motorola-moto-g86-5g-moto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2375
+   }
+  ],
+  "preco_original": 2899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-xiaomi-poco-x8-pro-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2801
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3099
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "poco-x8-pro-max-512gb-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3650
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3638
+   }
+  ],
+  "preco_original": 3830,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-poco-x8-pro-512gb-12gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3157
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3350
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-samsung-galaxy-a16-5g-ram": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1198
+   }
+  ],
+  "preco_original": 1899,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "poco-x6-5g-dual-sim-256": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2250
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-xiaomi-redmi-note-14-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1370
+   }
+  ],
+  "preco_original": 1570,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-note-13-4g-esim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1300
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-realme-c75-dual-sim-256": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1367
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1599
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samrtphone-realme-note-70-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 923
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 911.05
+   }
+  ],
+  "preco_original": 959,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-realme-c75-dual-sim-256": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1340
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1389
+   }
+  ],
+  "preco_original": 1510,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-13c-dual-sim-256": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 895
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "realme-c53-dual-sim-256-gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1295
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-galaxy-a53-5g-6-5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1999
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-12-128-gb-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1843
+   }
+  ],
+  "preco_original": 2004,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-s26-5g-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4798
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4319
+   }
+  ],
+  "preco_original": 7799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-samsung-galaxy-a37-5g-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1799
+   }
+  ],
+  "preco_original": 3499,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17e-256gb-preto-distribuidor-autorizado": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4499
+   }
+  ],
+  "preco_original": 5799,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17-pro-256gb-azul-profundo": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 7999
+   }
+  ],
+  "preco_original": 11499,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17-pro-max-256gb-prateado": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 9674
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 9719
+   }
+  ],
+  "preco_original": 12499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17-pro-max-512gb-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 9839
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 11069
+   }
+  ],
+  "preco_original": 13999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17-512-gb-preto-distribuidor": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6371
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6344
+   }
+  ],
+  "preco_original": 8499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-17-pro-512gb-azul-profundo": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 10259
+   }
+  ],
+  "preco_original": 12999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "iphone-16e-128-gb-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3776
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3299
+   }
+  ],
+  "preco_original": 3665.56,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-iphone-15-128-gb-cor": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4554
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-realme-c75-5g-256gb-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1398
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1379
+   }
+  ],
+  "preco_original": 2099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "celular-smartphone-realme-note-80s-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 854.1
+   }
+  ],
+  "preco_original": 1099,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartphone-oppo-a6t-5g-256gb-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1484
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1529
+   }
+  ],
+  "preco_original": 1899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-32-lg-hd-32lr600bpsa": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1349
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1239
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-aiwa-32-android-hd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 949
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 949
+   }
+  ],
+  "preco_original": 1399.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-ls32betblggxzd-32-hd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1257
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1173
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-32-philco-roku-tv": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1010
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1394
+   }
+  ],
+  "preco_original": 1499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-lg-43-ld-wifi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1563
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1699
+   }
+  ],
+  "preco_original": 2999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-profissional-lg-43-full": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1874
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1859
+   }
+  ],
+  "preco_original": 2368.5,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-aiwa-43-android-full": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1520
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-32-ls32h5000fgxzd-hd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1087
+   }
+  ],
+  "preco_original": 1179.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-aoc-dled-32-wi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 962.1
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 962.1
+   }
+  ],
+  "preco_original": 1299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-profissional-lg-32-led": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1194
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1298
+   }
+  ],
+  "preco_original": 1599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-32-philco-p32vik-roku": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1020
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 957.72
+   }
+  ],
+  "preco_original": 1499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-32-hd-tizen": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1009
+   }
+  ],
+  "preco_original": 2100,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-h5000f-hd-32-polegadas": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1120
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1036
+   }
+  ],
+  "preco_original": 1499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-aoc-32-led-roku": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 919.08
+   }
+  ],
+  "preco_original": 1289,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-43-full-hd-f6000f": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2114
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1626
+   }
+  ],
+  "preco_original": 2299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-profissional-4k-43-lg": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1774
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1899
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-lg-uhd-ai-ua75": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1899
+   }
+  ],
+  "preco_original": 2999,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-43-philco-p43vik-roku": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1454
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1454
+   }
+  ],
+  "preco_original": 2499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-43-aoc-led-roku": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1458
+   }
+  ],
+  "preco_original": 1950,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-43-ls43f6000fgxzd-full": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1583
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1799
+   }
+  ],
+  "preco_original": 3200,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-vision-ai-tv-50-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2564
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2887
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-4k-50-lg-qned73": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3297
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3456
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-profissional-4k-50-lg": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2429
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2399
+   }
+  ],
+  "preco_original": 2999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-philco-50-p50vik-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2221
+   }
+  ],
+  "preco_original": 3499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-led-50-lh50befh4ggxzd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2266
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2399
+   }
+  ],
+  "preco_original": 3362.01,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-55-polegadas-qd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3461
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2858
+   }
+  ],
+  "preco_original": 3599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-profissional-4k-55-lg": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2698
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2509
+   }
+  ],
+  "preco_original": 3281.2,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-55-polegadas-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2621
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2930
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-led-55-lh55befh4ggxzd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2603
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2699
+   }
+  ],
+  "preco_original": 3160.21,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-un55u8100fgxzd-crystal-55-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3799
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-vision-ai-tv-55-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3799
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-samsung-led-65-lh65befh4ggxzd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3459
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3440
+   }
+  ],
+  "preco_original": 5799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-65-polegadas-qd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4599
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4559
+   }
+  ],
+  "preco_original": 4799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-philips-32-hd-32phg6910": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1089
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1139
+   }
+  ],
+  "preco_original": 1499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-32-hd-aoc-tv": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 924.81
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1009
+   }
+  ],
+  "preco_original": 1499.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-32-polegadas-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1044
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1019
+   }
+  ],
+  "preco_original": 1249,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-43-polegadas-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1566
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1533
+   }
+  ],
+  "preco_original": 1849,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-philips-43-full-hd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1699
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1789
+   }
+  ],
+  "preco_original": 1990,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-philips-50-4k-50pug7300": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1899
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2159
+   }
+  ],
+  "preco_original": 2529.45,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-lg-uhd-ai-ua75-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3663
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3469
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-43-full-hd-aoc": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1521
+   }
+  ],
+  "preco_original": 1999,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-50-polegadas-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2699
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2599
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-50-philco-ptv50va4regb-roku": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2099
+   }
+  ],
+  "preco_original": 2999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-smart-tv-55-uhd-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3263
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-43-philco-led-roku": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1493
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1478
+   }
+  ],
+  "preco_original": 2599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-4k-43-lg-uhd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2006
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2006
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-philips-50-4k-led": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2069
+   }
+  ],
+  "preco_original": 3089,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-50-lg-4k-uhd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2327
+   }
+  ],
+  "preco_original": 5000,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-pro-lg-50-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2240
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2240
+   }
+  ],
+  "preco_original": 3424,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-55-55s62-4k-uhd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2784
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2599
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-u8100f-crystal-uhd-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5322
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-65-65c6k-4k-qd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4646
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4354
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-65-crystal-65du7700-uhd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4349
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-75-polegadas-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5699
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 5199
+   }
+  ],
+  "preco_original": 5999.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-aoc-50u6125-50-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2035
+   }
+  ],
+  "preco_original": 2933.34,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-pro-lg-55-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2499
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2454
+   }
+  ],
+  "preco_original": 3879,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-philips-55-4k-55pug7300": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2740
+   }
+  ],
+  "preco_original": 2884.75,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-50-samsung-lh50bedhvggxzd-led": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2512
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2512
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-smart-tv-50-miniled-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3171
+   }
+  ],
+  "preco_original": 3799,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tcl-smart-tv-65-t6c-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3899
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-lg-65-4kuhd-25": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3599
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3599
+   }
+  ],
+  "preco_original": 4709.92,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-smart-tv-55-mini-led": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2789
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2720
+   }
+  ],
+  "preco_original": 4299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-lg-qned-ai-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3441
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-hisense-hi-qled-4k": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2285
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2379
+   }
+  ],
+  "preco_original": 3607.75,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-semp-65-polegadas-led": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3054
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4131
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-smart-tv-65-mini-led": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3675
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3508
+   }
+  ],
+  "preco_original": 5699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-hisense-hi-qled-4k-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3419
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3038
+   }
+  ],
+  "preco_original": 3999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-40s5k-qled-40-full": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1519
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-tcl-85-polegadas-qled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 9150
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6789
+   }
+  ],
+  "preco_original": 7999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smart-tv-4k-55-lg-qned": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2849
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2799
+   }
+  ],
+  "preco_original": 3901.24,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-slim-3-intel": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5019
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-go-15-intel": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3357
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3259
+   }
+  ],
+  "preco_original": 4499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-go-15-e1504": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2799
+   }
+  ],
+  "preco_original": 4199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-aspire-5-a515-45": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3569
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3566
+   }
+  ],
+  "preco_original": 5609.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-aspire-go-ag15-51p": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3376
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3059
+   }
+  ],
+  "preco_original": 4299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-gamer-acer-nitro-v-anv15": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5799
+   }
+  ],
+  "preco_original": 8369.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-gamer-lenovo-loq-e-15iax9e": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6793
+   }
+  ],
+  "preco_original": 10000,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book4-intel-core": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3592
+   }
+  ],
+  "preco_original": 5799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-15-x1504va-intel": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3899
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3899
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-v15-anv15-51-58az-13": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6887
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6525
+   }
+  ],
+  "preco_original": 7398,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-slim-3-15irh10": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5019
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-1-15iru7-intel": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3419
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3419
+   }
+  ],
+  "preco_original": 3899.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-15-m1502-amd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3366
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3599
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-go-15-amd": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3689
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3689
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book-go-windows": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2253
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2047
+   }
+  ],
+  "preco_original": 3099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-positivo-vision-c15m-minitela-celeron": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2053
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2044
+   }
+  ],
+  "preco_original": 2855.71,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-positivo-vision-c15m-intel-celeron": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1987
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1888
+   }
+  ],
+  "preco_original": 2699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-positivo-vision-c14-lumina-bar": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1739
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1739
+   }
+  ],
+  "preco_original": 2299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book4-windows-11": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3891
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-dell-inspiron-i15-i1300-a60p": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6207
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-dell-inspiron-i15-i1300-a30p": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5299
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4710
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-dell-dc15-i51334u-a50-15": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4329
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4084
+   }
+  ],
+  "preco_original": 5524,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-15-6-acer-aspire-go": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4289
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4049
+   }
+  ],
+  "preco_original": 5999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-ideapad-slim-3-ryzen-7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4199
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3999
+   }
+  ],
+  "preco_original": 4373.65,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-gamer-15-6-acer-nitro": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8628
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-aspire-go-15-ag15": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4499
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4299
+   }
+  ],
+  "preco_original": 5499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-15-intel-core": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4358
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4409
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-15-6-acer-aspire-go-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4274
+   }
+  ],
+  "preco_original": 5198,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-aspire-go-15-ag15-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3770
+   }
+  ],
+  "preco_original": 3969,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-slim3-r7-8gb-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3266
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3999
+   }
+  ],
+  "preco_original": 4699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-15-amd-ryzen": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4139
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4139
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-inspiron-i15-i1300-a80p-i7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6580
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book-go-snapdragon": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4454
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-gamer-predator-helios-neo-16": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 13999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 13999
+   }
+  ],
+  "preco_original": 15999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-gamer-acer-nitro-v15-anv15": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6699
+   }
+  ],
+  "preco_original": 10265.82,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-gamer-nitro-v15-core": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8941
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-nitro-v15-ci5-13420h": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5873
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6099
+   }
+  ],
+  "preco_original": 7999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-gamer-asus-tuf-gaming-a16": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8799
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6797
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-nitro-v15-anv15-52": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8122
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 7515
+   }
+  ],
+  "preco_original": 8999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-vaio-fe16-intel-core-i5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3219
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3039
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-aspire-go-15-i5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3999
+   }
+  ],
+  "preco_original": 7000,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-slim-3i-intel": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3289
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2879
+   }
+  ],
+  "preco_original": 3199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-slim-3-i5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3879
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3879
+   }
+  ],
+  "preco_original": 5855.71,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-15-ryzen-7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3817
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3909
+   }
+  ],
+  "preco_original": 4499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-go-15-e1504fa": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4281
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4175
+   }
+  ],
+  "preco_original": 4799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-go-core-i3": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3393
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3283
+   }
+  ],
+  "preco_original": 3799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-s14-ai-pc": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 7469
+   }
+  ],
+  "preco_original": 11599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-16-intel-core": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5849
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 7221
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-1-amd-ryzen": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3007
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2888
+   }
+  ],
+  "preco_original": 3839,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-s-14-s5406sa": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 7359
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6807
+   }
+  ],
+  "preco_original": 7999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "macbook-neo-de-13-polegadas-chip": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5440
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6092
+   }
+  ],
+  "preco_original": 7168,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "macbook-air-de-13-polegadas-chip": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 9750
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 9999
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-go-15-athlon": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2621
+   }
+  ],
+  "preco_original": 2999,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-s-14-copilot": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 9659
+   }
+  ],
+  "preco_original": 10499,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-macbook-neo-a3404-2026-13": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5595
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 6092
+   }
+  ],
+  "preco_original": 7168,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book3-360-intel": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6954
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-asus-vivobook-intel-core-i7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 5399
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book4-np750xgj-kg3br": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3761
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4199
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-1-amd-ryzen-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3477
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3071
+   }
+  ],
+  "preco_original": 3499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book6-16-copilot": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8879
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 8833
+   }
+  ],
+  "preco_original": 9299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-galaxy-book4-np750xgj-kg5br": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3205
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3649
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-samsung-book-ci7-1165g7-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5499
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-2025-macbook-pro-de-14": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 15841
+   }
+  ],
+  "preco_original": 17799,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-macbook-air-m5-512gb-16gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 11890
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-inspiron-i15-i1100-a35pf-i5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4899
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-dell-latitude-5420-i5-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3449
+   }
+  ],
+  "preco_original": 3990,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-dell-inspiron-3520-15-i7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 8720
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 8720
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-acer-aspire-5-15-6": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6980
+   }
+  ],
+  "preco_original": 8699,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "macbook-air-13-polegadas-m5-10cpu": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 9999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 9499
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "notebook-lenovo-ideapad-slim-3i-core": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4604
+   }
+  ],
+  "preco_original": 5116.47,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-a11-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1503
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1412
+   }
+  ],
+  "preco_original": 2349,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-tab-s10-lite-10": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2238
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2003
+   }
+  ],
+  "preco_original": 3599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-a11-64gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1039
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1136
+   }
+  ],
+  "preco_original": 1749,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-vaio-tl10-8gb-128gb-octa": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1543
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1499
+   }
+  ],
+  "preco_original": 1899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-positivo-vision-tab-7-processador": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 415.65
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 479
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-ipad-wifi-9th-geracao-cinza": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2620
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2343
+   }
+  ],
+  "preco_original": 2898,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-lenovo-tab-10-1-wifi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 899.1
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1049
+   }
+  ],
+  "preco_original": 1784.28,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-lenovo-idea-tab-8gb-ram": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1934
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1774
+   }
+  ],
+  "preco_original": 2099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-positivo-vision-tab-10-4gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 944.96
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 909.48
+   }
+  ],
+  "preco_original": 1259,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-nb414-minnie-4gb-64gb-7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 592.25
+   }
+  ],
+  "preco_original": 859,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-ipad-11-chip-a16-wi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3589
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-ipad-11-a3354-wi-fi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3200
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-s9-fe": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3933
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-redmi-pad-2-11": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1658
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-redmi-pad-2-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1522
+   }
+  ],
+  "preco_original": 2450,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-redmi-pad-2-11-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1519
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-a9-sm": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 999
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 995
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-patrulha-canina-4gb-ram": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 513.9
+   }
+  ],
+  "preco_original": 571,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "galaxy-tab-s10-fe-128gb-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3039
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2830
+   }
+  ],
+  "preco_original": 4799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-frozen-ii-4gb-ram": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 555.99
+   }
+  ],
+  "preco_original": 759,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-ipad-9-geracao-10-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3290
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-pad-7-tela-de": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2170
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2207
+   }
+  ],
+  "preco_original": 2399,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-nb413-mickey-4gb-64gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 427
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-m8-multi-wi-fi-64gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 705
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-s10-fe": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3249
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2932
+   }
+  ],
+  "preco_original": 3199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-s9-fe-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3279
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3279
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-s9-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 7000
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 7288
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-tab-a9-sm-x110": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1145
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-ipad-11-wi-fi-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3259
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3586
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-poco-pad-m1-12": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2040
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-redmi-pad-2-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1299
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1333
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-tab-a9-64-gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1135
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-samsung-galaxy-tab-s11-5g": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 6055
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 5752
+   }
+  ],
+  "preco_original": 8999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-multilaser-barbie-infantil-m8-nb434": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 783.07
+   }
+  ],
+  "preco_original": 1099,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-kids-8gb-ram-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 534.67
+   }
+  ],
+  "preco_original": 749.52,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-kid-pad-multi-10": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 810.56
+   }
+  ],
+  "preco_original": 1229,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-crianca-7-android-youtube": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 435.53
+   }
+  ],
+  "preco_original": 560,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-easytech-7-8gb-128gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 532.31
+   }
+  ],
+  "preco_original": 848,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-infantil-7-polegadas-android-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 412.99
+   }
+  ],
+  "preco_original": 699.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-ipad-11-geracao-a16-wi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3350
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3343
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-redmi-pad-2-256gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1349
+   }
+  ],
+  "preco_original": 1549,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tablet-xiaomi-redmi-pad-pro-12": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1938
+   }
+  ],
+  "preco_original": 2299,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-pad-2-pro-5ghz": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1849
+   }
+  ],
+  "preco_original": 2049,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-redmi-pad-2-pro-8gb": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2099
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2049
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sony-cfi-zct1w-sem-fio": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 449
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 448.99
+   }
+  ],
+  "preco_original": 799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-joystick-sem-fio-sony-playstation": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 464.07
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 448.99
+   }
+  ],
+  "preco_original": 599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-headset-gamer-havit": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 189.41
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 183.35
+   }
+  ],
+  "preco_original": 200.2,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-xbox-series-x-s-series": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 379.05
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 369
+   }
+  ],
+  "preco_original": 419.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-jbl-quantum-100m2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 164.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 168.78
+   }
+  ],
+  "preco_original": 229,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-playstation-5-slim-edicao-digital": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4199
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3989
+   }
+  ],
+  "preco_original": 4599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-qcy-h3-anc-fone-de": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 267.17
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 245.8
+   }
+  ],
+  "preco_original": 298.91,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "microsoft-xbox-series-s-512gb-standard": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3179
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3966
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-nintendo-switch-oled-nintendo-bundle": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2417
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2421
+   }
+  ],
+  "preco_original": 2699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-h510-pro-zeus-pro": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 321
+   }
+  ],
+  "preco_original": 489.66,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-playstation-5-pro-2tb-branco": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 7067
+   }
+  ],
+  "preco_original": 7599,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-playstation-5-slim-digital-pacote": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4369
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4369
+   }
+  ],
+  "preco_original": 4599.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-dualsense-playstation-5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 474.05
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-nintendo-switch-2-modelo-nacional": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4277
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4277
+   }
+  ],
+  "preco_original": 4599.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "bundle-nintendo-switch-2-mario-kart": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4899
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 4899
+   }
+  ],
+  "preco_original": 5699.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-joystick-sem-fio-sony-playstation-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 459.83
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 478.99
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-joystick-sem-fio-sony-playstation-3": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 479.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 489
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sony-dualsense-edge-ps5-cor": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1279
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1348
+   }
+  ],
+  "preco_original": 1449.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-dualsense-cfi-zct1-sem-fio": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 459.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 454
+   }
+  ],
+  "preco_original": 562.02,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-gamesir-g7-se-com-fio": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 243.32
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 261.69
+   }
+  ],
+  "preco_original": 385.11,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "super-mario-odyssey-switch-midia-fisica": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 342.07
+   }
+  ],
+  "preco_original": 433,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "super-mario-bros-wonder-nintendo-switch": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 305.96
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 309.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-redragon-zeus-lite-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 150.34
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 149.9
+   }
+  ],
+  "preco_original": 209,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-over-ear-gamer-oneodio-pro": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 155.73
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 157.7
+   }
+  ],
+  "preco_original": 319,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-havit-gamenote-h2002d-mic": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 225.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 216
+   }
+  ],
+  "preco_original": 279,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-joystick-sem-fio-microsoft-xbox": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 386
+   }
+  ],
+  "preco_original": 499,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-xbox-series-x": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 684.54
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 387.32
+   }
+  ],
+  "preco_original": 599.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-sem-fio-pulse-elite-sony": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 827.91
+   }
+  ],
+  "preco_original": 899.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-redragon-ares-pto-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 84.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 82.24
+   }
+  ],
+  "preco_original": 99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sngames-com-fio-para-xbox": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 128.38
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 135.14
+   }
+  ],
+  "preco_original": 230,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "the-legend-of-zelda-breath-of": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 303.34
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-playstation-5-midia-fisica-slim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 5999
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "nintendo-switch-oled-64gb-standard-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2450
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-switch-v2-32gb-mario-kart": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3489
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2399
+   }
+  ],
+  "preco_original": 2899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-microsoft-xbox-series-x-s": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 449
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 369.54
+   }
+  ],
+  "preco_original": 499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-astro-bot-playstation-5-midia": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 204.67
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "nintendo-switch-super-mario-party-jamboree": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 328.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 309.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-donkey-kong-country-tropical-freeze": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 326.69
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 309.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "super-smash-bros-ultimate-nintendo-switch": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 310.64
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 297.56
+   }
+  ],
+  "preco_original": 326.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mario-kart-8-deluxe-switch-midia": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 329.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 309.99
+   }
+  ],
+  "preco_original": 329.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-havit-h2002d-fone-de": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 217.45
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 217.45
+   }
+  ],
+  "preco_original": 254.32,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-qrd-spark-n5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 230.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 237.17
+   }
+  ],
+  "preco_original": 499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-microsoft-wireless-controller": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 386.75
+   }
+  ],
+  "preco_original": 455,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-gta-5-ps5-grand-theft": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 159.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 159.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-nintendo-switch-lite-32gb-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1349
+   }
+  ],
+  "preco_original": 1999.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "nintendo-switch-lite-32gb-standard-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1851
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1851
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-dualsense-edge-midnight": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1299
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1347
+   }
+  ],
+  "preco_original": 1449.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-marvel-s-spider-man-miles": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 139.98
+   }
+  ],
+  "preco_original": 299,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "unidade-de-disco-playstation-5-slim": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 729
+   }
+  ],
+  "preco_original": 771,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "crimson-desert-ps5-midia-fisica": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 314.11
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 294.96
+   }
+  ],
+  "preco_original": 442.89,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "black-myth-wukong-ps5-midia-fisica": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 327.82
+   }
+  ],
+  "preco_original": 427.81,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "nintendo-switch-sports-fisico": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 303.6
+   }
+  ],
+  "preco_original": 455.66,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "pokemon-pokopia-ns2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 409.1
+   }
+  ],
+  "preco_original": 439.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "grand-theft-auto-vi-playstation-5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 418.41
+   }
+  ],
+  "preco_original": 449.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "nintendo-switch-oled-64gb-controle-azul": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2659
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1990
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "new-super-mario-bros-u-deluxe": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 334.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 332.49
+   }
+  ],
+  "preco_original": 349.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "nintendo-switch-console-nsha07776101fgr-32gb-console": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2423
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2423
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "microsoft-xbox-series-s-512gb-kit": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 3799
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 3924
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-2-controles-para-ps4-base": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 163.55
+   }
+  ],
+  "preco_original": 240,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-microsoft-xbox-elite": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1438
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1616
+   }
+  ],
+  "preco_original": 1719.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "maquinas-portateis-de-videogame-para-adultos": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 181
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-playstation-5-pro": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 7067
+   }
+  ],
+  "preco_original": 7599,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-ps5-dualsense-edicao-limitada-marathon": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 499
+   }
+  ],
+  "preco_original": 899,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-microsof-xbox-usb-c-for": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 390.63
+   }
+  ],
+  "preco_original": 529.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ea-sports-fc-27-ps5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 316.11
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 305.58
+   }
+  ],
+  "preco_original": 379.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "onimusha-way-of-the-sword-ps5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 316.11
+   }
+  ],
+  "preco_original": 339.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-ghost-of-tsushima-director-s": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 257.91
+   }
+  ],
+  "preco_original": 399,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-gamesir-g7-pro-trimodo-para": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 572
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 539.84
+   }
+  ],
+  "preco_original": 799,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-xbox-sem-fio-compativel-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 294
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 269.5
+   }
+  ],
+  "preco_original": 490,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "rog-ally-rc73ya-nh002w-amd-ryzen": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 4224
+   }
+  ],
+  "preco_original": 7849,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fritadeira-sem-oleo-air-fryer-4l": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 249.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 249
+   }
+  ],
+  "preco_original": 716.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-turbo-power-mondial-550w-l": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 94.02
+   }
+  ],
+  "preco_original": 172.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "logitech-mouse-sem-fio-m170-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 77.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mouse-sem-fio-recarregavel-wireless-bluetooth": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 23.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 23.9
+   }
+  ],
+  "preco_original": 29.67,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fritadeira-eletrica-afon-12l-bg-forno": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 499
+   }
+  ],
+  "preco_original": 899,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-headphone-dapon-h02d": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 76.53
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 73.72
+   }
+  ],
+  "preco_original": 149,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ssd240gb-adata-2-5-su650-asu650ss": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 269.98
+   }
+  ],
+  "preco_original": 318.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-de-teto-c-controle-6": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 260.13
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 284.05
+   }
+  ],
+  "preco_original": 339,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-bvt400-maxx-force-2-em": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 158.62
+   }
+  ],
+  "preco_original": 224.45,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-de-mesa-30cm-super-power": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 110.7
+   }
+  ],
+  "preco_original": 135,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-de-mesa-mondial-super-power": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 163.13
+   }
+  ],
+  "preco_original": 222.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-philco-1200w-3l-12-velocidades": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 109.9
+   }
+  ],
+  "preco_original": 265,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-easy-power-mondial-550w-l": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 69.9
+   }
+  ],
+  "preco_original": 139.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-pratic-turbo-iii-mondial-550w": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 98.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 99.89
+   }
+  ],
+  "preco_original": 154.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-de-arroz-fast-rice-5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 138.69
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 131.76
+   }
+  ],
+  "preco_original": 244.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-bateria-de": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 23.49
+   }
+  ],
+  "preco_original": 78.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mouse-sem-fio-m280-preto-logitech": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 109
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ssd-kingston-nv3-1tb-m-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1049
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1059
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "echo-pop-smart-speaker-amazon-cor": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 449
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 496
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "escova-de-dente-eletrica-oral-b": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 119
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 89.9
+   }
+  ],
+  "preco_original": 94.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-oster-oliq610-1400w-full-3": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 178.5
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 188.4
+   }
+  ],
+  "preco_original": 299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "amazon-echo-dot-5-geracao-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 439.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 442
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "garrafa-termica-termolar-lumina-bomba-de": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 69.03
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 74.19
+   }
+  ],
+  "preco_original": 109.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "garrafa-termica-termolar-lumina-1-8": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 87.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 89.99
+   }
+  ],
+  "preco_original": 129.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "roteador-wi-fi-tp-link-tl": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 98.76
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 93.19
+   }
+  ],
+  "preco_original": 121,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-notebook-masculina-executiva-impermeavel-reforcada": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 144.54
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 149.3
+   }
+  ],
+  "preco_original": 199.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fritadeira-air-fryer-forno-oven-12l": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 589.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 579.9
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-nescafe-dolce-gusto-genio-s": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 434.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 409
+   }
+  ],
+  "preco_original": 814.8,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-nescafe-dolce-gusto-arno-genio": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 463.7
+   }
+  ],
+  "preco_original": 1099.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-nescafe-dolce-gusto-mini-me": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 426.01
+   }
+  ],
+  "preco_original": 579.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-bluetooth-jbl-boombox": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2418
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 2184
+   }
+  ],
+  "preco_original": 3199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-gamer-aoc-serie-b30-21": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 385.3
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 384.68
+   }
+  ],
+  "preco_original": 569.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-gamer-lg-ultragear-24-ips": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 693.24
+   }
+  ],
+  "preco_original": 1299,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tp-link-ex1500-roteador-wi-fi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 168.22
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 155.42
+   }
+  ],
+  "preco_original": 199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-eletrica-electrolux-vapor-arroz-capacidade": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 210.86
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 184.2
+   }
+  ],
+  "preco_original": 219.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "air-fryer-oven-philco-12l-4": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 540
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 545
+   }
+  ],
+  "preco_original": 769.41,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fritadeira-eletrica-sem-oleo-mondial-cozinha": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 314.73
+   }
+  ],
+  "preco_original": 592.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "air-fryer-elgin-facilita-fry-3": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 200
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 190
+   }
+  ],
+  "preco_original": 200,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-masculina-faculdade-impermeavel-resistente-grande": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 52.19
+   }
+  ],
+  "preco_original": 78.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-jbl-wave": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 271.26
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 271.26
+   }
+  ],
+  "preco_original": 369,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-soundcore-by-anker": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 146
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 138
+   }
+  ],
+  "preco_original": 299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-tws-philips-tat1109bk": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 115.67
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 94.02
+   }
+  ],
+  "preco_original": 199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-de-coluna-40cm-super-power": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 219.9
+   }
+  ],
+  "preco_original": 289.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-ri2244-serie-5000-com-jarra": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 360
+   }
+  ],
+  "preco_original": 450,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "liquidificador-turbo-full-mondial-900w-l": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 103.51
+   }
+  ],
+  "preco_original": 199.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-jogo-de-ferramentas-completo-c": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 133.39
+   }
+  ],
+  "preco_original": 199.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mouse-sem-fio-logitech-m190-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 60.25
+   }
+  ],
+  "preco_original": 74.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "roteador-huawei-wifi-ax2s-5-ghz": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 166
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 169
+   }
+  ],
+  "preco_original": 499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mercusys-mr30g-roteador-wifi5-ac1200-gigabit": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 129
+   }
+  ],
+  "preco_original": 199,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-de-arroz-britania-pa5-prime": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 118.38
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 111.6
+   }
+  ],
+  "preco_original": 170.52,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-oscilante-de-coluna-ventisol-turbo": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 201.9
+   }
+  ],
+  "preco_original": 287.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ventilador-oscilante-de-coluna-ventisol-30cm": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 169.9
+   }
+  ],
+  "preco_original": 194.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "roteador-wi-fi-sistema-mesh-tp": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1113
+   }
+  ],
+  "preco_original": 1397.4,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "echo-pop-amazon-compacto-com-wi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 711
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-eletrica-de-arroz-mondial-500w": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 182.9
+   }
+  ],
+  "preco_original": 199.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "roteador-action-rf-1200-wi-fi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 375.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 334
+   }
+  ],
+  "preco_original": 399.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mouse-slim-sem-fio-wireless-multilaser": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 20.24
+   }
+  ],
+  "preco_original": 40,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "power-bank-10000mah-carregador-portatil-turbo": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 41.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 41.9
+   }
+  ],
+  "preco_original": 62.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "air-fryer-oven-britania-11l-8": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 329
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 349
+   }
+  ],
+  "preco_original": 473.1,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-nespresso-essenza-mini-preta-127v": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 539
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 479
+   }
+  ],
+  "preco_original": 599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-nespresso-essenza-mini-preta": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 539
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 479
+   }
+  ],
+  "preco_original": 599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-eletrica-ecm20-30-xicaras-efficient": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 143.98
+   }
+  ],
+  "preco_original": 159.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cafeteira-espresso-luna-preta-tres-3": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 469
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 420.95
+   }
+  ],
+  "preco_original": 720,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "garrafa-termica-quick-flip-stanley-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 140.4
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 134.84
+   }
+  ],
+  "preco_original": 289,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "garrafa-termica-quick-flip-stanley-710ml": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 142.02
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 135.85
+   }
+  ],
+  "preco_original": 289,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "copo-stanley-quencher-rose-quartz-887ml": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 183.54
+   }
+  ],
+  "preco_original": 399,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-portatil-power-bank-turbo-i2go": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 155.47
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 147.02
+   }
+  ],
+  "preco_original": 329.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-portatil-power-bank-basike-20000mah": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 190.19
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 190.19
+   }
+  ],
+  "preco_original": 311.25,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "power-bank-baseus-bipow2-pro-fc51": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 178.69
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 199.49
+   }
+  ],
+  "preco_original": 286.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-jbl-tune": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 277.67
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 250
+   }
+  ],
+  "preco_original": 359,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-jbl-tune-530bt": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 200
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 199.97
+   }
+  ],
+  "preco_original": 259,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-samsung-galaxy-fit3-display-1": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 189
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 189
+   }
+  ],
+  "preco_original": 499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-bluetooth-portatil-go": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 172.2
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 172.2
+   }
+  ],
+  "preco_original": 219,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-boombox-plus-aiwa": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1379
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1329
+   }
+  ],
+  "preco_original": 2299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-aiwa-boombox-plus": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1306
+   }
+  ],
+  "preco_original": 1419.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-boombox-aiwa-aws": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1299
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1226
+   }
+  ],
+  "preco_original": 2699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-bluetooth-5-4": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1173
+   }
+  ],
+  "preco_original": 1995,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-de-mesa-dapon-articulada-abajur": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 67.8
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 67.8
+   }
+  ],
+  "preco_original": 109.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mouse-sem-fio-logitech-m280-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 79.02
+   }
+  ],
+  "preco_original": 99.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mouse-bluetooth-logitech-m196-em-cor": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 69.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 49.9
+   }
+  ],
+  "preco_original": 79.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-gamer-aoc-agon-g50-27": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 719.1
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 692.55
+   }
+  ],
+  "preco_original": 899,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-gamer-curvo-samsung-odyssey-34": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1603
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1829
+   }
+  ],
+  "preco_original": 2199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-lg-ultragear-24g411a-b-24": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 651.09
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 649
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-aoc-24-100hz-1ms-gaming": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 516
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 499
+   }
+  ],
+  "preco_original": 679,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "monitor-aoc-22-120hz-1ms-gaming": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 418.36
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 377.1
+   }
+  ],
+  "preco_original": 499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "interno-adata-ultimate-su650-asu650ss-480gt": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 579
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 543.9
+   }
+  ],
+  "preco_original": 741.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ssd-patriot-burst-240gb-pbu240gs25ssdr-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 267.71
+   }
+  ],
+  "preco_original": 367.96,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "access-point-ubiquiti-unifi-u7-lite": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 764.76
+   }
+  ],
+  "preco_original": 809.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-de-arroz-eletrica-midea-7": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 125.1
+   }
+  ],
+  "preco_original": 179,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-de-pressao-eletrica-philco-ppp01p": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 379
+   }
+  ],
+  "preco_original": 549.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "panela-de-pressao-eletrica-electrolux-5l": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 377.11
+   }
+  ],
+  "preco_original": 409.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "garrafa-termica-de-cafe-laradore-chic": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 78.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-escolar-meimi-amores-preto-capacidade": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 54.45
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 54.45
+   }
+  ],
+  "preco_original": 75.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-portatil-power-bank-turbo-20000mah": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 109.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 114.9
+   }
+  ],
+  "preco_original": 299.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-power-bank-sem-fio-samsung": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 299
+   }
+  ],
+  "preco_original": 436,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "power-bank-10000-mah-turbo-22": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 59.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 58.1
+   }
+  ],
+  "preco_original": 129,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "caixa-de-som-speaker-aiwa-aws": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 179.55
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 160.55
+   }
+  ],
+  "preco_original": 349.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-articulavel-com-porta-lapis-caneta": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 58
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 58
+   }
+  ],
+  "preco_original": 64.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "disco-solido-ssd-120gb-6gb-s": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 161.54
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 161.54
+   }
+  ],
+  "preco_original": 189.98,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ssd-armazenamento-disco-120gb-2-5": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 186
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 180
+   }
+  ],
+  "preco_original": 249.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-gamer-thunderx3-profissional-tgc12-preta": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 889
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 917.46
+   }
+  ],
+  "preco_original": 1699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "aspirador-de-po-robo-philco-3": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 434.91
+   }
+  ],
+  "preco_original": 499.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "garrafa-termica-agua-800ml-squeeze-inox": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 31.72
+   }
+  ],
+  "preco_original": 48.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-couro-masculina-impermeavel-reforcada-notebook": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 59
+   }
+  ],
+  "preco_original": 100,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-articulada-mesa-abajur-escritorio-estudo": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 47.43
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 47.43
+   }
+  ],
+  "preco_original": 59.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-de-escritorio-gamer-nitro-ergonomica": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 579.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 579.9
+   }
+  ],
+  "preco_original": 899.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "escova-dental-eletrica-infantil-funny-brush": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 150.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 150.9
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "robo-aspirador-de-po-wap-robot": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 399
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 399
+   }
+  ],
+  "preco_original": 599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-bolsa-para-notebook-15-6": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 39.13
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 44.98
+   }
+  ],
+  "preco_original": 119.98,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-fashion-basica-masculina-40l-para": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 34.9
+   }
+  ],
+  "preco_original": 39.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-s10-serie-10-relogio-digital": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 99.9
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-smartwatch-10-ultra-plus-preto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 52.5
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 52.5
+   }
+  ],
+  "preco_original": 96.8,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "mochila-notebook-17-impermeavel-reforcada-grande": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 39.74
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 39.74
+   }
+  ],
+  "preco_original": 52.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "robo-aspirador-de-po-s40-inteligente": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1139
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 1197
+   }
+  ],
+  "preco_original": 1297,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "robo-aspirador-mi-robot-vacuum-s40c": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 999.99
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 911.05
+   }
+  ],
+  "preco_original": 959,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-amazfit-active-2-smartwatch-cinza": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 825.63
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 772
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-smart-band-10-silver-amoled": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 319
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 282.28
+   }
+  ],
+  "preco_original": 339.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-mesa-abajur-quarto-articulavel-com": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 68
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 64.59
+   }
+  ],
+  "preco_original": 68,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-noturno-robo-astronauta-bluetooth-som": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 48.19
+   }
+  ],
+  "preco_original": 52.3,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-astronauta-led-infantil-estrela-branco": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 43.19
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 43.19
+   }
+  ],
+  "preco_original": 78.5,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-magnetico-monsgeek-akko-fun60-pro": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 214
+   }
+  ],
+  "preco_original": 400,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "ssd-kingston-nv3-500gb-m-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 674
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 674
+   }
+  ],
+  "preco_original": 729,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "escova-de-dente-eletrica-oral-b-2": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 199.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 199
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "robo-aspirador-xiaomi-s20-plus-b108gl": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2820
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "robo-aspirador-de-po-inteligente-xiaomi": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1457
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-inteligente-gps-smartwatch-amoled-3atm": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 287
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 276
+   }
+  ],
+  "preco_original": 599,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "luminaria-mesa-bivolt-abajur-articulada-quarto": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 38.99
+   }
+  ],
+  "preco_original": 49.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "echo-dot-5-geracao-smart-speaker": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 430
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 410
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "alexa-amazon-echo-dot-5a-geracao": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 436
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "echo-dot-5-geracao-assistente-virtual": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 450
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "escova-de-dente-eletrica-philips-colgate": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 181.18
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 173.42
+   }
+  ],
+  "preco_original": 266.56,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-mecanico-redragon-lakshmi-rainbow-brown": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 134.36
+   }
+  ],
+  "preco_original": 199.9,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-redragon-dark-avenger-qwerty-redragon": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 142.93
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 142.93
+   }
+  ],
+  "preco_original": 213,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-gamer-redragon-mitra-k551-qwerty": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 191.59
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 189.52
+   }
+  ],
+  "preco_original": 259,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-redragon-gamer-fizz-rainbow-switch": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 138.99
+   }
+  ],
+  "preco_original": 184,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-mecanico-gamer-60-switch-huano": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 137.56
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 144.8
+   }
+  ],
+  "preco_original": 249.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-haylou-4s-com-gps-integrado": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 274
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 274
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "echo-dot-5-geracao-alto-falante": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 473.58
+   }
+  ],
+  "preco_original": 649,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-de-escritorio-gamer-ergonomica-dunamis": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 572.2
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 572.2
+   }
+  ],
+  "preco_original": 899.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-de-escritorio-gamer-alpha-racer": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 505.08
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 505.08
+   }
+  ],
+  "preco_original": 838,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "robo-aspirador-xiaomi-vacuum-h50-branco": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 2270
+   }
+  ],
+  "preco_original": 2390,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "teclado-gamer-mecanico-knup-kp-te114": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 99.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-gamer-escritorio-com-apoio-para": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 519.65
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 503.24
+   }
+  ],
+  "preco_original": 547,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-gamer-ergonomica-profissional-reclinavel-x": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 467.32
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 539.9
+   }
+  ],
+  "preco_original": 847.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cadeira-gamer-jogos-setup-profissional-ergonomica": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 404.73
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 479.61
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-jogo-de-chaves-multiuso-31": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 19.39
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "maleta-estojo-kit-jogo-169-ferramentas": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 147.97
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 129.98
+   }
+  ],
+  "preco_original": 147.97,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-58-ferramentas-aco-cr-v": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 114.9
+   },
+   {
+    "data": "2026-11-06",
+    "preco": 114.9
+   }
+  ],
+  "preco_original": 129,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "20polegad-kit-de-ferramentas-eletricista-forte": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 50.99
+   }
+  ],
+  "preco_original": 79.99,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-oficina-master-maleta-com-178": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 1062
+   }
+  ],
+  "preco_original": 1180.02,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-ferramentas-46-pcs-jogo-catraca": {
+  "historico": [
+   {
+    "data": "2026-10-27",
+    "preco": 32.96
+   }
+  ],
+  "preco_original": 69,
+  "disponivel": true,
+  "atualizado": "2026-10-27T12:32:21",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-microwear-smartwatch-s11-mini-series": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 137.98
+   }
+  ],
+  "preco_original": 229.97,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-s10-serie-10-relogio-digital-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 78.9
+   }
+  ],
+  "preco_original": 183,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-smartwatch-digital-masculino-feminino-bluetooth": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 32.39
+   }
+  ],
+  "preco_original": 79,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-amazfit-bip-6-global-com": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 602.1
+   }
+  ],
+  "preco_original": 669,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-smartwatch-fb041-gps-alexa-5m": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 182.4
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-bettdow-fb041-com-gps-e": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 182.4
+   }
+  ],
+  "preco_original": 699,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-inteligente-smartwatch-t900-s10-ultra": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 59.98
+   }
+  ],
+  "preco_original": 78.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-amazfit-gts-4-mini-1": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 740
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-amazfit-balance-2-46mm-amoled": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1414
+   }
+  ],
+  "preco_original": 1489,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-inteligente-amazfit-active-max-amoled": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 923.23
+   }
+  ],
+  "preco_original": 1199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-amazfit-bip-6-smartwatch-46": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 833
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-inteligente-amazfit-bip-max-amoled": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 640.7
+   }
+  ],
+  "preco_original": 745,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "amazfit-t-rex-3-a2323-mesh": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1259
+   }
+  ],
+  "preco_original": 1589.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-samsung-galaxy-watch-8-40mm": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1248
+   }
+  ],
+  "preco_original": 2707,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-watch-ultra-47mm-lte": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 2010
+   }
+  ],
+  "preco_original": 4999,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-samsung-galaxy-watch8-lte-de": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1632
+   }
+  ],
+  "preco_original": 3099,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-galaxy-watch6-classic-lte-47mm": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1699
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-watch5-bt-40mm-cinza": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1500
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-watch-se-gps-40mm-caixa": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1750
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-watch-se-3-gps-caixa": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1979
+   }
+  ],
+  "preco_original": 3299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-watch-se-3-gps-caixa-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 2567
+   }
+  ],
+  "preco_original": 3299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-watch-series-11-gps-caixa": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 2449
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "apple-watch-series-11-gps-caixa-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 3257
+   }
+  ],
+  "preco_original": 5499,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-smart-band-mi-band-9": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 169
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-mi-xiaomi-smart-band-10": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 390.15
+   }
+  ],
+  "preco_original": 459,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "pulseira-inteligente-xiaomi-smart-band-9": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 211.85
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "relogio-smartwatch-xiaomi-mi-band-10": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 299
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "pulseira-inteligente-smart-band-h59-preto": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 219.9
+   }
+  ],
+  "preco_original": 299.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartwatch-xiaomi-smart-band-10-1": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 258
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "atacado-5-pulseiras-para-xiaomi-mi": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 27.55
+   }
+  ],
+  "preco_original": 55.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "xiaomi-smart-band-10-pink-amoled": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 305
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "smartband-xiaomi-smart-band-9-active": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 188.81
+   }
+  ],
+  "preco_original": 239,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-bluetooth-samsung-galaxy-buds-core": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 199.14
+   }
+  ],
+  "preco_original": 349,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-qcy-t17-bluetooth-5-1": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 115.43
+   }
+  ],
+  "preco_original": 197,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-5-1": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 24.79
+   }
+  ],
+  "preco_original": 49.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-headphone-dapon-h02d-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 73.72
+   }
+  ],
+  "preco_original": 149,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-dapon-h02d": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 73.72
+   }
+  ],
+  "preco_original": 149,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-sem-fio": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 245.42
+   }
+  ],
+  "preco_original": 369,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-ear-cuff-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 143.4
+   }
+  ],
+  "preco_original": 239,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-5-4": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 47.97
+   }
+  ],
+  "preco_original": 78.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-ouvido-bluetooth-5-4-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 49.7
+   }
+  ],
+  "preco_original": 78.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-sem-fio-tws": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 104.13
+   }
+  ],
+  "preco_original": 199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-ouvido-bluetooth-compativel-com-iphone": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 48.91
+   }
+  ],
+  "preco_original": 78.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-bluetooth-5-4-sem-fio": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 38.56
+   }
+  ],
+  "preco_original": 49.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-headphone-jbl-tune-520bt-bluetooth": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 198.85
+   }
+  ],
+  "preco_original": 329.19,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jbl-fone-de-ouvido-on-ear": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 379
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-jbl-tune-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 409
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-in-ear-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 318
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fones-de-ouvido-true-wireless-jbl": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 257.34
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-buds-core-branco": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 269
+   }
+  ],
+  "preco_original": 349,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-galaxy-buds-fe": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 599
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "samsung-galaxy-buds-3-pro-cinza": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1131
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-bluetooth-samsung-galaxy": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 1486
+   }
+  ],
+  "preco_original": 1749,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fones-de-ouvido-usb-c-tipo": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 22.3
+   }
+  ],
+  "preco_original": 59.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fones-de-ouvido-tipo-c-intra": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 21.33
+   }
+  ],
+  "preco_original": 63.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-com-fio-philips": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 45.9
+   }
+  ],
+  "preco_original": 58.7,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-tipo-c-com": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 19
+   }
+  ],
+  "preco_original": 23.75,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-com-fio-usb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 21.55
+   }
+  ],
+  "preco_original": 47.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-entrada-tipo-c": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 25.99
+   }
+  ],
+  "preco_original": 47.14,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-logitech-h390-usb-a-com": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 165.67
+   }
+  ],
+  "preco_original": 229.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-com-fio-e": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 32.5
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-intra-auricular-com": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 69.25
+   }
+  ],
+  "preco_original": 99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-headset-over-ear": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 85.4
+   }
+  ],
+  "preco_original": 109,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-com-fio-c50hi": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 57.99
+   }
+  ],
+  "preco_original": 79,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headphone-gamer-havit-h630bt-bluetooth-5": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 105.05
+   }
+  ],
+  "preco_original": 199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headphone-dapon-h02d-bluetooth-5-1": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 73.72
+   }
+  ],
+  "preco_original": 149,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headphone-havit-h630bt-bluetooth-5-3": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 104.13
+   }
+  ],
+  "preco_original": 199,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headphone-philips-bluetooth-e-energia-para": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 105.72
+   }
+  ],
+  "preco_original": 239,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-qcy-h2-enc-fone-de": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 139
+   }
+  ],
+  "preco_original": 237,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "grand-theft-auto-vi-playstation-5-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 413.91
+   }
+  ],
+  "preco_original": 449.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-grand-theft-auto-vi-edicao": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 449.9
+   }
+  ],
+  "preco_original": 529,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "grand-theft-auto-v-gta-5": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 140.67
+   }
+  ],
+  "preco_original": 197.43,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "jogo-grand-theft-auto-v-gta": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 139.17
+   }
+  ],
+  "preco_original": 202.49,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "gta-the-trilogy-definitive-edition-ps4": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 145.47
+   }
+  ],
+  "preco_original": 227.81,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-gamesir-t4-nova-lite-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 160.34
+   }
+  ],
+  "preco_original": 299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "gamesir-t4-nova-lite-gamepad-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 174.5
+   }
+  ],
+  "preco_original": 198,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-gamepad-gamesir-x5-lite-usb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 147.15
+   }
+  ],
+  "preco_original": 249,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-gamesir-nova-lite-2-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 184.14
+   }
+  ],
+  "preco_original": 275.11,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controlador-sem-fio-gamesir-t4-nova": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 150.26
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controlador-de-pc-sem-fio-gamesir": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 169.51
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-flydigi-vader-4-pro-bluetooth": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 504.27
+   }
+  ],
+  "preco_original": 749,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-flydigi-direwolf-3-wireless-1000hz": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 309
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "flydigi-vader-5-pro-controle-hall": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 679.9
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-flydigi-apex-4-elite-bluetooth": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 799
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-playstation-dualshock-4-sony-cor": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 128.9
+   }
+  ],
+  "preco_original": 299.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-joystick-redfin-bluetooth": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 52
+   }
+  ],
+  "preco_original": 114.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-manete-bluetooth-joystick": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 50.5
+   }
+  ],
+  "preco_original": 120,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-2-controle-para-ps4-sem": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 99.9
+   }
+  ],
+  "preco_original": 170,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-joystick-sem-fio-ipega-pg": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 124
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-2-controle-joystick-bluetooth-compativel": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 69.49
+   }
+  ],
+  "preco_original": 78.97,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "controle-sem-fio-bluetooth-para-p4": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 51.9
+   }
+  ],
+  "preco_original": 129.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-2-controles-compativel-para-ps4": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 108.9
+   }
+  ],
+  "preco_original": 165.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-2-controles-para-tv-samsung": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 170.2
+   }
+  ],
+  "preco_original": 199.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-gamer-headset-rgb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 47.43
+   }
+  ],
+  "preco_original": 69.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-havit-h2230d-com-microfone": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 95.97
+   }
+  ],
+  "preco_original": 189,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-evolut-gamer-rival-led-rainbow": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 51.49
+   }
+  ],
+  "preco_original": 78,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-headset-office-usb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 44.9
+   }
+  ],
+  "preco_original": 62.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-epm-imports-rgb-led": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 58.1
+   }
+  ],
+  "preco_original": 78.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-fortrek-hsl-102-over": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 42.2
+   }
+  ],
+  "preco_original": 63.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-hyperx-cloud-stinger-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 159.84
+   }
+  ],
+  "preco_original": 299,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "fone-de-ouvido-gamer-headset-havit": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 128.15
+   }
+  ],
+  "preco_original": 141,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "headset-gamer-evolut-eg306-led-rainbow": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 59.05
+   }
+  ],
+  "preco_original": 78.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "conversor-retro-game-stick-m15-4k": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 199.98
+   }
+  ],
+  "preco_original": 299.98,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-portatil-videogame-stick-jogos-retro": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 238.2
+   }
+  ],
+  "preco_original": 399,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "adaptador-videogame-game-stick-m15-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 219.9
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "conversor-video-game-4k-hdmi-adaptador": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 174.62
+   }
+  ],
+  "preco_original": 189.8,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tela-game-console-portatil-retro-r36s": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 260
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "tela-game-portatil-retro-r36s-64gb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 249.9
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "128g-r36s-pro-portable-ips-consola": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 217.86
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "console-portatil-m15-4k-hdmi-2": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 227.14
+   }
+  ],
+  "preco_original": 259.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "r36s-arkos-retro-portatil-128gb-1gb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 287.56
+   }
+  ],
+  "preco_original": 355,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "baseus-carregador-de-parede-turbo-20w": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 109.98
+   }
+  ],
+  "preco_original": 169,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-30w-turbo-para-iphone-8": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 44
+   }
+  ],
+  "preco_original": 99.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-turbo-super-rapido-30w-para": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 38.66
+   }
+  ],
+  "preco_original": 78.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-turbo-super-rapido-40w-para": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 36.5
+   }
+  ],
+  "preco_original": 59.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-turbo-40w-para-iphone-11": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 39.7
+   }
+  ],
+  "preco_original": 49.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-turbo-baseus-20w-com-cabo": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 129.86
+   }
+  ],
+  "preco_original": 179,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-fonte-apple-iphone-ipad-turbo": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 137
+   }
+  ],
+  "preco_original": 247,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-apple-iphone-usb-c-power": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 101.85
+   }
+  ],
+  "preco_original": 350,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-fonte-apple-20w-iphone-15": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 78.21
+   }
+  ],
+  "preco_original": 189.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-super-rapido-25w-para-samsung": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 32.9
+   }
+  ],
+  "preco_original": 78.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-original-samsung-turbo-s25-s24": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 136.99
+   }
+  ],
+  "preco_original": 149.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "plus-do-brasil-carregador-super-rapido": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 59.99
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-turbo-de-parede-boyu-cell": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 29.9
+   }
+  ],
+  "preco_original": 59.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "plus-do-brasil-cabo-usb-turbo": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 19.09
+   }
+  ],
+  "preco_original": 49.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cabo-usb-tipo-c-para-tipo": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 26.9
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cabo-usb-carregador-celular-tipo-c": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 26.32
+   }
+  ],
+  "preco_original": 32.9,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "cabo-carregador-usb-c-tipo-c": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 19.79
+   }
+  ],
+  "preco_original": 39.99,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "kit-carregador-veicular-turbo-60w-usb": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 31.98
+   }
+  ],
+  "preco_original": 38.28,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-veicular-premione-turbo-60w-com": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 28.98
+   }
+  ],
+  "preco_original": 39.7,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "carregador-veicular-turbo-60w-a-gold": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 29.82
+   }
+  ],
+  "preco_original": 35.09,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ },
+ "amazfit-bip-6": {
+  "historico": [
+   {
+    "data": "2026-11-06",
+    "preco": 589.88
+   }
+  ],
+  "preco_original": null,
+  "disponivel": true,
+  "atualizado": "2026-11-06T09:48:31",
+  "fonte": "busca do Mercado Livre"
+ }
+}

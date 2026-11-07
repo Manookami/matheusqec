@@ -1,0 +1,10 @@
+site/dist/
+bot_whatsapp/saida/
+__pycache__/
+.claude/
+# chave do Mercado Livre: só existe no computador do Matheus, nunca vai pro GitHub
+.segredos/
+# vídeos e quadros do motion (pesados)
+motion/*.mp4
+motion/*.png
+motion/*.wav
