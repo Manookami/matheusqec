@@ -73,21 +73,43 @@ def foto(pics):
     return None
 
 
+REPUTACAO_BOA = ("4_light_green", "5_green")
+_vendedores = {}  # reputação já consultada nesta rodada
+
+
+def vendedor_confiavel(oferta, token):
+    """Loja oficial ou vendedor com reputação verde. Conta nova sem reputação costuma ter o preço
+    "bom demais" (ex.: DualSense Edge a R$ 607 quando custa R$ 1.300) e não entra no site."""
+    if oferta.get("official_store_id"):
+        return True
+    vid = oferta.get("seller_id")
+    if vid not in _vendedores:
+        try:
+            rep = pedir(f"/users/{vid}", token).get("seller_reputation") or {}
+            _vendedores[vid] = rep.get("level_id") in REPUTACAO_BOA
+        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
+            return False  # não deu para conferir: não arrisca
+    return _vendedores[vid]
+
+
 def consulta_produto(mlb, token):
     """Produto de catálogo (/p/MLB...): o preço que a pessoa vê ao abrir a página é o do vendedor em
-    destaque (buy box); sem ele, a oferta mais barata entre os vendedores."""
+    destaque (buy box, escolhido pelo próprio ML); sem ele, a oferta mais barata de vendedor confiável."""
     cat = pedir(f"/products/{mlb}", token)
+    imagem = foto(cat.get("pictures"))
     melhor = cat.get("buy_box_winner")
     if not (melhor and melhor.get("price")):
         try:
             ofertas = pedir(f"/products/{mlb}/items?limit=50", token).get("results", [])
         except urllib.error.HTTPError:
             ofertas = []
-        ofertas = [o for o in ofertas if o.get("price")]
-        melhor = min(ofertas, key=lambda o: o["price"]) if ofertas else None
-    imagem = foto(cat.get("pictures"))
-    if not melhor:
-        return {"disponivel": False, "imagem": imagem}
+        ofertas = sorted((o for o in ofertas if o.get("price") and o.get("condition", "new") == "new"),
+                         key=lambda o: o["price"])
+        if not ofertas:
+            return {"disponivel": False, "imagem": imagem}
+        melhor = next((o for o in ofertas[:12] if vendedor_confiavel(o, token)), None)
+        if not melhor:  # só tem vendedor sem reputação: não mostra preço (o site cai em "Ver preço")
+            return {"disponivel": True, "preco": None, "imagem": imagem}
     return {
         "disponivel": True,
         "preco": melhor["price"],

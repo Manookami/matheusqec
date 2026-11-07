@@ -103,6 +103,7 @@ DESCONTO_MIN = 0.05       # queda mínima para valer como desconto
 PRECO_VALIDO_DIAS = 3     # preço mais velho que isso vira "Ver preço no Mercado Livre"
 DESCONTO_MAX = 0.60       # acima disso não é promoção: costuma ser golpe ou anúncio errado
 DESCONTO_MIN_LEITURAS = 3 # leituras de preço necessárias (com o robô diário, isso sai em 3 dias)
+DESCONTO_CONFIRMAR = 0.30 # queda desse tamanho ou maior precisa aparecer em 2 leituras seguidas
 
 
 def desconto_real(h, hoje_iso=None):
@@ -126,6 +127,8 @@ def desconto_real(h, hoje_iso=None):
     queda = 1 - atual["preco"] / referencia
     if queda < DESCONTO_MIN or queda > DESCONTO_MAX:  # queda absurda = anúncio suspeito ou erro, não promoção
         return None
+    if queda >= DESCONTO_CONFIRMAR and h[-2]["preco"] > atual["preco"] * 1.05:
+        return None  # queda grande que apareceu num dia só: espera a próxima leitura confirmar
     return {"referencia": referencia, "desconto": round(100 * queda)}
 
 
