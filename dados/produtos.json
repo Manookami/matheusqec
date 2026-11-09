@@ -2207,7 +2207,9 @@
    "afiliado": "https://meli.la/1JwyAxW",
    "ml": "https://www.mercadolivre.com.br/notebook-gamer-lenovo-loq-e-15iax9e-intel-core-i5-12450hx-16gb-512gb-ssd-rtx-3050-windows-11-156-83me0007br-luna-grey/p/MLB46018205",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_834206-MLA99852609423_112025-O.webp",
-   "videos": [],
+   "videos": [
+    "notebooks-faixas"
+   ],
    "busca": "notebook gamer lenovo loq e 15iax9e intel core i5 12450hx 16gb 512gb",
    "vendidos": 10000,
    "nota": 4.9
@@ -2394,7 +2396,10 @@
    "afiliado": "https://meli.la/32yHNEw",
    "ml": "https://www.mercadolivre.com.br/notebook-ideapad-slim-3-ryzen-7-7735hs-8gb-512gb-ssd-amd-radeon-graphics-153-1920x1200-linux-83mms00100/p/MLB62305743",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_610078-MLA100473387869_122025-O.webp",
-   "videos": [],
+   "videos": [
+    "notebooks-faixas",
+    "notebooks4500"
+   ],
    "busca": "notebook ideapad slim 3 ryzen 7 7735hs 8gb 512gb ssd amd radeon",
    "vendidos": 5000,
    "nota": 4.9
@@ -3205,17 +3210,6 @@
    "vendidos": 5000,
    "nota": 4.5
   },
-  "tablet-m8-multi-wi-fi-64gb": {
-   "nome": "Tablet M8 Multi Wi-fi 64gb 8 Pol 4gb Ram Android 13 - Nb426 Cor Cinza",
-   "categoria": "tablets",
-   "afiliado": "https://meli.la/1RM8yVE",
-   "ml": "https://www.mercadolivre.com.br/tablet-m8-multi-wi-fi-64gb-8-pol-4gb-ram-android-13-nb426-cor-cinza/p/MLB37612651",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_977482-MLA99966370489_112025-O.webp",
-   "videos": [],
-   "busca": "tablet m8 multi wi fi 64gb 8 pol 4gb ram android 13",
-   "vendidos": 5000,
-   "nota": 4.4
-  },
   "tablet-samsung-galaxy-tab-s10-fe": {
    "nome": "Tablet Samsung Galaxy Tab S10 Fe+ Wifi 128gb 8gb 13.1 cor Azul",
    "categoria": "tablets",
@@ -3325,64 +3319,6 @@
    "busca": "tablet multilaser barbie infantil m8 nb434 wi fi 4 64gb cor rosa",
    "vendidos": 500,
    "nota": 4.7
-  },
-  "tablet-infantil-kids-8gb-ram-128gb": {
-   "nome": "Tablet Infantil Kids 8gb Ram + 128gb Com Capa, Jogos, Videos",
-   "categoria": "tablets",
-   "afiliado": "https://meli.la/2v7Uz2o",
-   "ml": "https://www.mercadolivre.com.br/tablet-infantil-kids-8gb-ram--128gb-com-capa-jogos-videos/up/MLBU3381822831",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_792337-MLB116673291962_092026-O.webp",
-   "videos": [],
-   "busca": "tablet infantil kids 8gb ram 128gb com capa jogos videos",
-   "vendidos": 500,
-   "nota": 4.5,
-   "item": "MLB7499470940"
-  },
-  "tablet-infantil-kid-pad-multi-10": {
-   "nome": "Tablet Infantil Kid Pad Multi 10.1 Pol 6gb Ram 128gb Nb425",
-   "categoria": "tablets",
-   "afiliado": "https://meli.la/2NLErbC",
-   "ml": "https://www.mercadolivre.com.br/tablet-infantil-kid-pad-multi-101-pol-6gb-ram-128gb-nb425/p/MLB38552545",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_915792-MLA99536119614_122025-O.webp",
-   "videos": [],
-   "busca": "tablet infantil kid pad multi 10 1 pol 6gb ram 128gb nb425",
-   "vendidos": 500,
-   "nota": 4.4
-  },
-  "tablet-infantil-crianca-7-android-youtube": {
-   "nome": "Tablet Infantil Criança 7 Android Youtube Controle Parental",
-   "categoria": "tablets",
-   "afiliado": "https://meli.la/2SPimZU",
-   "ml": "https://www.mercadolivre.com.br/tablet-infantil-crianca-7--android-youtube-controle-parental/up/MLBU5554736620",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744809-MLB119508610485_102026-O.webp",
-   "videos": [],
-   "busca": "tablet infantil crianca 7 android youtube controle parental",
-   "vendidos": 500,
-   "nota": 4.4,
-   "item": "MLB7822144134"
-  },
-  "tablet-infantil-easytech-7-8gb-128gb": {
-   "nome": "Tablet Infantil Easytech 7 8gb 128gb Android 15",
-   "categoria": "tablets",
-   "afiliado": "https://meli.la/2K9Q9PV",
-   "ml": "https://www.mercadolivre.com.br/tablet-infantil-easytech-7-8gb-128gb-android-15/up/MLBU5303130286",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_707676-MLB118192605215_092026-O.webp",
-   "videos": [],
-   "busca": "tablet infantil easytech 7 8gb 128gb android 15",
-   "vendidos": 500,
-   "nota": 4.4,
-   "item": "MLB5288921065"
-  },
-  "tablet-infantil-7-polegadas-android-8gb": {
-   "nome": "Tablet Infantil 7 Polegadas Android 8gb Ram 128gb Kids Wifi Rosa",
-   "categoria": "tablets",
-   "afiliado": "https://meli.la/2uqgjtc",
-   "ml": "https://www.mercadolivre.com.br/tablet-infantil-7-polegadas-android-8gb-ram-128gb-kids-wifi-rosa/p/MLB64076350",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_948446-MLA104260268749_012026-O.webp",
-   "videos": [],
-   "busca": "tablet infantil 7 polegadas android 8gb ram 128gb kids wifi rosa",
-   "vendidos": 500,
-   "nota": 4.4
   },
   "apple-ipad-11-geracao-a16-wi": {
    "nome": "Apple iPad 11 Geração A16 Wi-fi 128gb",
@@ -3514,17 +3450,6 @@
    "vendidos": 100000,
    "nota": 4.9
   },
-  "fone-de-ouvido-bluetooth-bateria-de": {
-   "nome": "Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Fast Plug",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/13AjR2U",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-fast-plug-com-case-carregador-e-microfone/p/MLB25263382",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_846832-MLA115693573446_092026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido bluetooth bateria de longa duracao pro 4 branco conecta",
-   "vendidos": 100000,
-   "nota": 4.4
-  },
   "fone-bluetooth-samsung-galaxy-buds-core": {
    "nome": "Fone Bluetooth Samsung Galaxy Buds Core Preto",
    "categoria": "vestiveis",
@@ -3590,39 +3515,6 @@
    "busca": "fone qcy t17 bluetooth 5 1 modo game e cancelamento de ruido",
    "vendidos": 50000,
    "nota": 4.8
-  },
-  "fone-de-ouvido-bluetooth-5-1": {
-   "nome": "Fone De Ouvido Bluetooth 5.1 Sem Fio Tws Wireless Bateria Longa Duração E Conexão Rápida C",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2e53Zuc",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-51-sem-fio-tws-wireless-bateria-longa-duracao-e-conexao-rapida-coolmusic/p/MLB53911392",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_960127-MLA109738568733_032026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido bluetooth 5 1 sem fio tws wireless bateria longa",
-   "vendidos": 50000,
-   "nota": 4.7
-  },
-  "fone-de-ouvido-bluetooth-5-4": {
-   "nome": "Fone de Ouvido Bluetooth 5.4 Tws Sem Fio com Microfone HD Anti Ruido A Prova D'água Compat",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2qhN6Sz",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-54-tws-sem-fio-com-microfone-hd-anti-ruido-a-prova-dagua-compativel-iphone-samsung-xiaomi-motorola-redmi-android-ios-para-esporte-academia-trabalho-game/p/MLB62925400",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_860988-MLA118645111510_102026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido bluetooth 5 4 tws sem fio com microfone hd",
-   "vendidos": 50000,
-   "nota": 4.8
-  },
-  "fone-ouvido-bluetooth-5-4-sem": {
-   "nome": "Fone Ouvido Bluetooth 5.4 Sem Fio Portatil Estojo De Carregamento Anti Ruido Resistente a ",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1LQKLXw",
-   "ml": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-54-sem-fio-portatil-estojo-de-carregamento-anti-ruido-resistente-a-agua-compativel-com-ios-samsung-galaxy-android-tws-wireless-air-premium-microfone-touch-marca-pro-phone-see/p/MLB58519492",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_646535-MLA113987983224_072026-O.webp",
-   "videos": [],
-   "busca": "fone ouvido bluetooth 5 4 sem fio portatil estojo de carregamento anti",
-   "vendidos": 50000,
-   "nota": 4.7
   },
   "fone-headphone-jbl-tune-520bt-bluetooth": {
    "nome": "Fone Headphone JBL Tune 520BT Bluetooth Branco",
@@ -3712,28 +3604,6 @@
    "vendidos": 10000,
    "nota": 4.9
   },
-  "smartwatch-s10-serie-10-relogio-digital": {
-   "nome": "Smartwatch S10 Série 10 Relógio Digital Masculino Feminino Resistente A Agua Caixa preto",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1FW31kN",
-   "ml": "https://www.mercadolivre.com.br/smartwatch-s10-serie-10-relogio-digital-masculino-feminino-resistente-a-agua-caixa-preto-com-1-pulseiras-smartwatch-completo-compativel-android-e-ios-monitor-atividades-3tech-liso-preto/p/MLB65103392",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_722013-MLA118136951298_102026-O.webp",
-   "videos": [],
-   "busca": "smartwatch s10 serie 10 relogio digital masculino feminino resistente a agua caixa",
-   "vendidos": 10000,
-   "nota": 4.6
-  },
-  "relogio-smartwatch-10-ultra-plus-preto": {
-   "nome": "Relogio Smartwatch 10 Ultra Plus Preto Tela AMOLED Monitor Saúde GPS Bluetooth",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2Z4AvNK",
-   "ml": "https://www.mercadolivre.com.br/relogio-smartwatch-10-ultra-plus-preto-tela-amoled-monitor-saude-gps-bluetooth/p/MLB59323062",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_792783-MLA99508638586_112025-O.webp",
-   "videos": [],
-   "busca": "relogio smartwatch 10 ultra plus preto tela amoled monitor saude gps bluetooth",
-   "vendidos": 10000,
-   "nota": 4.6
-  },
   "relogio-amazfit-active-2-smartwatch-cinza": {
    "nome": "Relógio Amazfit Active 2 Smartwatch Cinza Preto",
    "categoria": "vestiveis",
@@ -3755,50 +3625,6 @@
    "busca": "xiaomi smart band 10 silver amoled 1 72 1500 nits bateria de",
    "vendidos": 10000,
    "nota": 4.9
-  },
-  "relogio-inteligente-gps-smartwatch-amoled-3atm": {
-   "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2eP8zgt",
-   "ml": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-preto/p/MLB62756066",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_984233-MLA105531058053_012026-O.webp",
-   "videos": [],
-   "busca": "relogio inteligente gps smartwatch amoled 3atm sport gps caixa preto",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
-  "relogio-microwear-smartwatch-s11-mini-series": {
-   "nome": "Relógio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc 2026 Preto SMARTWATC",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1Lkf27d",
-   "ml": "https://www.mercadolivre.com.br/relogio-microwear-smartwatch-s11-mini-series-11-42mm-whatsapp-gps-nfc-2026-preto-smartwatch-advanced-pro/p/MLB65770866",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_846130-MLA115733905971_082026-O.webp",
-   "videos": [],
-   "busca": "relogio microwear smartwatch s11 mini series 11 42mm whatsapp gps nfc 2026",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
-  "smartwatch-s10-serie-10-relogio-digital-2": {
-   "nome": "Smartwatch S10 Série 10 Relógio Digital Masculino Feminino Resistente A Agua Caixa Preta C",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2aHmCN8",
-   "ml": "https://www.mercadolivre.com.br/smartwatch-s10-serie-10-relogio-digital-masculino-feminino-resistente-a-agua-caixa-preta-com-2-pulseiras-smartwatch-completo-compativel-android-e-ios-monitor-atividades-3-tech-preto-liso/p/MLB64997788",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_892588-MLA113463134832_072026-O.webp",
-   "videos": [],
-   "busca": "smartwatch s10 serie 10 relogio digital masculino feminino resistente a agua caixa",
-   "vendidos": 10000,
-   "nota": 4.6
-  },
-  "relogio-smartwatch-digital-masculino-feminino-bluetooth": {
-   "nome": "Relogio Smartwatch Digital Masculino / Feminino Bluetooth Ios Android 41mm Preto Allphone",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2t31j1K",
-   "ml": "https://www.mercadolivre.com.br/relogio-smartwatch-digital-masculino-feminino-bluetooth-ios-android-41mm-preto-allphone/p/MLB58589267",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_726730-MLA99599211160_122025-O.webp",
-   "videos": [],
-   "busca": "relogio smartwatch digital masculino feminino bluetooth ios android 41mm preto allphone",
-   "vendidos": 10000,
-   "nota": 4.4
   },
   "smartwatch-amazfit-bip-6-global-com": {
    "nome": "Smartwatch Amazfit Bip 6 Global com GPS, Alexa e Tela AMOLED 1.97\"",
@@ -3899,29 +3725,6 @@
    "vendidos": 10000,
    "nota": 4.8
   },
-  "fone-ouvido-bluetooth-compativel-com-iphone": {
-   "nome": "Fone Ouvido Bluetooth Compatível Com Iphone X Xr 11 12 13 14 15 16 17 Xs Pro Max Plus Sams",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1bTcw83",
-   "ml": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-compativel-com-iphone-x-xr-11-12-13-14-15-16-17-xs-pro-max-plus-samsung-s20-s23-s24-xiaomi-motorola-android-ios-sem-fio-prova-dagua-wireless-tipo-light-marca-pro-phone-see/p/MLB67291937",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_793840-MLA109795835063_032026-O.webp",
-   "videos": [],
-   "busca": "fone ouvido bluetooth compativel com iphone x xr 11 12 13 14",
-   "vendidos": 10000,
-   "nota": 4.7
-  },
-  "fone-bluetooth-5-4-sem-fio": {
-   "nome": "Fone Bluetooth 5.4 Sem Fio Tws Kaidi Kd780 Graves Potentes",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2asxcoG",
-   "ml": "https://www.mercadolivre.com.br/fone-bluetooth-54-sem-fio-tws-kaidi-kd780-graves-potentes/up/MLBU3739968160",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_897386-MLB104467412096_012026-O.webp",
-   "videos": [],
-   "busca": "fone bluetooth 5 4 sem fio tws kaidi kd780 graves potentes",
-   "vendidos": 10000,
-   "nota": 4.8,
-   "item": "MLB6176109010"
-  },
   "fone-de-ouvido-bluetooth-jbl-tune-2": {
    "nome": "Fone De Ouvido Bluetooth Jbl Tune Flex 2 Preto",
    "categoria": "vestiveis",
@@ -3999,28 +3802,6 @@
    "vendidos": 10000,
    "nota": 4.8
   },
-  "fones-de-ouvido-usb-c-tipo": {
-   "nome": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle C",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2KvnpnS",
-   "ml": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-15-16-17-18-android-samsung-xiaomi-motorola-plug-play-premium-eletric-teck/p/MLB65764004",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-O.webp",
-   "videos": [],
-   "busca": "fones de ouvido usb c tipo c com microfone integrado som estereo",
-   "vendidos": 10000,
-   "nota": 4.7
-  },
-  "fones-de-ouvido-tipo-c-intra": {
-   "nome": "Fones De Ouvido Tipo C Intra Auricular Com Microfone Controle Volume Som Estéreo Grave For",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2BtrQwi",
-   "ml": "https://www.mercadolivre.com.br/fones-de-ouvido-tipo-c-intra-auricular-com-microfone-controle-volume-som-estereo-grave-forte-cabo-nylon-resistente-compativel-android-samsung-xiaomi-iphone-15-16-17-usb-c-premium-eletric-teck/p/MLB66909605",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_657199-MLA109111927843_032026-O.webp",
-   "videos": [],
-   "busca": "fones de ouvido tipo c intra auricular com microfone controle volume som",
-   "vendidos": 10000,
-   "nota": 4.6
-  },
   "headphone-gamer-havit-h630bt-bluetooth-5": {
    "nome": "Headphone Gamer Havit H630bt Bluetooth 5.3 On-ear 3d 55h Cor Preto",
    "categoria": "vestiveis",
@@ -4087,17 +3868,6 @@
    "vendidos": 5000,
    "nota": 4.8
   },
-  "relogio-smartwatch-fb041-gps-alexa-5m": {
-   "nome": "Relógio Smartwatch Fb041 Gps Alexa 5m/ip68 Preto 1 1#",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1rXk7rp",
-   "ml": "https://www.mercadolivre.com.br/relogio-smartwatch-fb041-gps-alexa-5mip68-preto-1-1/p/MLB79071610",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_631327-MLA115895643410_092026-O.webp",
-   "videos": [],
-   "busca": "relogio smartwatch fb041 gps alexa 5m ip68 preto 1 1",
-   "vendidos": 5000,
-   "nota": 4.8
-  },
   "smartwatch-bettdow-fb041-com-gps-e": {
    "nome": "Smartwatch Bettdow FB041 com GPS e Alexa Integrados Resistente à Água",
    "categoria": "vestiveis",
@@ -4109,17 +3879,6 @@
    "vendidos": 5000,
    "nota": 4.8
   },
-  "relogio-inteligente-smartwatch-t900-s10-ultra": {
-   "nome": "Relogio Inteligente Smartwatch T900 S10 Ultra Pro longa bateria Treino Smartwatch 49mm Blu",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2vJPgnG",
-   "ml": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-t900-s10-ultra-pro-longa-bateria-treino-smartwatch-49mm-bluetooth-chamadas-notificacoes-saude/p/MLB75012346",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_603284-MLA119336961163_102026-O.webp",
-   "videos": [],
-   "busca": "relogio inteligente smartwatch t900 s10 ultra pro longa bateria treino smartwatch 49mm",
-   "vendidos": 5000,
-   "nota": 4.6
-  },
   "apple-watch-se-gps-40mm-caixa": {
    "nome": "Apple Watch SE (GPS, 40mm) Caixa De Alumínio Cinza-espacial Pulseira Esportiva Preto",
    "categoria": "vestiveis",
@@ -4130,16 +3889,6 @@
    "busca": "apple watch se gps 40mm caixa de aluminio cinza espacial pulseira esportiva",
    "vendidos": 5000,
    "nota": 4.8
-  },
-  "atacado-5-pulseiras-para-xiaomi-mi": {
-   "nome": "Atacado 5 Pulseiras Para Xiaomi Mi Band 5/6/7 Premium Pulseira Preto",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1rFPLqA",
-   "ml": "https://www.mercadolivre.com.br/atacado-5-pulseiras-para-xiaomi-mi-band-567-premium-pulseira-preto/p/MLB74252573",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_699375-MLA113556663369_062026-O.webp",
-   "videos": [],
-   "busca": "atacado 5 pulseiras para xiaomi mi band 5 6 7 premium pulseira",
-   "vendidos": 5000
   },
   "xiaomi-smart-band-10-pink-amoled": {
    "nome": "Xiaomi Smart Band 10 Pink Amoled 1.72 1500 nits, bateria de 21 dias, mais de 150 esportes,",
@@ -4339,40 +4088,6 @@
    "vendidos": 1000,
    "nota": 4.8
   },
-  "fone-de-ouvido-tipo-c-com": {
-   "nome": "Fone De Ouvido Tipo C Com Microfone Para Samsung E Xiaomi",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1nNxuuf",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-tipo-c-com-microfone-para-samsung-e-xiaomi/p/MLB44418138",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_859336-MLA100107722473_122025-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido tipo c com microfone para samsung e xiaomi",
-   "vendidos": 1000,
-   "nota": 4.7
-  },
-  "fone-de-ouvido-com-fio-usb": {
-   "nome": "Fone De Ouvido Com Fio USB Entrada Tipo C Compatível Com Iphone 15 16 17 Samsung S24 S25 S",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2cikBam",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-com-fio-usb-entrada-tipo-c-compativel-com-iphone-15-16-17-samsung-s24-s25-s26-android-xioami-c-microfone-estereo-anti-ruido-integrado-de-conexao-profissional-direta-e-controle-de-volume/p/MLB77511453",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_672678-MLA118814655718_102026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido com fio usb entrada tipo c compativel com iphone",
-   "vendidos": 1000,
-   "nota": 4.7
-  },
-  "fone-de-ouvido-entrada-tipo-c": {
-   "nome": "Fone De Ouvido Entrada Tipo C Intra-auricular Microfone Usbc",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/2caR4tL",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-entrada-tipo-c-intraauricular-microfone-usbc/up/MLBU3776930190",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_985988-MLB105892813518_022026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido entrada tipo c intra auricular microfone usbc",
-   "vendidos": 1000,
-   "nota": 4.7,
-   "item": "MLB6222477564"
-  },
   "relogio-smartwatch-xiaomi-mi-band-10": {
    "nome": "Relógio Smartwatch Xiaomi Mi Band 10 Global Preto Fit. Lançamento",
    "categoria": "vestiveis",
@@ -4394,18 +4109,6 @@
    "busca": "apple watch series 11 gps caixa preta brilhante de aluminio 42 mm",
    "vendidos": 100,
    "nota": 4.9
-  },
-  "pulseira-inteligente-smart-band-h59-preto": {
-   "nome": "Pulseira Inteligente Smart Band H59 Preto Atividade Física",
-   "categoria": "vestiveis",
-   "afiliado": "https://meli.la/1LKDf1x",
-   "ml": "https://www.mercadolivre.com.br/pulseira-inteligente-smart-band-h59-preto-atividade-fisica/up/MLBU4682373342",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_617847-MLB115816978093_082026-O.webp",
-   "videos": [],
-   "busca": "pulseira inteligente smart band h59 preto atividade fisica",
-   "vendidos": 100,
-   "nota": 4.9,
-   "item": "MLB7381390904"
   },
   "controle-gamesir-g7-se-com-fio": {
    "nome": "Controle GameSir G7 SE com Fio para Xbox One Series S X PC Hall Effect Botões Mecânicos",
@@ -4880,17 +4583,6 @@
    "vendidos": 10000,
    "nota": 4.6
   },
-  "controle-sngames-com-fio-para-xbox": {
-   "nome": "Controle Sngames Com Fio para Xbox One, Series e PC Com Vibração",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2E4pPKw",
-   "ml": "https://www.mercadolivre.com.br/controle-sngames-com-fio-para-xbox-one-series-e-pc-com-vibracao/p/MLB19716925",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_655777-MLA116993898037_082026-O.webp",
-   "videos": [],
-   "busca": "controle sngames com fio para xbox one series e pc com vibracao",
-   "vendidos": 10000,
-   "nota": 4.2
-  },
   "the-legend-of-zelda-breath-of": {
    "nome": "The Legend of Zelda: Breath of the Wild Edição padrão (Físico)",
    "categoria": "videogames",
@@ -5056,28 +4748,6 @@
    "vendidos": 10000,
    "nota": 4.9
   },
-  "controle-sem-fio-manete-bluetooth-joystick": {
-   "nome": "Controle Sem Fio Manete Bluetooth Joystick Para Tv Smart Samsung Pc Vídeo Game Celular com",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/23xZhP6",
-   "ml": "https://www.mercadolivre.com.br/controle-sem-fio-manete-bluetooth-joystick-para-tv-smart-samsung-pc-video-game-celular-com-p2/p/MLB58013437",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_741046-MLA106812688787_022026-O.webp",
-   "videos": [],
-   "busca": "controle sem fio manete bluetooth joystick para tv smart samsung pc video",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
-  "kit-2-controle-para-ps4-sem": {
-   "nome": "Kit 2 Controle Para Ps4 Sem Fio Pc Bluetooth Vibração Dupla Joystick Compatível Ps4 Videog",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2TVzYDr",
-   "ml": "https://www.mercadolivre.com.br/kit-2-controle-para-ps4-sem-fio-pc-bluetooth-vibracao-dupla-joystick-compativel-ps4-videogame-tv-pc-celular-android-manete-smart-tv-preto-redfin/p/MLB64316157",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_683661-MLA118979322695_102026-O.webp",
-   "videos": [],
-   "busca": "kit 2 controle para ps4 sem fio pc bluetooth vibracao dupla joystick",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
   "controle-joystick-sem-fio-ipega-pg": {
    "nome": "Controle joystick sem fio Ipega PG-9076 preto",
    "categoria": "videogames",
@@ -5086,28 +4756,6 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_727608-MLA99936000747_112025-O.webp",
    "videos": [],
    "busca": "controle joystick sem fio ipega pg 9076 preto",
-   "vendidos": 10000,
-   "nota": 4.7
-  },
-  "kit-2-controle-joystick-bluetooth-compativel": {
-   "nome": "Kit 2 Controle Joystick Bluetooth Compatível Ps3 Tv Pc Gamer Sem Fio + 2 Cabos",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2ho5rCZ",
-   "ml": "https://www.mercadolivre.com.br/kit-2-controle-joystick-bluetooth-compativel-ps3-tv-pc-gamer-sem-fio-2-cabos/p/MLB55795492",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_699847-MLA100045823237_122025-O.webp",
-   "videos": [],
-   "busca": "kit 2 controle joystick bluetooth compativel ps3 tv pc gamer sem fio",
-   "vendidos": 10000,
-   "nota": 4.7
-  },
-  "fone-de-ouvido-gamer-headset-rgb": {
-   "nome": "Fone De Ouvido Gamer Headset RGB Led Com Microfone Headphone P2 P/ PC PS3 PS4 PS5 Xbox Cel",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/23uxUrC",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-gamer-headset-rgb-led-com-microfone-headphone-p2-p-pc-ps3-ps4-ps5-xbox-celular-notebook-surround-51-com-adaptador-landara/p/MLB66266830",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_911287-MLA117801296907_092026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido gamer headset rgb led com microfone headphone p2 p",
    "vendidos": 10000,
    "nota": 4.7
   },
@@ -5132,17 +4780,6 @@
    "busca": "headset evolut gamer rival led rainbow p3 eg307",
    "vendidos": 10000,
    "nota": 4.7
-  },
-  "fone-de-ouvido-headset-office-usb": {
-   "nome": "Fone De Ouvido Headset Office Usb Microfone Reunião Empresa Call Computador Telefone Pc No",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2XshsqT",
-   "ml": "https://www.mercadolivre.com.br/fone-de-ouvido-headset-office-usb-microfone-reuniao-empresa-call-computador-telefone-pc-notebook-microfone-para-reuniao-home-office-jogos-trabalho-empresa-marca-voreon/p/MLB51645707",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_694840-MLA118399302225_092026-O.webp",
-   "videos": [],
-   "busca": "fone de ouvido headset office usb microfone reuniao empresa call computador telefone",
-   "vendidos": 10000,
-   "nota": 4.6
   },
   "headset-gamer-hyperx-cloud-stinger-2": {
    "nome": "Headset Gamer HyperX Cloud Stinger 2, Drivers 40mm, P3, Áudio espacial DTS, Design Leve, P",
@@ -5342,50 +4979,6 @@
    "vendidos": 5000,
    "nota": 4.8
   },
-  "maquinas-portateis-de-videogame-para-adultos": {
-   "nome": "Máquinas portáteis de videogame para adultos e crianças X7 Color Azul/Vermelho",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2jafCig",
-   "ml": "https://www.mercadolivre.com.br/maquinas-portateis-de-videogame-para-adultos-e-criancas-x7-color-azulvermelho/p/MLB29478644",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_785660-MLU73981697248_012024-O.webp",
-   "videos": [],
-   "busca": "maquinas portateis de videogame para adultos e criancas x7 color azul vermelho",
-   "vendidos": 5000,
-   "nota": 4.6
-  },
-  "controle-sem-fio-bluetooth-para-p4": {
-   "nome": "Controle Sem Fio Bluetooth Para P4 Joystick Gamepad Manete Gamer Compatível PC Notebook Sm",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/1iiun3w",
-   "ml": "https://www.mercadolivre.com.br/controle-sem-fio-bluetooth-para-p4-joystick-gamepad-manete-gamer-compativel-pc-notebook-smart-tv-android-celular-touchpad-vibracao-bateria-recarregavel-entrada-p2-preto-gatao/p/MLB79329059",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_776330-MLA117666047699_092026-O.webp",
-   "videos": [],
-   "busca": "controle sem fio bluetooth para p4 joystick gamepad manete gamer compativel pc",
-   "vendidos": 5000,
-   "nota": 4.8
-  },
-  "kit-2-controles-compativel-para-ps4": {
-   "nome": "Kit 2 Controles Compatível Para Ps4 Cabo Controle Tv Samsung Pc P4 Ps 4 Bluetooth 4 Blueto",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2ns4UUF",
-   "ml": "https://www.mercadolivre.com.br/kit-2-controles-compativel-para-ps4-cabo-controle-tv-samsung-pc-p4-ps-4-bluetooth-4-bluetooth-manete-pc-gamer-tv-smart-controle-bluetooth-sem-fio-celular-headset-p2-cor-preto-redfin/p/MLB78775594",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_624530-MLA120933125043_112026-O.webp",
-   "videos": [],
-   "busca": "kit 2 controles compativel para ps4 cabo controle tv samsung pc p4",
-   "vendidos": 5000,
-   "nota": 4.8
-  },
-  "headset-gamer-epm-imports-rgb-led": {
-   "nome": "Headset Gamer EPM IMPORTS RGB LED com Microfone e Cancelamento de Ruído para PS5/PS4/Xbox ",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2HZnuoT",
-   "ml": "https://www.mercadolivre.com.br/headset-gamer-epm-imports-rgb-led-com-microfone-e-cancelamento-de-ruido-para-ps5ps4xbox-pc/p/MLB51574284",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_755902-MLA98193375090_112025-O.webp",
-   "videos": [],
-   "busca": "headset gamer epm imports rgb led com microfone e cancelamento de ruido",
-   "vendidos": 5000,
-   "nota": 4.8
-  },
   "console-playstation-5-pro": {
    "nome": "Console Playstation 5 Pro",
    "categoria": "videogames",
@@ -5523,42 +5116,6 @@
    "nota": 4.6,
    "item": "MLB4807976075"
   },
-  "console-portatil-videogame-stick-jogos-retro": {
-   "nome": "Console Portátil Videogame Stick Jogos Retrô X7 Plus 5 Pol",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2g3y2Fr",
-   "ml": "https://www.mercadolivre.com.br/console-portatil-videogame-stick-jogos-retro-x7-plus-5-pol/up/MLBU3894202373",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_864833-MLB109553511450_042026-O.webp",
-   "videos": [],
-   "busca": "console portatil videogame stick jogos retro x7 plus 5 pol",
-   "vendidos": 500,
-   "nota": 4.5,
-   "item": "MLB6612877158"
-  },
-  "adaptador-videogame-game-stick-m15-2": {
-   "nome": "Adaptador Videogame Game Stick M15 2 Controles Game Stick",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/1qPqDpM",
-   "ml": "https://www.mercadolivre.com.br/adaptador-videogame-game-stick-m15-2-controles-game-stick/up/MLBU4016763335",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_885037-MLB111094172687_042026-O.webp",
-   "videos": [],
-   "busca": "adaptador videogame game stick m15 2 controles game stick",
-   "vendidos": 500,
-   "nota": 4.4,
-   "item": "MLB4719814303"
-  },
-  "conversor-video-game-4k-hdmi-adaptador": {
-   "nome": "Conversor Video Game 4k Hdmi Adaptador Game Stick 2 Controle",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2AfHms1",
-   "ml": "https://www.mercadolivre.com.br/conversor-video-game-4k-hdmi-adaptador-game-stick-2-controle/up/MLBU5208569631",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_688049-MLB116415241420_092026-O.webp",
-   "videos": [],
-   "busca": "conversor video game 4k hdmi adaptador game stick 2 controle",
-   "vendidos": 500,
-   "nota": 4.3,
-   "item": "MLB7666545724"
-  },
   "console-portatil-m15-4k-hdmi-2": {
    "nome": "Console Portátil M15 4k Hdmi 2 Controles Sem Fio",
    "categoria": "videogames",
@@ -5649,17 +5206,6 @@
    "nota": 4.6,
    "item": "MLB5331404467"
   },
-  "128g-r36s-pro-portable-ips-consola": {
-   "nome": "128g R36s Pro Portable Ips - Consola De Jogos Portátil Retro",
-   "categoria": "videogames",
-   "afiliado": "https://meli.la/2t3MeYA",
-   "ml": "https://www.mercadolivre.com.br/128g-r36s-pro-portable-ips-consola-de-jogos-portatil-retro/p/MLB2034127585",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_723146-CBT99432072281_112025-O.webp",
-   "videos": [],
-   "busca": "128g r36s pro portable ips consola de jogos portatil retro",
-   "vendidos": 50,
-   "nota": 4
-  },
   "ps5-slim": {
    "nome": "PlayStation 5 Slim Digital 825GB",
    "categoria": "videogames",
@@ -5742,17 +5288,6 @@
    "busca": "logitech mouse sem fio m170 preto cinza usb 2 4ghz ambidestro compacto",
    "vendidos": 250000,
    "nota": 4.9
-  },
-  "mouse-sem-fio-recarregavel-wireless-bluetooth": {
-   "nome": "Mouse Sem Fio Recarregável Wireless Bluetooth Optico Led Rgb Ergonômico Para Pc Desktop",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/18HJTYg",
-   "ml": "https://www.mercadolivre.com.br/mouse-sem-fio-recarregavel-wireless-bluetooth-optico-led-rgb-ergonomico-para-pc-desktop-notebook-tablet-smartphone-preto/p/MLB75623500",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_826958-MLA114973266685_072026-O.webp",
-   "videos": [],
-   "busca": "mouse sem fio recarregavel wireless bluetooth optico led rgb ergonomico para pc",
-   "vendidos": 250000,
-   "nota": 4.8
   },
   "fritadeira-eletrica-afon-12l-bg-forno": {
    "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
@@ -6172,17 +5707,6 @@
    "vendidos": 50000,
    "nota": 4.8
   },
-  "kit-jogo-de-ferramentas-completo-c": {
-   "nome": "Kit Jogo De Ferramentas Completo C/ Soquetes E Chaves TBT12940K The Black Tools",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2EfJsgt",
-   "ml": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-completo-c-soquetes-e-chaves-tbt12940k-the-black-tools/p/MLB28859007",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_664367-MLA115530496545_082026-O.webp",
-   "videos": [],
-   "busca": "kit jogo de ferramentas completo c soquetes e chaves tbt12940k the black",
-   "vendidos": 50000,
-   "nota": 4.8
-  },
   "mouse-sem-fio-logitech-m190-com": {
    "nome": "Mouse sem fio Logitech M190 com Pilha Inclusa - Cinza",
    "categoria": "gerais",
@@ -6304,17 +5828,6 @@
    "vendidos": 50000,
    "nota": 4.6
   },
-  "power-bank-10000mah-carregador-portatil-turbo": {
-   "nome": "Power Bank 10000mah Carregador Portátil Turbo Rápido Universal Celular - Melhor",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1yBt6ys",
-   "ml": "https://www.mercadolivre.com.br/power-bank-10000mah-carregador-portatil-turbo-rapido-universal-celular-melhor-carregador-portatil-compativel-com-iphone-notebook-relogios-android-mac-ios-samsung-apple-10000mah-marca-bahrein/p/MLB60955911",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_774733-MLA115141469339_072026-O.webp",
-   "videos": [],
-   "busca": "power bank 10000mah carregador portatil turbo rapido universal celular melhor carregador portatil",
-   "vendidos": 50000,
-   "nota": 4.4
-  },
   "baseus-carregador-de-parede-turbo-20w": {
    "nome": "Baseus Carregador De Parede Turbo 20w Tipo-c + Cabo iPhone",
    "categoria": "gerais",
@@ -6325,17 +5838,6 @@
    "busca": "baseus carregador de parede turbo 20w tipo c cabo iphone",
    "vendidos": 50000,
    "nota": 4.9
-  },
-  "carregador-30w-turbo-para-iphone-8": {
-   "nome": "Carregador 30w Turbo Para iPhone 8 X Xr 11 12 13 14 Pro Max Fonte Usb C Cor Branca Dtimp",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1S8eLBS",
-   "ml": "https://www.mercadolivre.com.br/carregador-30w-turbo-para-iphone-8-x-xr-11-12-13-14-pro-max-fonte-usb-c-cor-branca-dtimp/p/MLB47814270",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_826850-MLA116465697992_092026-O.webp",
-   "videos": [],
-   "busca": "carregador 30w turbo para iphone 8 x xr 11 12 13 14",
-   "vendidos": 50000,
-   "nota": 4.8
   },
   "carregador-original-samsung-turbo-s25-s24": {
    "nome": "Carregador Original Samsung Turbo S25 S24 S23 S22 S21 25w Br",
@@ -6360,17 +5862,6 @@
    "vendidos": 50000,
    "nota": 4.8
   },
-  "carregador-turbo-de-parede-boyu-cell": {
-   "nome": "Carregador Turbo de Parede Boyu Cell com Cabo USB-C para Samsung e Motorola",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1RxHDGk",
-   "ml": "https://www.mercadolivre.com.br/carregador-turbo-de-parede-boyu-cell-com-cabo-usb-c-para-samsung-e-motorola/p/MLB50914732",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_951313-MLA111513954794_062026-O.webp",
-   "videos": [],
-   "busca": "carregador turbo de parede boyu cell com cabo usb c para samsung",
-   "vendidos": 50000,
-   "nota": 4.8
-  },
   "cabo-usb-tipo-c-para-tipo": {
    "nome": "Cabo USB Tipo C para Tipo C 60W de 1m Plus do Brasil Super Rápido e Blindado",
    "categoria": "gerais",
@@ -6381,18 +5872,6 @@
    "busca": "cabo usb tipo c para tipo c 60w de 1m plus do",
    "vendidos": 50000,
    "nota": 4.8
-  },
-  "cabo-usb-carregador-celular-tipo-c": {
-   "nome": "Cabo Usb Carregador Celular Tipo C 2 Metros 100w Reforçado",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2RnmDjQ",
-   "ml": "https://www.mercadolivre.com.br/cabo-usb-carregador-celular-tipo-c-2-metros-100w-reforcado/up/MLBU800429150",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_907029-MLB111069618554_052026-O.webp",
-   "videos": [],
-   "busca": "cabo usb carregador celular tipo c 2 metros 100w reforcado",
-   "vendidos": 50000,
-   "nota": 4.8,
-   "item": "MLB3539702743"
   },
   "air-fryer-oven-britania-11l-8": {
    "nome": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
@@ -6556,17 +6035,6 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864411-MLA99591392870_122025-O.webp",
    "videos": [],
    "busca": "caixa de som boombox aiwa aws bbs 01 b 200w ip66 30hs",
-   "vendidos": 10000,
-   "nota": 4.9
-  },
-  "caixa-de-som-bluetooth-5-4": {
-   "nome": "Caixa de som bluetooth 5.4 sabala 200w 36H Portátil app eq ipx6 tws Potente DR-909",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2hNc5Qa",
-   "ml": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-54-sabala-200w-36h-portatil-app-eq-ipx6-tws-potente-dr-909-39000mah-hifi-eq-estereo-35hz-20khz-cor-preto/p/MLB53658747",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_689164-MLA110001239576_042026-O.webp",
-   "videos": [],
-   "busca": "caixa de som bluetooth 5 4 sabala 200w 36h portatil app eq",
    "vendidos": 10000,
    "nota": 4.9
   },
@@ -6801,28 +6269,6 @@
    "vendidos": 10000,
    "nota": 4.8
   },
-  "disco-solido-ssd-120gb-6gb-s": {
-   "nome": "Disco Sólido Ssd 120gb 6gb/s Sata 3 Pklk Premium Sd120",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2uW68X9",
-   "ml": "https://www.mercadolivre.com.br/disco-solido-ssd-120gb-6gbs-sata-3-pklk-premium-sd120/p/MLB46150812",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_945369-MLA116443102871_082026-O.webp",
-   "videos": [],
-   "busca": "disco solido ssd 120gb 6gb s sata 3 pklk premium sd120",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
-  "ssd-armazenamento-disco-120gb-2-5": {
-   "nome": "SSD Armazenamento Disco 120GB 2.5 SATA 3 Interno PC Notebook Upgrade Boot Rápido",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1o9uAAz",
-   "ml": "https://www.mercadolivre.com.br/ssd-armazenamento-disco-120gb-25-sata-3-interno-pc-notebook-upgrade-boot-rapido-compativel-desktop-laptop-7mm-preto-upgamer-hd-ssd/p/MLB26155598",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_841568-MLA109925536345_042026-O.webp",
-   "videos": [],
-   "busca": "ssd armazenamento disco 120gb 2 5 sata 3 interno pc notebook upgrade",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
   "cadeira-gamer-thunderx3-profissional-tgc12-preta": {
    "nome": "Cadeira Gamer Thunderx3 Profissional Tgc12 Preta",
    "categoria": "gerais",
@@ -6842,41 +6288,6 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_688438-MLA99935266235_112025-O.webp",
    "videos": [],
    "busca": "aspirador de po robo philco 3 em 1 pas23 com mop preto",
-   "vendidos": 10000,
-   "nota": 4.7
-  },
-  "garrafa-termica-agua-800ml-squeeze-inox": {
-   "nome": "Garrafa Térmica Água 800ml Squeeze Inox Academia Com Alça",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1P9NgZk",
-   "ml": "https://produto.mercadolivre.com.br/MLB-4803872814-garrafa-termica-agua-800ml-squeeze-inox-academia-com-alca-_JM",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_629571-MLB96759710721_102025-O.webp",
-   "videos": [],
-   "busca": "garrafa termica agua 800ml squeeze inox academia com alca",
-   "vendidos": 10000,
-   "nota": 4.7,
-   "item": "MLB4803872814"
-  },
-  "mochila-couro-masculina-impermeavel-reforcada-notebook": {
-   "nome": "Mochila Couro Masculina Impermeável Reforçada Notebook Usb",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/16Qbrvd",
-   "ml": "https://produto.mercadolivre.com.br/MLB-3867748633-mochila-couro-masculina-impermeavel-reforcada-notebook-usb-_JM",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_886753-MLB79482400488_102024-O.webp",
-   "videos": [],
-   "busca": "mochila couro masculina impermeavel reforcada notebook usb",
-   "vendidos": 10000,
-   "nota": 4.7,
-   "item": "MLB3867748633"
-  },
-  "luminaria-articulada-mesa-abajur-escritorio-estudo": {
-   "nome": "Luminaria Articulada Mesa Abajur Escritório Estudo Quarto Cor da estrutura Preto Marx",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2RcjCcx",
-   "ml": "https://www.mercadolivre.com.br/luminaria-articulada-mesa-abajur-escritorio-estudo-quarto-cor-da-estrutura-preto-marx-greg-3d/p/MLB26804042",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_965450-MLA107121336569_022026-O.webp",
-   "videos": [],
-   "busca": "luminaria articulada mesa abajur escritorio estudo quarto cor da estrutura preto marx",
    "vendidos": 10000,
    "nota": 4.7
   },
@@ -6912,40 +6323,6 @@
    "busca": "robo aspirador de po wap robot w90 perola automatico 3 em 1",
    "vendidos": 10000,
    "nota": 4.6
-  },
-  "mochila-bolsa-para-notebook-15-6": {
-   "nome": "Mochila Bolsa Para Notebook 15.6 Executiva Modelo Premium Saída Usb Polares Cor Preto",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2wboRZy",
-   "ml": "https://www.mercadolivre.com.br/mochila-bolsa-para-notebook-156-executiva-modelo-premium-saida-usb-polares-cor-preto/p/MLB48713281",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_717797-MLA99934022791_112025-O.webp",
-   "videos": [],
-   "busca": "mochila bolsa para notebook 15 6 executiva modelo premium saida usb polares",
-   "vendidos": 10000,
-   "nota": 4.6
-  },
-  "mochila-fashion-basica-masculina-40l-para": {
-   "nome": "Mochila Fashion Básica Masculina 40l Para Notebook",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1a8TFVU",
-   "ml": "https://produto.mercadolivre.com.br/MLB-3958653397-mochila-fashion-basica-masculina-40l-para-notebook-_JM",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_977531-MLB105672594963_012026-O.webp",
-   "videos": [],
-   "busca": "mochila fashion basica masculina 40l para notebook",
-   "vendidos": 10000,
-   "nota": 4.6,
-   "item": "MLB3958653397"
-  },
-  "mochila-notebook-17-impermeavel-reforcada-grande": {
-   "nome": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2xKEibF",
-   "ml": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-O.webp",
-   "videos": [],
-   "busca": "mochila notebook 17 impermeavel reforcada grande masculina usb escolar trabalho rincostar preta",
-   "vendidos": 10000,
-   "nota": 4.5
   },
   "robo-aspirador-de-po-s40-inteligente": {
    "nome": "Robô Aspirador De Pó S40 Inteligente Xiaomi Vacuum S40",
@@ -7057,18 +6434,6 @@
    "vendidos": 10000,
    "nota": 4.8
   },
-  "luminaria-mesa-bivolt-abajur-articulada-quarto": {
-   "nome": "Luminária Mesa Bivolt Abajur Articulada Quarto Escritório",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2rGwDFd",
-   "ml": "https://produto.mercadolivre.com.br/MLB-3516971923-luminaria-mesa-bivolt-abajur-articulada-quarto-escritorio-_JM",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_783255-MLB79232221269_092024-O.webp",
-   "videos": [],
-   "busca": "luminaria mesa bivolt abajur articulada quarto escritorio",
-   "vendidos": 10000,
-   "nota": 4.8,
-   "item": "MLB3516971923"
-  },
   "echo-dot-5-geracao-smart-speaker": {
    "nome": "Echo Dot 5ª Geração, Smart Speaker Com Alexa, Branca, Amazon Branco",
    "categoria": "gerais",
@@ -7111,39 +6476,6 @@
    "videos": [],
    "busca": "escova de dente eletrica philips colgate sonicpro 10",
    "vendidos": 10000
-  },
-  "carregador-turbo-super-rapido-30w-para": {
-   "nome": "Carregador Turbo Super Rápido 30w Para iPhone 15 16 17 Pro Max - Cabo Blindado Tipo Usb C ",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/29R8Hti",
-   "ml": "https://www.mercadolivre.com.br/carregador-turbo-super-rapido-30w-para-iphone-15-16-17-pro-max-cabo-blindado-tipo-usb-c-dtimp/p/MLB67711993",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_669139-MLA110835515699_042026-O.webp",
-   "videos": [],
-   "busca": "carregador turbo super rapido 30w para iphone 15 16 17 pro max",
-   "vendidos": 10000,
-   "nota": 4.9
-  },
-  "carregador-turbo-super-rapido-40w-para": {
-   "nome": "Carregador Turbo Super Rápido 40w Para iphone 15 16 17 - Cabo Blindado Tipo Usb C DTimp",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2zQ1NPt",
-   "ml": "https://www.mercadolivre.com.br/carregador-turbo-super-rapido-40w-para-iphone-15-16-17-cabo-blindado-tipo-usb-c-dtimp/p/MLB49212804",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_883637-MLA112398584837_052026-O.webp",
-   "videos": [],
-   "busca": "carregador turbo super rapido 40w para iphone 15 16 17 cabo blindado",
-   "vendidos": 10000,
-   "nota": 4.8
-  },
-  "carregador-turbo-40w-para-iphone-11": {
-   "nome": "Carregador Turbo 40w Para iPhone 11 12 13 14 Pro Max Usb Branco",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2A89mvk",
-   "ml": "https://www.mercadolivre.com.br/carregador-turbo-40w-para-iphone-11-12-13-14-pro-max-usb-branco/p/MLB65271168",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_999053-MLA112935055303_062026-O.webp",
-   "videos": [],
-   "busca": "carregador turbo 40w para iphone 11 12 13 14 pro max usb",
-   "vendidos": 10000,
-   "nota": 4.8
   },
   "carregador-turbo-baseus-20w-com-cabo": {
    "nome": "Carregador Turbo Baseus 20w Com Cabo Para iPhone 14 Cor Preto",
@@ -7192,50 +6524,6 @@
    "nota": 4.8,
    "item": "MLB5460430320"
   },
-  "cabo-carregador-usb-c-tipo-c": {
-   "nome": "Cabo Carregador Usb-c Tipo C Turbo 60w Carga Rápida Nylon Trançado Premium 1M Resistente C",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2qi658A",
-   "ml": "https://www.mercadolivre.com.br/cabo-carregador-usb-c-tipo-c-turbo-60w-carga-rapida-nylon-trancado-premium-1m-resistente-compativel-samsung-xiaomi-motorola-iphone-15-16-17-18-notebook-tablet-transferencia-dados-eletric-teck/p/MLB73940733",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_632856-MLA112428403362_062026-O.webp",
-   "videos": [],
-   "busca": "cabo carregador usb c tipo c turbo 60w carga rapida nylon trancado",
-   "vendidos": 10000,
-   "nota": 4.9
-  },
-  "kit-carregador-veicular-turbo-60w-usb": {
-   "nome": "Kit Carregador Veicular Turbo 60w Usb-c Automotivo Carro Usb Compatível Com iPhone Android",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2uJUdPz",
-   "ml": "https://www.mercadolivre.com.br/kit-carregador-veicular-turbo-60w-usb-c-automotivo-carro-usb-compativel-com-iphone-android-tomada-carro-voltimetro-display-led-cinzeiro-preto-ice-coorel/p/MLB62830760",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_940827-MLA100354471375_122025-O.webp",
-   "videos": [],
-   "busca": "kit carregador veicular turbo 60w usb c automotivo carro usb compativel com",
-   "vendidos": 10000,
-   "nota": 4.9
-  },
-  "carregador-veicular-premione-turbo-60w-com": {
-   "nome": "Carregador Veicular PREMIONE Turbo 60W com Cabo USB-C para iPhone e Android",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1i6uDZv",
-   "ml": "https://www.mercadolivre.com.br/carregador-veicular-premione-turbo-60w-com-cabo-usb-c-para-iphone-e-android/p/MLB61996566",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_708003-MLA116977787497_082026-O.webp",
-   "videos": [],
-   "busca": "carregador veicular premione turbo 60w com cabo usb c para iphone e",
-   "vendidos": 10000,
-   "nota": 4.9
-  },
-  "carregador-veicular-turbo-60w-a-gold": {
-   "nome": "Carregador Veicular Turbo 60W A'Gold + Cabo USB-C 1m 9.1A Preto",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1YNGaBE",
-   "ml": "https://www.mercadolivre.com.br/carregador-veicular-turbo-60w-agold-cabo-usb-c-1m-91a-preto/p/MLB60116822",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_850691-MLA107661468163_022026-O.webp",
-   "videos": [],
-   "busca": "carregador veicular turbo 60w a gold cabo usb c 1m 9 1a",
-   "vendidos": 10000,
-   "nota": 4.9
-  },
   "teclado-mecanico-redragon-lakshmi-rainbow-brown": {
    "nome": "Teclado Mecânico Redragon Lakshmi Rainbow Brown K606 Abnt2 Cor de teclado Preto Idioma",
    "categoria": "gerais",
@@ -7277,17 +6565,6 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_731011-MLA99850412233_112025-O.webp",
    "videos": [],
    "busca": "teclado redragon gamer fizz rainbow switch brown mecanico cor de teclado preto",
-   "vendidos": 5000,
-   "nota": 4.9
-  },
-  "teclado-mecanico-gamer-60-switch-huano": {
-   "nome": "Teclado Mecânico Gamer 60% Switch Huano Brow Red Pc Computador Switch Vermelho Português",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1LF5EHK",
-   "ml": "https://www.mercadolivre.com.br/teclado-mecanico-gamer-60-switch-huano-brow-red-pc-computador-switch-vermelho-portugues-brasil-titorion/p/MLB54051371",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_738186-MLA99518020132_112025-O.webp",
-   "videos": [],
-   "busca": "teclado mecanico gamer 60 switch huano brow red pc computador switch vermelho",
    "vendidos": 5000,
    "nota": 4.9
   },
@@ -7347,105 +6624,55 @@
    "vendidos": 5000,
    "nota": 4.7
   },
-  "cadeira-gamer-escritorio-com-apoio-para": {
-   "nome": "Cadeira Gamer Escritório Com Apoio Para Os Pés Grande Confortavel e Ergonômica Cor Preto",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1X7e4hQ",
-   "ml": "https://www.mercadolivre.com.br/cadeira-gamer-escritorio-com-apoio-para-os-pes-grande-confortavel-e-ergonomica-cor-preto-marca-mulltx-gaming/p/MLB51868293",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_616831-MLA114602976678_082026-O.webp",
-   "videos": [],
-   "busca": "cadeira gamer escritorio com apoio para os pes grande confortavel e ergonomica",
-   "vendidos": 1000,
-   "nota": 4.8
+  "positivo-vision-r15m-r5-8gb": {
+   "nome": "Notebook Positivo Vision R15M Ryzen 5 5625U 8GB 256GB SSD Linux 15,6\" Full HD",
+   "categoria": "notebooks",
+   "atalho": "r15m",
+   "afiliado": "https://meli.la/2eqT2bW",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_733885-MLA101679394133_122025-O.webp",
+   "busca": "positivo vision r15m ryzen 5 8gb",
+   "ml": "https://www.mercadolivre.com.br/notebook-positivo-vision-r15m-amd-ryzen-5-5625u-linux-8gb-ram-256gb-ssd-wi-fi-6-tela-15-full-hd-ips-antirreflexo-minitela-154-lumina-bar-com-3-niveis-permite-upgrade-de-memoria-ram-e-ssd-preto/p/MLB53471779",
+   "videos": [
+    "notebooks-faixas",
+    "notebooks4500"
+   ]
   },
-  "cadeira-gamer-ergonomica-profissional-reclinavel-x": {
-   "nome": "Cadeira Gamer Ergonômica Profissional Reclinável X-ray Cor Branco Material Do Estofamento",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2CSu41q",
-   "ml": "https://www.mercadolivre.com.br/cadeira-gamer-ergonomica-profissional-reclinavel-x-ray-cor-branco-material-do-estofamento-couro-sintetico/p/MLB50046656",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_725588-MLA113138594420_072026-O.webp",
-   "videos": [],
-   "busca": "cadeira gamer ergonomica profissional reclinavel x ray cor branco material do estofamento",
-   "vendidos": 1000,
-   "nota": 4.8
+  "positivo-vision-r15m-r5-16gb": {
+   "nome": "Notebook Positivo Vision R15M Ryzen 5 5625U 16GB 512GB SSD Linux",
+   "categoria": "notebooks",
+   "atalho": "r15m16",
+   "afiliado": "https://meli.la/1oMr4Hp",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_733885-MLA101679394133_122025-O.webp",
+   "busca": "positivo vision r15m ryzen 5 16gb 512gb",
+   "videos": [
+    "notebooks-faixas",
+    "notebooks4500"
+   ]
   },
-  "cadeira-gamer-jogos-setup-profissional-ergonomica": {
-   "nome": "Cadeira Gamer Jogos Setup Profissional Ergonômica Reclinavel",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2fpDb8c",
-   "ml": "https://www.mercadolivre.com.br/cadeira-gamer-jogos-setup-profissional-ergonomica-reclinavel/up/MLBU3904744795",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_989542-MLB116128150729_082026-O.webp",
-   "videos": [],
-   "busca": "cadeira gamer jogos setup profissional ergonomica reclinavel",
-   "vendidos": 1000,
-   "nota": 4.8,
-   "item": "MLB6641507928"
+  "positivo-vision-r15m-r7-32gb": {
+   "nome": "Notebook Positivo Vision R15M Ryzen 7 5825U 32GB 512GB SSD Linux",
+   "categoria": "notebooks",
+   "atalho": "r15m32",
+   "afiliado": "https://meli.la/277mvQD",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_733885-MLA101679394133_122025-O.webp",
+   "busca": "positivo vision r15m ryzen 7 32gb",
+   "videos": [
+    "notebooks-faixas",
+    "notebooks4500"
+   ]
   },
-  "kit-jogo-de-chaves-multiuso-31": {
-   "nome": "Kit Jogo De Chaves Multiuso 31 Em 1 Mini Ferramentas Maleta Pequena De Chave De Fenda",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/18TJ8xY",
-   "ml": "https://www.mercadolivre.com.br/kit-jogo-de-chaves-multiuso-31-em-1-mini-ferramentas-maleta-pequena-de-chave-de-fenda-precisao-portatil-compacto-stronex/p/MLB56733421",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_838830-MLA99594844710_122025-O.webp",
-   "videos": [],
-   "busca": "kit jogo de chaves multiuso 31 em 1 mini ferramentas maleta pequena",
-   "vendidos": 1000,
-   "nota": 4.7
-  },
-  "maleta-estojo-kit-jogo-169-ferramentas": {
-   "nome": "Maleta Estojo Kit Jogo 169 Ferramentas Caixa Completa Devilprex Preto",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1U9cV2B",
-   "ml": "https://www.mercadolivre.com.br/maleta-estojo-kit-jogo-169-ferramentas-caixa-completa-devilprex-preto/p/MLB75533803",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_880421-MLA113635440530_072026-O.webp",
-   "videos": [],
-   "busca": "maleta estojo kit jogo 169 ferramentas caixa completa devilprex preto",
-   "vendidos": 1000,
-   "nota": 4.7
-  },
-  "kit-58-ferramentas-aco-cr-v": {
-   "nome": "Kit 58 Ferramentas Aço Cr-v Jogo Catraca Reversível Soquete 46pcs + 12 Chaves Combinadas",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2Ur9w5p",
-   "ml": "https://www.mercadolivre.com.br/kit-58-ferramentas-aco-cr-v-jogo-catraca-reversivel-soquete-46pcs-12-chaves-combinadas-boca-estrela-cromo-vanadio-xcolds/p/MLB73441723",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_669057-MLA113159037901_062026-O.webp",
-   "videos": [],
-   "busca": "kit 58 ferramentas aco cr v jogo catraca reversivel soquete 46pcs 12",
-   "vendidos": 1000,
-   "nota": 4.5
-  },
-  "20polegad-kit-de-ferramentas-eletricista-forte": {
-   "nome": "20polegad Kit De Ferramentas Eletricista Forte Durável Lona",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1TvzhSm",
-   "ml": "https://www.mercadolivre.com.br/20polegad-kit-de-ferramentas-eletricista-forte-duravel-lona/p/MLB2061872992",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_981653-MLB109055195783_032026-O.webp",
-   "videos": [],
-   "busca": "20polegad kit de ferramentas eletricista forte duravel lona",
-   "vendidos": 1000,
-   "nota": 4.8
-  },
-  "jogo-oficina-master-maleta-com-178": {
-   "nome": "Jogo Oficina Master Maleta Com 178 Ferramentas 5000r Robust Outro",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/1mLMXXD",
-   "ml": "https://www.mercadolivre.com.br/jogo-oficina-master-maleta-com-178-ferramentas-5000r-robust-outro/p/MLB74955211",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_912153-MLA114113811853_072026-O.webp",
-   "videos": [],
-   "busca": "jogo oficina master maleta com 178 ferramentas 5000r robust outro",
-   "vendidos": 100,
-   "nota": 5
-  },
-  "kit-ferramentas-46-pcs-jogo-catraca": {
-   "nome": "Kit Ferramentas 46 Pcs Jogo Catraca Reversível Aço Cr-v Cromo Vanádio Chave Soquete Xcolds",
-   "categoria": "gerais",
-   "afiliado": "https://meli.la/2TQup1Y",
-   "ml": "https://www.mercadolivre.com.br/kit-ferramentas-46-pcs-jogo-catraca-reversivel-aco-cr-v-cromo-vanadio-chave-soquete-xcolds/p/MLB73830821",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_750548-MLA112202162044_062026-O.webp",
-   "videos": [],
-   "busca": "kit ferramentas 46 pcs jogo catraca reversivel aco cr v cromo vanadio",
-   "vendidos": 100,
-   "nota": 4.7
+  "lenovo-ideapad-slim-3i-i5-linux": {
+   "nome": "Notebook Lenovo IdeaPad Slim 3 15IRH10 Core i5-13420H 8GB 512GB SSD Linux 15,3\"",
+   "categoria": "notebooks",
+   "atalho": "slim3i",
+   "afiliado": "https://meli.la/1DkjKWz",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_932252-MLA100025720637_122025-O.webp",
+   "busca": "ideapad slim 3 i5-13420h linux 83nss00000",
+   "ml": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-slim-3-15irh10-intel-core-i5-13420h-8gb-512gb-ssd-linux-153-83nss00000-luna-grey/p/MLB52907398",
+   "videos": [
+    "notebooks-faixas",
+    "notebooks4500"
+   ]
   }
  },
  "paginas": [

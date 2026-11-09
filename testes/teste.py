@@ -109,6 +109,18 @@ confere(pg.count(AFI) >= 1, "página do vídeo tem botão com link de afiliado")
 confere("R$ 1.499" in pg, "página mostra preço de hoje")
 confere('rel="sponsored nofollow noopener"' in pg, "links de afiliado marcados como patrocinados")
 
+print("\n4b) Ordem de relevância")
+falso = {"categorias": [{"id": "celulares"}, {"id": "tvs"}, {"id": "gerais"}], "produtos": {
+    "panela": {"nome": "Panela Mondial", "categoria": "gerais"},
+    "generico": {"nome": "Fone Bluetooth 5.4 Tws", "categoria": "celulares"},
+    "tv-marca": {"nome": "Smart TV TCL 50", "categoria": "tvs"},
+    "cel-marca": {"nome": "Samsung Galaxy A17", "categoria": "celulares"},
+    "um-video": {"nome": "Smart TV LG", "categoria": "tvs", "videos": "tvs50"},
+    "dois-videos": {"nome": "Galaxy A57", "categoria": "celulares", "videos": ["a", "b"]}}}
+ordem = sorted(falso["produtos"], key=lambda p: comum.relevancia(p, falso))
+confere(ordem == ["dois-videos", "um-video", "cel-marca", "tv-marca", "generico", "panela"],
+        "canal (mais vídeos primeiro) > marca da categoria mais falada > genérico > achados gerais")
+
 print("\n5) Desconto de verdade (fitinha)")
 
 

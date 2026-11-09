@@ -18,6 +18,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 SEGREDOS = RAIZ / ".segredos" / "ml.json"
+ULTIMA = RAIZ / "robo" / "ultima_rodada.txt"  # data da última rodada completa (fora do Git)
 
 
 def passo(msg):
@@ -31,6 +32,10 @@ def roda(*cmd, env=None):
 
 
 def main():
+    hoje = __import__("datetime").date.today().isoformat()
+    if "--agendado" in sys.argv and ULTIMA.exists() and ULTIMA.read_text().strip() == hoje:
+        print("Os preços já foram atualizados hoje: nada a fazer.")
+        return
     if not SEGREDOS.exists():
         sys.exit(f"Falta a chave do Mercado Livre em {SEGREDOS}.\n"
                  "Rode 'python robo/autorizar_ml.py' uma vez e salve client_id, client_secret e refresh_token nesse arquivo:\n"
@@ -60,7 +65,9 @@ def main():
     passo("4/4 Enviando para o GitHub")
     if not (RAIZ / ".git").exists():
         print("Esta pasta ainda não está ligada ao GitHub: preços atualizados só aqui no computador.")
+        ULTIMA.write_text(hoje)
         return
+    ULTIMA.write_text(hoje)
     roda("git", "add", "dados/")
     if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=RAIZ).returncode == 0:
         print("Nenhum preço mudou. Nada para enviar.")

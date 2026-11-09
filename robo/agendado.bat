@@ -4,4 +4,4 @@ cd /d "%~dp0.."
 set "PATH=C:\Program Files\Git\cmd;C:\Program Files\GitHub CLI;%PATH%"
 set PYTHONIOENCODING=utf-8
 echo ===== %date% %time% > robo\ultimo_log.txt
-python robo\rodar_local.py >> robo\ultimo_log.txt 2>&1
+python robo\rodar_local.py --agendado >> robo\ultimo_log.txt 2>&1

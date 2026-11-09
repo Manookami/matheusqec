@@ -13,7 +13,7 @@ from html import escape
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "robo"))
-from comum import ARQ_PRECOS, ARQ_PRODUTOS, atalho, ler_json, link_produto, quedas, reais, resumo_preco  # noqa: E402
+from comum import ARQ_PRECOS, ARQ_PRODUTOS, atalho, ler_json, link_produto, quedas, reais, relevancia, resumo_preco  # noqa: E402
 
 AQUI = Path(__file__).resolve().parent
 DIST = Path(os.environ.get("QEC_DIST") or AQUI / "dist")
@@ -160,10 +160,11 @@ def preco_hoje(pid, dados, precos):
 
 
 def escolhidos(pids, dados, precos, n):
-    """Ordem dos destaques: queda de preço real primeiro, depois recomendados no canal, depois o resto."""
+    """Ordem do site: o que o canal mais fala primeiro (comum.relevancia); dentro do mesmo nível, maior
+    desconto real e depois mais vendidos. Achados gerais e genéricos vão para o fim."""
     def chave(pid):
         r = resumo_valido(pid, dados, precos) or {}
-        return (-r.get("desconto", 0), not dados["produtos"][pid].get("videos"))
+        return (relevancia(pid, dados), -r.get("desconto", 0), -(dados["produtos"][pid].get("vendidos") or 0))
     return sorted(pids, key=chave)[:n]
 
 
@@ -214,7 +215,11 @@ def secao(titulo, pids, dados, precos, link=None, sid="", extra=""):
 
 def gerar_home(dados, precos):
     todos = list(dados["produtos"])
-    destaques = escolhidos([p for p in todos if preco_hoje(p, dados, precos)], dados, precos, 10)
+    com_preco = [p for p in todos if preco_hoje(p, dados, precos)]
+    em_queda = [p for p in com_preco if (resumo_valido(p, dados, precos) or {}).get("desconto", 0) >= FITA_MINIMA]
+    # destaques: primeiro os relevantes que estão com desconto real, depois completa com os do canal
+    destaques = (escolhidos(em_queda, dados, precos, 10)
+                 + [p for p in escolhidos(com_preco, dados, precos, 10) if p not in em_queda])[:10]
     abas = ('<div class="abas" data-abas="destaques"><button class="ativo" data-cat="">Todos</button>'
             + "".join(f'<button data-cat="{c["id"]}">{e(c["nome"])}</button>' for c in dados["categorias"]
                       if any(dados["produtos"][p]["categoria"] == c["id"] for p in destaques))
@@ -223,7 +228,7 @@ def gerar_home(dados, precos):
     corpo = carrossel(dados, precos) + secao("🔥 Destaques", destaques, dados, precos, sid="destaques", extra=abas)
     corpo += secao("⭐ Recomendados no canal", canal, dados, precos, sid="canal")
     for c in dados["categorias"]:
-        pids = [p for p in todos if dados["produtos"][p].get("categoria") == c["id"]]
+        pids = escolhidos([p for p in todos if dados["produtos"][p].get("categoria") == c["id"]], dados, precos, 999)
         # na página inicial só uma vitrine de cada categoria; o resto fica na página dela
         corpo += secao(f'{c["icone"]} {e(c["nome"])} <small>{len(pids)} produtos</small>', pids[:POR_SECAO],
                        dados, precos, f'/{c["id"]}/', c["id"])
@@ -288,7 +293,8 @@ def gerar_categoria(c, dados, precos):
 def gerar_ofertas(dados, precos):
     pids = [p for p in escolhidos(list(dados["produtos"]), dados, precos, 999)
             if (resumo_valido(p, dados, precos) or {}).get("desconto", 0) >= FITA_MINIMA]
-    caiu = [q["produto"] for q in quedas(dados, precos) if q["produto"] not in pids]
+    caiu = escolhidos([q["produto"] for q in quedas(dados, precos)
+                       if q["produto"] not in pids and resumo_valido(q["produto"], dados, precos)], dados, precos, 999)
     corpo = '<p class="trilha"><a href="/">Início</a> › Ofertas</p>'
     corpo += secao(f"🔥 Preço caiu de verdade <small>{len(pids)} produtos</small>", pids, dados, precos, sid="ofertas")
     corpo += secao("📉 Caiu nos últimos dias", caiu, dados, precos, sid="caiu")

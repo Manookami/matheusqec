@@ -162,6 +162,55 @@ def limite_historia(iso):
     return (date.fromisoformat(iso) - timedelta(days=30)).isoformat()
 
 
+MARCAS = ("samsung", "galaxy", "motorola", "moto ", "xiaomi", "redmi", "poco", "apple", "iphone", "ipad", "realme",
+          "oppo", "honor", "infinix", "lg ", "tcl", "philco", "aoc", "philips", "lenovo", "ideapad", "acer", "asus",
+          "dell", "positivo", "vaio", "hp ", "hisense", "roku", "multi", "britânia", "britania", "semp", "aiwa",
+          "jbl", "sony", "playstation", "dualsense", "xbox", "microsoft", "nintendo", "switch", "gamesir", "flydigi",
+          "8bitdo", "havit", "redragon", "hyperx", "logitech", "fortrek", "evolut", "qcy", "anker", "soundcore",
+          "baseus", "ugreen", "amazfit", "haylou", "dapon", "kingston", "adata", "patriot", "tp-link", "mercusys",
+          "intelbras", "huawei", "ubiquiti", "amazon", "echo", "alexa", "mondial", "electrolux", "oster", "midea",
+          "elgin", "arno", "nescafé", "nespresso", "stanley", "termolar", "oral-b", "ventisol", "wap", "thunderx3",
+          "akko", "monsgeek", "knup", "i2go", "plus do brasil", "r36s", "ipega", "qrd", "oneodio", "gta", "rog",
+          "predator", "nitro", "tres", "3 corações", "pulse", "edifier", "kaidi")
+
+
+def marca_conhecida(nome):
+    n = " " + nome.lower() + " "
+    return any(m in n for m in MARCAS)
+
+
+def lista_videos(p):
+    v = p.get("videos") or []
+    return [v] if isinstance(v, str) else list(v)  # o hub às vezes grava um vídeo só como texto
+
+
+def pesos_categoria(produtos):
+    """Categoria que o canal mais cobre vem primeiro: conta em quantos vídeos cada categoria aparece.
+    Achados gerais ficam sempre por último."""
+    vids = {}
+    for p in produtos["produtos"].values():
+        for v in lista_videos(p):
+            vids.setdefault(p["categoria"], set()).add(v)
+    ordem = sorted((c["id"] for c in produtos["categorias"] if c["id"] != "gerais"), key=lambda c: -len(vids.get(c, ())))
+    return {c: i for i, c in enumerate(ordem)} | {"gerais": 99}
+
+
+def relevancia(pid, produtos, _cache={}):
+    """Chave de ordem (menor = mais importante): 1º produtos dos vídeos do canal (mais vídeos, mais acima),
+    depois categorias que o canal mais cobre, marca conhecida antes de genérico, achados gerais por último."""
+    chave = id(produtos)
+    if _cache.get("id") != chave:
+        _cache.clear()
+        _cache.update(id=chave, pesos=pesos_categoria(produtos))
+    p = produtos["produtos"][pid]
+    nv = len(lista_videos(p))
+    if nv:
+        return (0, -nv, 0)
+    if p["categoria"] == "gerais":
+        return (3, 0, 0)
+    return (1 if marca_conhecida(p["nome"]) else 2, _cache["pesos"].get(p["categoria"], 50), 0)
+
+
 def quedas(produtos, precos, queda_minima=0.05, dias=7):
     """Produtos cujo preço de hoje caiu em relação ao maior preço dos últimos `dias` dias."""
     achados = []
