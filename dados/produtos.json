@@ -118,7 +118,8 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_634166-MLA99936645603_112025-O.webp",
    "videos": [
     "celularhoje",
-    "celulares5"
+    "celulares5",
+    "motorola-comprar-fugir"
    ],
    "busca": "moto g86"
   },
@@ -221,10 +222,13 @@
    "afiliado": "https://meli.la/1GQ3e5A",
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-cinza/p/MLB54984333",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617918-MLA96431049734_102025-O.webp",
-   "videos": [],
+   "videos": [
+    "cel-ate-1000"
+   ],
    "busca": "celular samsung galaxy a17 com ia 256gb 8gb ram cam de 50mp",
    "vendidos": 50000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "a174g"
   },
   "smartphone-motorola-moto-g06-256gb-4gb": {
    "nome": "Smartphone Motorola Moto G06 - 256gb 4gb Ram + 8gb Ram Boost, e Camera 50mp Com Ai",
@@ -320,10 +324,13 @@
    "afiliado": "https://meli.la/1wzUHz9",
    "ml": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-pro-5g-256gb-12gb-ram-camera-traseira-50-mp-ois-50-mp-10-mp-selfie-50-mp-tela-67-azul/p/MLB49085450",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969960-MLA116373017861_082026-O.webp",
-   "videos": [],
+   "videos": [
+    "motorola-comprar-fugir"
+   ],
    "busca": "smartphone motorola edge 60 pro 5g 256gb 12gb ram camera traseira 50",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "edge60pro"
   },
   "smartphone-motorola-edge-60-fusion-5g": {
    "nome": "Smartphone Motorola Edge 60 Fusion 5G - 256GB 8GB RAM+16GB Ram Boost, Tela Quad-Curve",
@@ -331,10 +338,13 @@
    "afiliado": "https://meli.la/2eQJJxH",
    "ml": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram16gb-ram-boost-tela-quad-curve-moto-ai-50mp-sony-camera-ultrarresistencia-militar-ip68-ip69-mocha-mousse/p/MLB47295350",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908302-MLA99985086463_112025-O.webp",
-   "videos": [],
+   "videos": [
+    "motorola-comprar-fugir"
+   ],
    "busca": "smartphone motorola edge 60 fusion 5g 256gb 8gb ram 16gb ram boost",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "edge60fusion"
   },
   "smartphone-motorola-moto-g86-5g-512gb": {
    "nome": "Smartphone Motorola Moto G86 5G 512GB 12GB RAM+12GB Ram Boost, Câmera Traseira 50MP +",
@@ -353,10 +363,13 @@
    "afiliado": "https://meli.la/2vrCHyx",
    "ml": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g56-5g-256gb-8gb-ram8gb-ram-boost-camera-50mp-sony-lytia-600-ultrarresistencia-militar-e-ip68-ip69-cinza/p/MLB50301060",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-O.webp",
-   "videos": [],
+   "videos": [
+    "motorola-comprar-fugir"
+   ],
    "busca": "smartphone motorola moto g56 5g 256gb 8gb ram 8gb ram boost camera",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "g56"
   },
   "smartphone-g17-tela-6-7-polegadas": {
    "nome": "Smartphone G17 Tela 6,7 Polegadas 128GB 4G Câmera 50MP Motorola",
@@ -6673,6 +6686,78 @@
     "notebooks-faixas",
     "notebooks4500"
    ]
+  },
+  "poco-m8-pro": {
+   "nome": "Xiaomi Poco M8 Pro 5G 8GB 256GB",
+   "categoria": "celulares",
+   "atalho": "m8pro",
+   "afiliado": "https://meli.la/2Lw5KSQ",
+   "ml": "https://www.mercadolivre.com.br/xiaomi-poco-m8-pro-5g-8ram256gb/p/MLB73398348",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_831700-MLA113140182361_062026-O.webp",
+   "videos": [
+    "poco-m8-pro"
+   ],
+   "busca": "poco m8 pro"
+  },
+  "galaxy-a07-8gb": {
+   "nome": "Samsung Galaxy A07 8GB 256GB",
+   "categoria": "celulares",
+   "atalho": "a07",
+   "afiliado": "https://meli.la/2eKCiJz",
+   "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-camera-50mp-verde/p/MLB54963045",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_778917-MLA91526601104_092025-O.webp",
+   "videos": [
+    "cel-ate-1000"
+   ],
+   "busca": "galaxy a07"
+  },
+  "realme-c71": {
+   "nome": "Realme C71 8GB 256GB",
+   "categoria": "celulares",
+   "atalho": "c71",
+   "afiliado": "https://meli.la/1MG5qKA",
+   "ml": "https://www.mercadolivre.com.br/realme-c71-256gb-8gb-ram-branco/p/MLB61419722",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_713426-MLA96266248116_102025-O.webp",
+   "videos": [
+    "cel-ate-1000"
+   ],
+   "busca": "realme c71"
+  },
+  "redmi-15": {
+   "nome": "Xiaomi Redmi 15 8GB 256GB",
+   "categoria": "celulares",
+   "atalho": "redmi15",
+   "afiliado": "https://meli.la/2D3NSbb",
+   "ml": "https://www.mercadolivre.com.br/smartphone-xiaomi-redmi-15-8gb-256gb-tela-69-144hz-bateria-7000-mah-50-mp-roxo/p/MLB61511999",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_758920-MLA99420370660_112025-O.webp",
+   "videos": [
+    "cel-ate-1000"
+   ],
+   "busca": "redmi 15"
+  },
+  "poco-m7-pro": {
+   "nome": "Xiaomi Poco M7 Pro 5G 8GB 256GB",
+   "categoria": "celulares",
+   "atalho": "m7pro",
+   "afiliado": "https://meli.la/2cZyPCi",
+   "ml": "https://www.mercadolivre.com.br/smartphone-poco-m7-pro-5g-8gb-ram-256gb-nfc-50mp-prata/p/MLB50205749",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_790531-MLA92043835467_092025-O.webp",
+   "videos": [
+    "cel-ate-1000"
+   ],
+   "busca": "poco m7 pro"
+  },
+  "edge-70-pro": {
+   "nome": "Motorola Edge 70 Pro 5G 12GB 256GB",
+   "categoria": "celulares",
+   "atalho": "edge70pro",
+   "afiliado": "https://meli.la/26efpss",
+   "ml": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-pro-5g-256gb-12gb-ram12gb-ram-boost-4-cameras-de-50mp-tela-15k-extreme-amoled-144hz-bateria-6500-mah-ip68ip69-azul-escuro/p/MLB69322382",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_660092-MLA110410356432_052026-O.webp",
+   "videos": [
+    "motorola-comprar-fugir"
+   ],
+   "busca": "edge 70 pro"
   }
  },
  "paginas": [
