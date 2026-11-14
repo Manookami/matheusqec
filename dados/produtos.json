@@ -105,7 +105,8 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617988-MLA107565433120_032026-O.webp",
    "videos": [
     "celularhoje",
-    "celulares5"
+    "celulares5",
+    "redmi-note-15-vs-pro"
    ],
    "busca": "redmi note 15 pro 5g"
   },
@@ -432,10 +433,13 @@
    "afiliado": "https://meli.la/1KCQeJT",
    "ml": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-O.webp",
-   "videos": [],
+   "videos": [
+    "iphone-17e"
+   ],
    "busca": "iphone 16e 128 gb preto distribuidor autorizado",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "iphone16e"
   },
   "iphone-17-256-gb-8-gb": {
    "nome": "iPhone 17 256 GB 8 GB Preto - Distribuidor Autorizado",
@@ -443,10 +447,13 @@
    "afiliado": "https://meli.la/2qrNSeb",
    "ml": "https://www.mercadolivre.com.br/iphone-17-256gb-8-gb-preto-distribuidor-autorizado/p/MLB1055308917",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_724430-MLA97899894923_112025-O.webp",
-   "videos": [],
+   "videos": [
+    "iphone-17e"
+   ],
    "busca": "iphone 17 256 gb 8 gb preto distribuidor autorizado",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "iphone17"
   },
   "apple-iphone-16-256-gb-preto": {
    "nome": "Apple iPhone 16 (256 GB) - Preto - Distribuidor Autorizado",
@@ -1103,10 +1110,13 @@
    "afiliado": "https://meli.la/2tCTqeB",
    "ml": "https://www.mercadolivre.com.br/iphone-17e-256gb-preto-distribuidor-autorizado/p/MLB1066130044",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717704-MLA107971005255_032026-O.webp",
-   "videos": [],
+   "videos": [
+    "iphone-17e"
+   ],
    "busca": "iphone 17e 256gb preto distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "iphone17e"
   },
   "iphone-17-pro-256gb-azul-profundo": {
    "nome": "iPhone 17 Pro 256GB - Azul-profundo - Distribuidor Autorizado",
@@ -1225,7 +1235,9 @@
    "afiliado": "https://meli.la/2Tga8gy",
    "ml": "https://www.mercadolivre.com.br/apple-iphone-16-128-gb-preto-distribuidor-autorizado/p/MLB1040287808",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673808-MLA99443133132_112025-O.webp",
-   "videos": [],
+   "videos": [
+    "iphone-17e"
+   ],
    "busca": "iphone 16 apple"
   },
   "iphone-15": {
@@ -6695,7 +6707,8 @@
    "ml": "https://www.mercadolivre.com.br/xiaomi-poco-m8-pro-5g-8ram256gb/p/MLB73398348",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_831700-MLA113140182361_062026-O.webp",
    "videos": [
-    "poco-m8-pro"
+    "poco-m8-pro",
+    "redmi-note-15-vs-pro"
    ],
    "busca": "poco m8 pro"
   },
@@ -6758,6 +6771,18 @@
     "motorola-comprar-fugir"
    ],
    "busca": "edge 70 pro"
+  },
+  "redmi-note-15-5g": {
+   "nome": "Redmi Note 15 5G 256GB 8GB",
+   "categoria": "celulares",
+   "atalho": "note15",
+   "afiliado": "https://meli.la/2xJryNw",
+   "ml": "https://www.mercadolivre.com.br/redmi-note-15-5g-256gb-8gb-677-108mp-5520mah-preto/p/MLB65614786",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_603436-MLA107251205745_022026-O.webp",
+   "videos": [
+    "redmi-note-15-vs-pro"
+   ],
+   "busca": "redmi note 15 5g"
   }
  },
  "paginas": [
