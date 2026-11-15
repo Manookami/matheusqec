@@ -54,7 +54,8 @@
     "celulares5",
     "galaxy-a",
     "samsung10",
-    "s25ultra"
+    "s25ultra",
+    "a57-vs-edge70-fusion"
    ],
    "busca": "samsung galaxy a57 5g 128gb",
    "historico_inicial": [
@@ -105,8 +106,7 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617988-MLA107565433120_032026-O.webp",
    "videos": [
     "celularhoje",
-    "celulares5",
-    "redmi-note-15-vs-pro"
+    "celulares5"
    ],
    "busca": "redmi note 15 pro 5g"
   },
@@ -857,10 +857,13 @@
    "afiliado": "https://meli.la/199wm7V",
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-azul-escuro/p/MLB69983500",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620533-MLA114207542675_072026-O.webp",
-   "videos": [],
+   "videos": [
+    "a57-vs-edge70-fusion"
+   ],
    "busca": "celular samsung galaxy a57 5g 256gb 8gb ram recursos ai azul escuro",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "a57256"
   },
   "smartphone-motorola-edge-70-fusion-5g": {
    "nome": "Smartphone Motorola Edge 70 Fusion 5g Fifa World Cup Collection - 256gb 8gb Ram + 16gb",
@@ -868,10 +871,13 @@
    "afiliado": "https://meli.la/17zuzrz",
    "ml": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-fusion-5g-fifa-world-cup-collection-256gb-8gb-ram-16gb-ram-boost-camera-50mp-sony-lytia-710-tela-15k-extreme-amoled-grafite/p/MLB67444410",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_675745-MLA111332756891_052026-O.webp",
-   "videos": [],
+   "videos": [
+    "a57-vs-edge70-fusion"
+   ],
    "busca": "smartphone motorola edge 70 fusion 5g fifa world cup collection 256gb 8gb",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "edge70fusion"
   },
   "smartphone-motorola-moto-g67-5g-256gb": {
    "nome": "Smartphone Motorola Moto G67 5g - 256gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia",
@@ -6783,6 +6789,18 @@
     "redmi-note-15-vs-pro"
    ],
    "busca": "redmi note 15 5g"
+  },
+  "redmi-note-15-pro-256": {
+   "nome": "Redmi Note 15 Pro 5G 256GB 8GB",
+   "categoria": "celulares",
+   "atalho": "note15pro",
+   "afiliado": "https://meli.la/1CXADfn",
+   "ml": "https://www.mercadolivre.com.br/smartphone-xiaomi-redmi-note-15-pro-5g-256gb-8gb-ram-amoled-683-120hz-azul/p/MLB66799329",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_930687-MLA108180651336_032026-O.webp",
+   "videos": [
+    "redmi-note-15-vs-pro"
+   ],
+   "busca": "redmi note 15 pro 5g 256gb"
   }
  },
  "paginas": [
