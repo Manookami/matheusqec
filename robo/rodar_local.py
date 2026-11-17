@@ -56,6 +56,11 @@ def main():
         sys.exit("Parou: o robô de preços deu erro (veja as mensagens acima). Nada foi enviado ao site.\n"
                  "Se a mensagem disser que o Mercado Livre recusou o token, rode de novo 'python robo/autorizar_ml.py'.")
 
+    # links de afiliado que abrem o produto errado (ou nenhum): novos todo dia, todos às segundas
+    completo = __import__("datetime").date.today().weekday() == 0
+    subprocess.run([sys.executable, "robo/conferir_links.py"] + ([] if completo else ["--so-novos"]),
+                   cwd=RAIZ, env=dict(os.environ, PYTHONIOENCODING="utf-8"))
+
     passo("2/4 Testes")
     roda(sys.executable, "testes/teste.py")
 
@@ -68,7 +73,7 @@ def main():
         ULTIMA.write_text(hoje)
         return
     ULTIMA.write_text(hoje)
-    roda("git", "add", "dados/")
+    roda("git", "add", "dados/", "robo/links_conferidos.json")
     if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=RAIZ).returncode == 0:
         print("Nenhum preço mudou. Nada para enviar.")
         return

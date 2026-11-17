@@ -145,9 +145,10 @@ def main():
 
     lidos = 0
     for pid, cat in produtos["produtos"].items():
+        errado = cat.get("afiliado_errado")  # meli.la aponta para outro produto: não ler preço por ele
         ref = (("item", cat["item"]) if cat.get("item") else None) or id_ml(cat.get("ml")) \
-            or id_ml(precos.get(pid, {}).get("ml_resolvido"))
-        if not ref and cat.get("afiliado"):
+            or (None if errado else id_ml(precos.get(pid, {}).get("ml_resolvido")))
+        if not ref and cat.get("afiliado") and not errado:
             destino = resolver(cat["afiliado"])
             ref = id_ml(destino)
             if ref:

@@ -73,12 +73,17 @@ def link_busca(cat):
 
 def link_produto(pid, produtos, precos):
     """Para onde o clique vai:
-    1. o link de afiliado que o Matheus gerou no painel do ML (enquanto o produto tem estoque);
-    2. se esgotou ou ainda não tem link: a busca do produto no ML, com a tag de afiliado."""
+    1. o link de afiliado (meli.la) que o Matheus gerou, se tem estoque e o link leva ao produto certo
+       (robo/conferir_links.py marca `afiliado_errado` quando o meli.la abre outro produto ou nenhum);
+    2. link errado mas o anúncio é conhecido e tem estoque: a página do produto no ML com a tag de afiliado;
+    3. esgotou ou não há anúncio conhecido: a busca do produto no ML, com a tag de afiliado.
+    Assim a pessoa nunca cai numa página sem o produto que clicou."""
     cat = produtos["produtos"][pid]
     disponivel = precos.get(pid, {}).get("disponivel", True)
-    if cat.get("afiliado") and disponivel:
+    if cat.get("afiliado") and disponivel and not cat.get("afiliado_errado"):
         return cat["afiliado"]
+    if disponivel and cat.get("ml"):
+        return link_afiliado(cat["ml"], produtos.get("afiliado"))
     return link_afiliado(link_busca(cat), produtos.get("afiliado"))
 
 
