@@ -5,11 +5,16 @@ anúncio errado (ou o anúncio acabou), a página abre sem o produto e a pessoa 
 Este script abre cada link (sem login, 1 por segundo), lê o título do produto em destaque (og:title) e compara
 com o nome do produto no catálogo. Resultado em robo/links_conferidos.json.
 
-Link errado (parecido < 0.45) ganha `afiliado_errado: true` no produtos.json: o site então manda o clique para a
-página do produto no ML com a tag de afiliado (comum.link_produto). A marca só sai quando o link é trocado e o
-novo passa na conferência. `afiliado_ok: true` num produto = conferido à mão, nunca marcar.
+Por que quebra: o meli.la aponta para a página de CATÁLOGO do produto. Quando ela fica sem vendedor principal
+(acabou o estoque, vendedor saiu), o ML mostra "Este perfil ainda está vazio". Quando volta a ter vendedor, o
+mesmo link volta a funcionar. Então:
+  - não abriu o produto (parecido < 0.45) -> `afiliado_errado: true`: o site manda o clique para a página do
+    produto no ML (ou para a busca, se esgotado), sempre com a tag de afiliado (comum.link_produto);
+  - voltou a abrir o produto -> a marca sai sozinha e o site volta a usar o meli.la.
+`afiliado_ok: true` num produto = conferido à mão, nunca marcar.
 
-uso: python robo/conferir_links.py [--so-novos]   (--so-novos: só links que ainda não foram conferidos)
+uso: python robo/conferir_links.py           links novos + os que estão marcados como errados (rápido, todo dia)
+     python robo/conferir_links.py --todos   todos os links (~30 min, às segundas)
 """
 import json
 import re
@@ -53,7 +58,8 @@ def main():
     marcar, desmarcar = set(), set()
     for i, (pid, p) in enumerate(produtos.items()):
         url = p.get("afiliado")
-        if not url or ("--so-novos" in sys.argv and feitos.get(pid, {}).get("url") == url):
+        ja_visto = feitos.get(pid, {}).get("url") == url
+        if not url or ("--todos" not in sys.argv and ja_visto and not p.get("afiliado_errado")):
             continue
         try:
             titulo = destaque(url)
@@ -61,11 +67,10 @@ def main():
             print(f"- {pid}: erro {e}")
             continue
         nota = parecido(p["nome"], titulo) if titulo and "Perfil Social" not in titulo else 0.0
-        novo_link = feitos.get(pid, {}).get("url") != url
         feitos[pid] = {"url": url, "titulo": titulo, "parecido": round(nota, 2)}
         if nota < LIMITE and not p.get("afiliado_ok"):
             marcar.add(pid)
-        elif novo_link:
+        elif p.get("afiliado_errado"):
             desmarcar.add(pid)
         print(f"{i:4} {nota:.2f} {pid[:40]:40} -> {titulo[:70]}")
         if i % 25 == 0:
@@ -79,7 +84,8 @@ def main():
         for pid in desmarcar & set(dados["produtos"]):
             dados["produtos"][pid].pop("afiliado_errado", None)
         gravar_json(ARQ_PRODUTOS, dados)
-    print(f"Links conferidos. Errados: {len(marcar)}" + (f" -> {sorted(marcar)}" if marcar else ""))
+    print(f"Links conferidos. Sem o produto na página: {len(marcar)}. Voltaram a funcionar: {len(desmarcar)}"
+          + (f" -> {sorted(desmarcar)}" if desmarcar else ""))
 
 
 if __name__ == "__main__":

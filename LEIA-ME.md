@@ -21,6 +21,13 @@ precos"; se o PC estiver desligado, roda quando ligar). O resultado da última r
 **Limite da API:** produtos de catálogo (`/p/MLB...`) são lidos pela API. Anúncios fora do catálogo (`/up/...`, ~50)
 o ML não deixa ler: o site mostra o último preço por até **3 dias** e depois troca por "Ver preço no Mercado Livre".
 
+## Botão Comprar nunca cai em página vazia
+
+O meli.la aponta para a página de catálogo do produto. Quando ela fica sem vendedor principal, o ML mostra
+"Este perfil ainda está vazio". `robo/conferir_links.py` (roda junto com o robô: novos + marcados todo dia, todos às
+segundas) marca esses produtos com `afiliado_errado`; o botão então vai para a página do produto no ML (ou a busca,
+se esgotado) com a tag de afiliado. Quando o vendedor volta, a marca sai sozinha.
+
 ## Fitinha de desconto (regras anti-desconto-falso)
 
 `desconto_real` em `robo/comum.py`: só aparece se o preço de hoje estiver **5% ou mais abaixo da mediana dos últimos

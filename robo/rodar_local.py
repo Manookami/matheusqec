@@ -56,9 +56,9 @@ def main():
         sys.exit("Parou: o robô de preços deu erro (veja as mensagens acima). Nada foi enviado ao site.\n"
                  "Se a mensagem disser que o Mercado Livre recusou o token, rode de novo 'python robo/autorizar_ml.py'.")
 
-    # links de afiliado que abrem o produto errado (ou nenhum): novos todo dia, todos às segundas
+    # links de afiliado cuja página está sem o produto: novos e marcados todo dia, todos às segundas
     completo = __import__("datetime").date.today().weekday() == 0
-    subprocess.run([sys.executable, "robo/conferir_links.py"] + ([] if completo else ["--so-novos"]),
+    subprocess.run([sys.executable, "robo/conferir_links.py"] + (["--todos"] if completo else []),
                    cwd=RAIZ, env=dict(os.environ, PYTHONIOENCODING="utf-8"))
 
     passo("2/4 Testes")
