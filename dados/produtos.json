@@ -55,7 +55,8 @@
     "galaxy-a",
     "samsung10",
     "s25ultra",
-    "a57-vs-edge70-fusion"
+    "a57-vs-edge70-fusion",
+    "nao-compre-samsung"
    ],
    "busca": "samsung galaxy a57 5g 128gb",
    "historico_inicial": [
@@ -93,7 +94,8 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774767-MLA110446231204_052026-O.webp",
    "videos": [
     "celularhoje",
-    "celulares5"
+    "celulares5",
+    "moto-edge-70-pro"
    ],
    "busca": "poco x8 pro"
   },
@@ -134,7 +136,8 @@
    "videos": [
     "celularhoje",
     "galaxy-a",
-    "samsung10"
+    "samsung10",
+    "nao-compre-samsung"
    ],
    "busca": "samsung galaxy a17 5g"
   },
@@ -158,7 +161,8 @@
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-128gb-8gb-ram-camera-tripla-de-50128-tela-grande-de-67-azul-marinho/p/MLB61655019",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993303-MLA96666133268_112025-O.webp",
    "videos": [
-    "samsung10"
+    "samsung10",
+    "nao-compre-samsung"
    ],
    "busca": "samsung galaxy s25 fe"
   },
@@ -168,10 +172,13 @@
    "afiliado": "https://meli.la/16zdRTj",
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-128gb-4gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB65114795",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868127-MLA118013296557_092026-O.webp",
-   "videos": [],
+   "videos": [
+    "nao-compre-samsung"
+   ],
    "busca": "celular samsung galaxy a17 com ia 128gb 4gb ram cam de 50mp",
    "vendidos": 100000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "a17128"
   },
   "smartphone-samsung-galaxy-a17-8gb-256gb": {
    "nome": "Smartphone Samsung Galaxy A17 8GB 256GB 50MP 6.7\"",
@@ -224,7 +231,8 @@
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-cinza/p/MLB54984333",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617918-MLA96431049734_102025-O.webp",
    "videos": [
-    "cel-ate-1000"
+    "cel-ate-1000",
+    "nao-compre-samsung"
    ],
    "busca": "celular samsung galaxy a17 com ia 256gb 8gb ram cam de 50mp",
    "vendidos": 50000,
@@ -328,7 +336,8 @@
    "ml": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-pro-5g-256gb-12gb-ram-camera-traseira-50-mp-ois-50-mp-10-mp-selfie-50-mp-tela-67-azul/p/MLB49085450",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969960-MLA116373017861_082026-O.webp",
    "videos": [
-    "motorola-comprar-fugir"
+    "motorola-comprar-fugir",
+    "moto-edge-70-pro"
    ],
    "busca": "smartphone motorola edge 60 pro 5g 256gb 12gb ram camera traseira 50",
    "vendidos": 10000,
@@ -865,7 +874,8 @@
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-azul-escuro/p/MLB69983500",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620533-MLA114207542675_072026-O.webp",
    "videos": [
-    "a57-vs-edge70-fusion"
+    "a57-vs-edge70-fusion",
+    "nao-compre-samsung"
    ],
    "busca": "celular samsung galaxy a57 5g 256gb 8gb ram recursos ai azul escuro",
    "vendidos": 5000,
@@ -1116,10 +1126,13 @@
    "afiliado": "https://meli.la/2LHrQD5",
    "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp/p/MLB68230300",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957431-MLA113151371921_062026-O.webp",
-   "videos": [],
+   "videos": [
+    "nao-compre-samsung"
+   ],
    "busca": "celular samsung galaxy a37 5g 128gb 6gb ram camera 50mp",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "atalho": "a37"
   },
   "iphone-17e-256gb-preto-distribuidor-autorizado": {
    "nome": "iPhone 17e 256GB Preto - Distribuidor Autorizado",
@@ -1288,7 +1301,9 @@
    "afiliado": "https://meli.la/1UQQSeX",
    "ml": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a36-5g-128gb-6gb-ram-camera-tripla-de-ate-50mp-selfie-de-12mp-ip67-super-amoled-67-nfc-recursos-ai-android-e-seguranca-snapdragon-preto/p/MLB65952157",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944288-MLA116511342948_092026-O.webp",
-   "videos": [],
+   "videos": [
+    "nao-compre-samsung"
+   ],
    "busca": "samsung galaxy a36"
   },
   "redmi-note-14-pro": {
@@ -3576,8 +3591,7 @@
    "videos": [],
    "busca": "fone qcy t17 bluetooth 5 1 modo game e cancelamento de ruido",
    "vendidos": 50000,
-   "nota": 4.8,
-   "afiliado_errado": true
+   "nota": 4.8
   },
   "fone-headphone-jbl-tune-520bt-bluetooth": {
    "nome": "Fone Headphone JBL Tune 520BT Bluetooth Branco",
@@ -4267,8 +4281,7 @@
    "videos": [],
    "busca": "grand theft auto vi playstation 5",
    "vendidos": 100,
-   "fixado": true,
-   "afiliado_errado": true
+   "fixado": true
   },
   "controlador-sem-fio-gamesir-t4-nova": {
    "nome": "Controlador Sem Fio Gamesir T4 Nova Lite 2 Preto",
@@ -4280,8 +4293,7 @@
    "busca": "controlador sem fio gamesir t4 nova lite 2 preto",
    "vendidos": 100,
    "nota": 4.8,
-   "fixado": true,
-   "afiliado_errado": true
+   "fixado": true
   },
   "controlador-de-pc-sem-fio-gamesir": {
    "nome": "Controlador De Pc Sem Fio Gamesir Nova 2 Lite",
@@ -6815,7 +6827,8 @@
    "ml": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-pro-5g-256gb-12gb-ram12gb-ram-boost-4-cameras-de-50mp-tela-15k-extreme-amoled-144hz-bateria-6500-mah-ip68ip69-azul-escuro/p/MLB69322382",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660092-MLA110410356432_052026-O.webp",
    "videos": [
-    "motorola-comprar-fugir"
+    "motorola-comprar-fugir",
+    "moto-edge-70-pro"
    ],
    "busca": "edge 70 pro"
   },
