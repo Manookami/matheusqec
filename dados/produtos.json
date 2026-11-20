@@ -95,7 +95,8 @@
    "videos": [
     "celularhoje",
     "celulares5",
-    "moto-edge-70-pro"
+    "moto-edge-70-pro",
+    "xiaomi-comprar-fugir"
    ],
    "busca": "poco x8 pro"
   },
@@ -1224,8 +1225,7 @@
    "videos": [],
    "busca": "apple iphone 15 128 gb cor rosa",
    "vendidos": 1000,
-   "nota": 4.8,
-   "afiliado_errado": true
+   "nota": 4.8
   },
   "smartphone-realme-c75-5g-256gb-8gb": {
    "nome": "Smartphone Realme C75 5g 256gb 8gb Ram Dual Sim",
@@ -6765,7 +6765,8 @@
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_831700-MLA113140182361_062026-O.webp",
    "videos": [
     "poco-m8-pro",
-    "redmi-note-15-vs-pro"
+    "redmi-note-15-vs-pro",
+    "xiaomi-comprar-fugir"
    ],
    "busca": "poco m8 pro"
   },
@@ -6853,6 +6854,39 @@
     "redmi-note-15-vs-pro"
    ],
    "busca": "redmi note 15 pro 5g 256gb"
+  },
+  "redmi-note-15-4g-256": {
+   "nome": "Redmi Note 15 4G 256GB 8GB",
+   "categoria": "celulares",
+   "atalho": "note154g",
+   "afiliado": "https://meli.la/2ZWuJzn",
+   "ml": "https://www.mercadolivre.com.br/p/MLB65137487",
+   "videos": [
+    "xiaomi-comprar-fugir"
+   ],
+   "busca": "redmi note 15 4g"
+  },
+  "poco-m8-5g-256": {
+   "nome": "Xiaomi Poco M8 5G 256GB 8GB",
+   "categoria": "celulares",
+   "atalho": "pocom8",
+   "afiliado": "https://meli.la/1SN7J5Q",
+   "ml": "https://www.mercadolivre.com.br/p/MLB64537602",
+   "videos": [
+    "xiaomi-comprar-fugir"
+   ],
+   "busca": "poco m8 5g"
+  },
+  "poco-f8-pro-256": {
+   "nome": "Poco F8 Pro 5G 256GB 12GB",
+   "categoria": "celulares",
+   "atalho": "f8pro",
+   "afiliado": "https://meli.la/1TCfq4B",
+   "ml": "https://www.mercadolivre.com.br/p/MLB81709657",
+   "videos": [
+    "xiaomi-comprar-fugir"
+   ],
+   "busca": "poco f8 pro"
   }
  },
  "paginas": [
