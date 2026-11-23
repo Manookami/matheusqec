@@ -316,7 +316,8 @@
    "videos": [],
    "busca": "samsung galaxy s24 fe 8gb ram 256gb rom 5g grafite",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "smartphone-samsung-galaxy-a36-5g-128gb": {
    "nome": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp",
@@ -425,7 +426,8 @@
    "videos": [],
    "busca": "smartphone motorola edge 60 5g 512gb 12gb ram 12gb ram boost tela",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "smartphone-motorola-moto-g05-256gb-4gb": {
    "nome": "Smartphone Motorola Moto G05 256gb 4gb Ram e Camera 50mp Grafite",
@@ -508,7 +510,8 @@
    "videos": [],
    "busca": "apple iphone 15 256 gb azul distribuidor autorizado",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "celular-smartphone-realme-c73-256gb-8gb": {
    "nome": "Celular Smartphone Realme C73 256gb 8gb Ram Dual Sim 120hz 6000mAh Verde",
@@ -541,7 +544,8 @@
    "videos": [],
    "busca": "poco x6 pro 5g dual sim 512 gb preto 12 gb ram",
    "vendidos": 10000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "smartphone-xiaomi-redmi-14c-preto-128gb": {
    "nome": "Smartphone Xiaomi Redmi 14C Preto 128GB 4GB RAM",
@@ -673,7 +677,8 @@
    "videos": [],
    "busca": "samsung galaxy a34 5g 256 gb preto 8 gb ram",
    "vendidos": 10000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "smartphone-motorola-edge-50-fusion-5g": {
    "nome": "Smartphone Motorola Edge 50 Fusion 5G - 256GB 8GB RAM + 8GB RAM Boost 50MP Sony AI Camera",
@@ -718,7 +723,8 @@
    "videos": [],
    "busca": "celular motorola moto g56 256gb 12gb ram 5g dual sim green",
    "vendidos": 10000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "xiaomi-poco-x6-pro-5g-dual": {
    "nome": "Xiaomi Poco X6 Pro 5G Dual SIM 256 GB Preto 8 GB RAM",
@@ -741,7 +747,8 @@
    "videos": [],
    "busca": "celular xiaomi redmi note 13 8gb 256gb midnight black",
    "vendidos": 10000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "poco-c85-256gb-dual-sim-preto": {
    "nome": "Poco C85 256gb Dual Sim Preto",
@@ -808,7 +815,8 @@
    "videos": [],
    "busca": "xiaomi redmi 12c dual sim 128 gb graphite gray 4 gb ram",
    "vendidos": 10000,
-   "nota": 4.7
+   "nota": 4.7,
+   "afiliado_errado": true
   },
   "realme-c55-dual-sim-256-gb": {
    "nome": "Realme C55 Dual SIM 256 GB Sunshower 8 GB RAM",
@@ -819,7 +827,8 @@
    "videos": [],
    "busca": "realme c55 dual sim 256 gb sunshower 8 gb ram",
    "vendidos": 10000,
-   "nota": 4.7
+   "nota": 4.7,
+   "afiliado_errado": true
   },
   "realme-c53-dual-sim-128-gb": {
    "nome": "Realme C53 Dual SIM 128 GB Champion gold 6 GB RAM",
@@ -893,7 +902,8 @@
    "busca": "smartphone motorola edge 70 fusion 5g fifa world cup collection 256gb 8gb",
    "vendidos": 5000,
    "nota": 4.9,
-   "atalho": "edge70fusion"
+   "atalho": "edge70fusion",
+   "afiliado_errado": true
   },
   "smartphone-motorola-moto-g67-5g-256gb": {
    "nome": "Smartphone Motorola Moto G67 5g - 256gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia",
@@ -970,7 +980,8 @@
    "videos": [],
    "busca": "celular xiaomi poco x8 pro 12gb 12gb ram 512gb rom dual sim",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "poco-x8-pro-max-512gb-12gb": {
    "nome": "Poco X8 Pro Max 512gb 12gb Ram Global Bateria 8.500mah",
@@ -1027,7 +1038,8 @@
    "videos": [],
    "busca": "smartphone xiaomi redmi note 14 256gb 8gb ram preto lacrado original",
    "vendidos": 5000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "xiaomi-redmi-note-13-4g-esim": {
    "nome": "Xiaomi Redmi Note 13 4G (esim) Dual SIM 256 GB azul 8 GB RAM",
@@ -1156,7 +1168,8 @@
    "videos": [],
    "busca": "iphone 17 pro 256gb azul profundo distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "iphone-17-pro-max-256gb-prateado": {
    "nome": "iPhone 17 Pro Max 256GB - Prateado - Distribuidor Autorizado",
@@ -1167,7 +1180,8 @@
    "videos": [],
    "busca": "iphone 17 pro max 256gb prateado distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "iphone-17-pro-max-512gb-azul": {
    "nome": "iPhone 17 Pro Max 512GB - Azul-profundo - Distribuidor Autorizado",
@@ -1178,8 +1192,7 @@
    "videos": [],
    "busca": "iphone 17 pro max 512gb azul profundo distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "iphone-17-512-gb-preto-distribuidor": {
    "nome": "iPhone 17 512 GB - Preto - Distribuidor Autorizado",
@@ -1223,7 +1236,8 @@
    "videos": [],
    "busca": "apple iphone 15 128 gb cor rosa",
    "vendidos": 1000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "smartphone-realme-c75-5g-256gb-8gb": {
    "nome": "Smartphone Realme C75 5g 256gb 8gb Ram Dual Sim",
@@ -1582,7 +1596,8 @@
    "videos": [],
    "busca": "smart tv 43 aoc led roku full hd wi fi 60hz hdmi",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "smart-tv-samsung-43-ls43f6000fgxzd-full": {
    "nome": "Smart Tv Samsung 43 Ls43f6000fgxzd Full Hd Led 110v/220v",
@@ -1681,7 +1696,8 @@
    "videos": [],
    "busca": "smart tv tcl 55 polegadas qled 4k p7k wifi bluetooth google tv",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "smart-tv-samsung-led-55-lh55befh4ggxzd": {
    "nome": "Smart Tv Samsung Led 55 Lh55befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v",
@@ -2273,7 +2289,8 @@
    ],
    "busca": "notebook gamer lenovo loq e 15iax9e intel core i5 12450hx 16gb 512gb",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "notebook-samsung-galaxy-book4-intel-core": {
    "nome": "Notebook Samsung Galaxy Book4 Intel® Core™ i5-1335U (1.3 Ghz, até 4.6GHz, 12 MB L3",
@@ -2317,7 +2334,8 @@
    "videos": [],
    "busca": "notebook lenovo ideapad slim 3 15irh10 intel core i5 13420h 16gb 512gb",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "notebook-lenovo-ideapad-1-15iru7-intel": {
    "nome": "Notebook Lenovo Ideapad 1 15iru7 Intel Core i3-1315u 8gb 256gb Ssd Windows 11 15.6 -",
@@ -2498,8 +2516,7 @@
    "videos": [],
    "busca": "notebook asus vivobook 15 intel core i5 1334u 16gb ram 1tb ssd",
    "vendidos": 5000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "notebook-15-6-acer-aspire-go-2": {
    "nome": "Notebook 15.6\" Acer Aspire Go com Tela Full HD Processador Intel Core i5 de 13ª Geração",
@@ -2800,8 +2817,7 @@
    "videos": [],
    "busca": "notebook asus vivobook s 14 copilot pc s5406sa intel core ultra 7",
    "vendidos": 500,
-   "nota": 4.8,
-   "afiliado_errado": true
+   "nota": 4.8
   },
   "apple-macbook-neo-a3404-2026-13": {
    "nome": "Apple MacBook Neo A3404 2026 13\"",
@@ -3090,7 +3106,8 @@
    "videos": [],
    "busca": "apple ipad wifi 9th geracao cinza espacial a2602 64gb 10 2",
    "vendidos": 50000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "tablet-lenovo-tab-10-1-wifi": {
    "nome": "Tablet Lenovo Tab 10.1' Wifi 5 64gb 4gb Ram Android 14 Cinza",
@@ -3401,7 +3418,8 @@
    "videos": [],
    "busca": "apple ipad 11 geracao a16 wi fi 128gb",
    "vendidos": 500,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "tablet-xiaomi-redmi-pad-2-256gb": {
    "nome": "Tablet Xiaomi Redmi Pad 2 256gb 8gb Ram Global Grafite",
@@ -3763,8 +3781,7 @@
    "videos": [],
    "busca": "fone de ouvido bluetooth dapon h02d bluetooth 5 1 modo sem fio",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "fone-de-ouvido-bluetooth-sem-fio": {
    "nome": "Fone De Ouvido Bluetooth Sem Fio Branco Wave Buds 2 Jbl",
@@ -4117,7 +4134,8 @@
    "videos": [],
    "busca": "apple watch se 3 gps caixa estelar de aluminio 40 mm pulseira",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "apple-watch-se-3-gps-caixa-2": {
    "nome": "Apple Watch SE 3 GPS • Caixa meia-noite de alumínio – 40 mm • Pulseira esportiva meia-noit",
@@ -4242,7 +4260,8 @@
    "videos": [],
    "busca": "grand theft auto vi playstation 5",
    "vendidos": 5000,
-   "fixado": true
+   "fixado": true,
+   "afiliado_errado": true
   },
   "controle-gamesir-g7-pro-trimodo-para": {
    "nome": "Controle Gamesir G7 Pro Trimodo Para Xbox Series S/x, Xbox One, Pc Windows E Android Com",
@@ -4289,7 +4308,8 @@
    "busca": "controlador sem fio gamesir t4 nova lite 2 preto",
    "vendidos": 100,
    "nota": 4.8,
-   "fixado": true
+   "fixado": true,
+   "afiliado_errado": true
   },
   "controlador-de-pc-sem-fio-gamesir": {
    "nome": "Controlador De Pc Sem Fio Gamesir Nova 2 Lite",
@@ -4535,7 +4555,8 @@
    "videos": [],
    "busca": "controle joystick sem fio sony playstation ps5 gray camuflado",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "controle-sony-dualsense-edge-ps5-cor": {
    "nome": "Controle Sony Dualsense Edge Ps5 cor branco",
@@ -5258,7 +5279,8 @@
    "videos": [],
    "busca": "tela game console portatil retro r36s gamer videogame ips",
    "vendidos": 100,
-   "nota": 5
+   "nota": 5,
+   "afiliado_errado": true
   },
   "tela-game-portatil-retro-r36s-64gb": {
    "nome": "Tela Game Portátil Retrô R36s 64gb",
@@ -5269,7 +5291,8 @@
    "videos": [],
    "busca": "tela game portatil retro r36s 64gb",
    "vendidos": 100,
-   "nota": 4.6
+   "nota": 4.6,
+   "afiliado_errado": true
   },
   "r36s-arkos-retro-portatil-128gb-1gb": {
    "nome": "R36s Arkos Retro Portátil 128gb 1gb Ram Inclu Estojo Console",
@@ -6713,7 +6736,8 @@
    "videos": [
     "notebooks-faixas",
     "notebooks4500"
-   ]
+   ],
+   "afiliado_errado": true
   },
   "positivo-vision-r15m-r5-16gb": {
    "nome": "Notebook Positivo Vision R15M Ryzen 5 5625U 16GB 512GB SSD Linux",
