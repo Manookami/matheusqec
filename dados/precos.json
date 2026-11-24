@@ -78,9 +78,9 @@
     "preco": 1785.55
    }
   ],
-  "preco_original": 2029.04,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:14",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_800527-MLA114603389639_072026-F.jpg"
  },
@@ -160,8 +160,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:16",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_774767-MLA110446231204_052026-F.jpg"
  },
@@ -241,8 +241,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:17",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_617988-MLA107565433120_032026-F.jpg"
  },
@@ -322,8 +322,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_634166-MLA99936645603_112025-F.jpg"
  },
@@ -407,8 +407,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:20",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_864503-MLA118251143201_092026-F.jpg"
  },
@@ -488,8 +488,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:21",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_727625-MLA106043504782_022026-F.jpg"
  },
@@ -573,8 +573,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:31",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_802428-MLA113346695838_072026-F.jpg"
  },
@@ -611,7 +611,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:02:32",
+  "atualizado": "2026-11-24T12:01:30",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_772592-MLA117955469522_102026-F.jpg",
   "frete_gratis": true
  },
@@ -694,9 +694,9 @@
     "preco": 2227
    }
   ],
-  "preco_original": 5999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:33",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_884169-MLA106908124660_022026-F.jpg"
  },
@@ -803,9 +803,9 @@
     "preco": 4776.67
    }
   ],
-  "preco_original": 7799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:26",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_673808-MLA99443133132_112025-F.jpg"
  },
@@ -884,9 +884,9 @@
     "preco": 3887.78
    }
   ],
-  "preco_original": 7209,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:26",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_680991-MLA95497804976_102025-F.jpg"
  },
@@ -969,9 +969,9 @@
     "preco": 2999
    }
   ],
-  "preco_original": 4499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:22",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_993303-MLA96666133268_112025-F.jpg"
  },
@@ -1055,8 +1055,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:27",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:27",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_858591-MLA115297984999_072026-F.jpg"
  },
@@ -1139,9 +1139,9 @@
     "preco": 1414
    }
   ],
-  "preco_original": 2599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:28",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_944288-MLA116511342948_092026-F.jpg"
  },
@@ -1217,8 +1217,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:30",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:29",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_975639-MLA95350669097_102025-F.jpg"
  },
@@ -1302,8 +1302,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:37",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:23",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_889084-MLA96651935695_102025-F.jpg"
  },
@@ -1387,8 +1387,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_720285-MLA115957186523_082026-F.jpg"
  },
@@ -1471,9 +1471,9 @@
     "preco": 2865.68
    }
   ],
-  "preco_original": 4900,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:39",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_830993-MLA110505911317_042026-F.jpg"
  },
@@ -1557,8 +1557,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:40",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_987326-MLA114586175410_082026-F.jpg"
  },
@@ -1641,9 +1641,9 @@
     "preco": 3895.49
    }
   ],
-  "preco_original": 4424.1,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:44",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_721945-MLA85788494302_062025-F.jpg"
  },
@@ -1727,8 +1727,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:45",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_631355-MLA118072725823_092026-F.jpg"
  },
@@ -1808,8 +1808,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:46",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_674891-MLA95660366474_102025-F.jpg"
  },
@@ -1893,8 +1893,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:47",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_606666-MLA118254793335_092026-F.jpg"
  },
@@ -1974,8 +1974,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:27",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_890391-MLA83780089508_042025-F.jpg"
  },
@@ -2059,8 +2059,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:28",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_661665-MLA100008937905_122025-F.jpg"
  },
@@ -2169,8 +2169,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:29",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_746662-MLA100005494779_112025-F.jpg"
  },
@@ -2190,10 +2190,10 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:54",
   "frete_gratis": true,
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_756435-MLA95500672926_102025-F.jpg"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_850278-MLA99917137505_112025-F.jpg"
  },
  "xbox-series-s": {
   "historico": [
@@ -2275,8 +2275,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:39",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_733181-MLA99998046015_112025-F.jpg"
  },
@@ -2425,8 +2425,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:41",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg"
  },
@@ -2505,9 +2505,9 @@
     "preco": 1899
    }
   ],
-  "preco_original": 2699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:41",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg"
  },
@@ -2590,9 +2590,9 @@
     "preco": 959
    }
   ],
-  "preco_original": 1499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:23",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_868127-MLA118013296557_092026-F.jpg"
  },
@@ -2676,8 +2676,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:24",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_781103-MLA99983064831_112025-F.jpg"
  },
@@ -2760,9 +2760,9 @@
     "preco": 843.39
    }
   ],
-  "preco_original": 1399,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_621856-MLA120233755023_102026-F.jpg"
  },
@@ -2842,8 +2842,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:26",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_952953-MLA99993096701_112025-F.jpg"
  },
@@ -2923,8 +2923,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:28",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_881900-MLA100064086561_122025-F.jpg"
  },
@@ -3004,8 +3004,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:29",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_617918-MLA96431049734_102025-F.jpg"
  },
@@ -3088,9 +3088,9 @@
     "preco": 1079
    }
   ],
-  "preco_original": 1399,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:31",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg"
  },
@@ -3170,8 +3170,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:32",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:17",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_651353-MLA115768418107_082026-F.jpg"
  },
@@ -3246,9 +3246,9 @@
     "preco": 2279
    }
   ],
-  "preco_original": 2399,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:34",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_792472-MLA100025549859_122025-F.jpg"
  },
@@ -3264,8 +3264,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_672333-MLA99906431449_112025-F.jpg"
  },
@@ -3345,8 +3345,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_642017-MLA119565999344_112026-F.jpg"
  },
@@ -3430,8 +3430,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:39",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_839006-MLA100007826225_122025-F.jpg"
  },
@@ -3515,8 +3515,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:40",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_840870-MLA96785958150_112025-F.jpg"
  },
@@ -3565,7 +3565,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:00:41",
+  "atualizado": "2026-11-24T12:00:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_760601-MLA99385379222_112025-F.jpg"
  },
@@ -3649,8 +3649,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:42",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_925275-MLA99995733515_112025-F.jpg"
  },
@@ -3734,8 +3734,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_969960-MLA116373017861_082026-F.jpg"
  },
@@ -3818,9 +3818,9 @@
     "preco": 1999
    }
   ],
-  "preco_original": 3299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:43",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_908302-MLA99985086463_112025-F.jpg"
  },
@@ -3904,8 +3904,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:44",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_680910-MLA93403249391_092025-F.jpg"
  },
@@ -3989,8 +3989,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:46",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-F.jpg"
  },
@@ -4073,9 +4073,9 @@
     "preco": 887
    }
   ],
-  "preco_original": 1599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:47",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:26",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_826897-MLA105493148208_012026-F.jpg"
  },
@@ -4158,9 +4158,9 @@
     "preco": 1159
    }
   ],
-  "preco_original": 1749,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:48",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_672067-MLA105493797628_012026-F.jpg"
  },
@@ -4244,8 +4244,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:49",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_980483-MLA91807112934_092025-F.jpg"
  },
@@ -4318,7 +4318,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:00:50",
+  "atualizado": "2026-11-24T12:00:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_920690-MLA100089053193_122025-F.jpg"
  },
@@ -4398,8 +4398,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:51",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:29",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_959928-MLA93411040754_092025-F.jpg"
  },
@@ -4474,9 +4474,9 @@
     "preco": 3332
    }
   ],
-  "preco_original": 5799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg"
  },
@@ -4555,9 +4555,9 @@
     "preco": 5859
    }
   ],
-  "preco_original": 7999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_724430-MLA97899894923_112025-F.jpg"
  },
@@ -4636,9 +4636,9 @@
     "preco": 5443.33
    }
   ],
-  "preco_original": 9538.5,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_810957-MLA99386727202_112025-F.jpg"
  },
@@ -4721,9 +4721,9 @@
     "preco": 4001.13
    }
   ],
-  "preco_original": 4599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:54",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_831434-MLA96401363339_102025-F.jpg"
  },
@@ -4802,9 +4802,9 @@
     "preco": 4777
    }
   ],
-  "preco_original": 7799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:55",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_621320-MLA96108215325_102025-F.jpg"
  },
@@ -4869,7 +4869,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:00:56",
+  "atualizado": "2026-11-24T12:00:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_972898-MLA95936460027_102025-F.jpg"
  },
@@ -4952,9 +4952,9 @@
     "preco": 1299.99
    }
   ],
-  "preco_original": 1899.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:57",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_999325-MLA102615422841_122025-F.jpg"
  },
@@ -5033,9 +5033,9 @@
     "preco": 1499
    }
   ],
-  "preco_original": 2749,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:58",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_702537-MLA100077733515_122025-F.jpg"
  },
@@ -5067,8 +5067,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:00",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_859323-MLA100069135937_122025-F.jpg"
  },
@@ -5148,8 +5148,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:02",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_641460-MLA115717276858_092026-F.jpg"
  },
@@ -5232,9 +5232,9 @@
     "preco": 5499
    }
   ],
-  "preco_original": 6599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:03",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_950821-MLA99885966645_112025-F.jpg"
  },
@@ -5314,8 +5314,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_693134-MLA100063156843_122025-F.jpg"
  },
@@ -5395,8 +5395,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:05",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_865110-MLA91946343251_092025-F.jpg"
  },
@@ -5480,8 +5480,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_764395-MLA100066474331_122025-F.jpg"
  },
@@ -5561,8 +5561,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:07",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_685330-MLA99908413809_112025-F.jpg"
  },
@@ -5646,8 +5646,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_888609-MLA99444545828_112025-F.jpg"
  },
@@ -5727,8 +5727,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:09",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744110-MLA99521621748_122025-F.jpg"
  },
@@ -5808,8 +5808,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744110-MLA99521621748_122025-F.jpg"
  },
@@ -5889,8 +5889,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_697102-MLA99477666220_112025-F.jpg"
  },
@@ -5946,8 +5946,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:12",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_746001-MLA97557162377_112025-F.jpg"
  },
@@ -5984,7 +5984,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:01:13",
+  "atualizado": "2026-11-24T12:00:44",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_728484-MLA100005509333_122025-F.jpg",
   "frete_gratis": true
  },
@@ -6064,8 +6064,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:15",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_738426-MLA99941910249_112025-F.jpg"
  },
@@ -6117,8 +6117,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:16",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_726795-MLA99453419756_112025-F.jpg"
  },
@@ -6198,8 +6198,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:17",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_941010-MLA94805297160_102025-F.jpg"
  },
@@ -6240,7 +6240,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:01:18",
+  "atualizado": "2026-11-24T12:00:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_693032-MLA116044424975_082026-F.jpg"
  },
@@ -6312,8 +6312,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_752314-MLA95700696854_102025-F.jpg"
  },
@@ -6333,8 +6333,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:21",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_934647-MLA96870223519_102025-F.jpg"
  },
@@ -6414,8 +6414,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_778100-MLA118919589403_102026-F.jpg"
  },
@@ -6499,8 +6499,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:24",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_685949-MLA99444388896_112025-F.jpg"
  },
@@ -6580,8 +6580,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:25",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_913486-MLA99985168635_112025-F.jpg"
  },
@@ -6602,7 +6602,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:01:26",
+  "atualizado": "2026-11-24T12:00:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_743439-MLA99460158604_112025-F.jpg"
  },
@@ -6686,8 +6686,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:27",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:53",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_714156-MLA100007395925_122025-F.jpg"
  },
@@ -6747,8 +6747,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:31",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_713565-MLA99484844966_112025-F.jpg"
  },
@@ -6820,8 +6820,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:34",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:55",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_910478-MLA100012677569_122025-F.jpg"
  },
@@ -6841,8 +6841,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:37",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:55",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_632087-MLA99995945769_112025-F.jpg"
  },
@@ -6922,8 +6922,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_627845-MLA96148215043_102025-F.jpg"
  },
@@ -7006,9 +7006,9 @@
     "preco": 3719.07
    }
   ],
-  "preco_original": 5799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:38",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_862202-MLA113250060952_072026-F.jpg"
  },
@@ -7092,8 +7092,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:39",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_850898-MLA109668444666_042026-F.jpg"
  },
@@ -7172,9 +7172,9 @@
     "preco": 2443
    }
   ],
-  "preco_original": 4299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:40",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_620533-MLA114207542675_072026-F.jpg"
  },
@@ -7251,7 +7251,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:01:41",
+  "atualizado": "2026-11-24T12:00:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_675745-MLA111332756891_052026-F.jpg"
  },
@@ -7334,9 +7334,9 @@
     "preco": 1699.9
    }
   ],
-  "preco_original": 2989.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:42",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_859554-MLA106048223542_022026-F.jpg"
  },
@@ -7416,8 +7416,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_689704-MLA96194618638_102025-F.jpg"
  },
@@ -7497,8 +7497,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_951495-MLA92143111629_092025-F.jpg"
  },
@@ -7570,8 +7570,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:44",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:03",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_799364-MLA102612646955_122025-F.jpg"
  },
@@ -7667,8 +7667,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:46",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_918430-MLA99498691720_112025-F.jpg"
  },
@@ -7752,8 +7752,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:47",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_715749-MLA109626906325_032026-F.jpg"
  },
@@ -7837,8 +7837,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:49",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_845125-MLA113770837260_072026-F.jpg"
  },
@@ -7922,8 +7922,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:50",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_621921-MLA117221809922_102026-F.jpg"
  },
@@ -7936,7 +7936,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:01:51",
+  "atualizado": "2026-11-24T12:01:07",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_857371-MLA99497292630_112025-F.jpg"
  },
  "poco-x6-5g-dual-sim-256": {
@@ -7951,8 +7951,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:52",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_607965-MLA99464229196_112025-F.jpg"
  },
@@ -8001,7 +8001,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:01:53",
+  "atualizado": "2026-11-24T12:01:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_769884-MLA99986925993_112025-F.jpg"
  },
@@ -8037,8 +8037,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:54",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:09",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_942898-MLA99505241582_112025-F.jpg",
   "frete_gratis": true
  },
@@ -8058,8 +8058,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:01:58",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_892388-MLA99853068569_112025-F.jpg"
  },
@@ -8143,8 +8143,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:00",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_805852-MLA96422066460_102025-F.jpg"
  },
@@ -8164,8 +8164,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_840560-MLA99995901733_112025-F.jpg"
  },
@@ -8185,8 +8185,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_890773-MLA99475814738_112025-F.jpg"
  },
@@ -8202,8 +8202,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:09",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_857229-MLA99524517914_122025-F.jpg"
  },
@@ -8263,8 +8263,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_851405-MLA100008034993_122025-F.jpg"
  },
@@ -8344,8 +8344,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:12",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_650794-MLA95937224239_102025-F.jpg"
  },
@@ -8429,8 +8429,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:00:13",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:00:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_615210-MLA109050269404_032026-F.jpg"
  },
@@ -8510,8 +8510,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:13",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_957431-MLA113151371921_062026-F.jpg"
  },
@@ -8590,9 +8590,9 @@
     "preco": 4554
    }
   ],
-  "preco_original": 5799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:14",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_717704-MLA107971005255_032026-F.jpg"
  },
@@ -8613,7 +8613,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:02:15",
+  "atualizado": "2026-11-24T12:01:17",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_955993-MLA95356227225_102025-F.jpg",
   "frete_gratis": true
  },
@@ -8658,7 +8658,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:02:16",
+  "atualizado": "2026-11-24T12:01:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_984902-MLA95656395432_102025-F.jpg"
  },
@@ -8698,8 +8698,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:16",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_899536-MLA94969052452_102025-F.jpg"
  },
@@ -8782,9 +8782,9 @@
     "preco": 7049
    }
   ],
-  "preco_original": 8499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:17",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_989516-MLA104709273686_012026-F.jpg"
  },
@@ -8867,9 +8867,9 @@
     "preco": 11111.1
    }
   ],
-  "preco_original": 12999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:18",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_907159-MLA95356239699_102025-F.jpg"
  },
@@ -8953,8 +8953,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg"
  },
@@ -8986,8 +8986,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:21",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_634723-MLA95496999820_102025-F.jpg"
  },
@@ -9071,8 +9071,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_853522-MLA86719551215_062025-F.jpg"
  },
@@ -9152,10 +9152,10 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:24",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:23",
   "frete_gratis": true,
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_806187-MLA109269718722_042026-F.jpg"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_887482-MLA110120223633_042026-F.jpg"
  },
  "smartphone-oppo-a6t-5g-256gb-8gb": {
   "historico": [
@@ -9236,9 +9236,9 @@
     "preco": 1599
    }
   ],
-  "preco_original": 1899,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_690885-MLA108423458099_032026-F.jpg"
  },
@@ -9321,9 +9321,9 @@
     "preco": 1370.2
    }
   ],
-  "preco_original": 1599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:35",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_934018-MLA99576753908_122025-F.jpg"
  },
@@ -9406,9 +9406,9 @@
     "preco": 999
    }
   ],
-  "preco_original": 1399.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:36",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_690159-MLA99542831560_122025-F.jpg"
  },
@@ -9492,8 +9492,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:37",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_959706-MLA99950013507_112025-F.jpg"
  },
@@ -9577,8 +9577,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_793872-MLA107807575359_022026-F.jpg"
  },
@@ -9661,9 +9661,9 @@
     "preco": 1699
    }
   ],
-  "preco_original": 2999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:39",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_741946-MLA107875422514_032026-F.jpg"
  },
@@ -9747,8 +9747,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:40",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_929244-MLA104540336039_012026-F.jpg"
  },
@@ -9832,8 +9832,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_994322-MLA99533174096_122025-F.jpg"
  },
@@ -9916,9 +9916,9 @@
     "preco": 1086.3
    }
   ],
-  "preco_original": 2000,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:44",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_896538-MLA118637745827_102026-F.jpg"
  },
@@ -10002,8 +10002,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:45",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_802027-MLA120306983603_102026-F.jpg"
  },
@@ -10086,9 +10086,9 @@
     "preco": 1299.99
    }
   ],
-  "preco_original": 1599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:45",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_705266-MLA95938596400_102025-F.jpg"
  },
@@ -10171,9 +10171,9 @@
     "preco": 1085.87
    }
   ],
-  "preco_original": 1499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:46",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg"
  },
@@ -10256,9 +10256,9 @@
     "preco": 1048.18
    }
   ],
-  "preco_original": 1679.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:47",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-F.jpg"
  },
@@ -10341,9 +10341,9 @@
     "preco": 1120.79
    }
   ],
-  "preco_original": 1499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:48",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_823546-MLA120091348209_102026-F.jpg"
  },
@@ -10438,9 +10438,9 @@
     "preco": 1725.92
    }
   ],
-  "preco_original": 2299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:49",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_886409-MLA117528603517_092026-F.jpg"
  },
@@ -10524,8 +10524,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:50",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_916032-MLA113622765244_072026-F.jpg"
  },
@@ -10605,8 +10605,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:51",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_879007-MLA107588019293_022026-F.jpg"
  },
@@ -10689,9 +10689,9 @@
     "preco": 1652.31
    }
   ],
-  "preco_original": 2499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_697288-MLA100482486016_122025-F.jpg"
  },
@@ -10775,8 +10775,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:53",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_600093-MLA115184611400_082026-F.jpg"
  },
@@ -10860,8 +10860,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:54",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_851786-MLA119786701155_102026-F.jpg"
  },
@@ -10945,8 +10945,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:55",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:48",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_758712-MLA109595558676_042026-F.jpg"
  },
@@ -11014,8 +11014,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:55",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_736986-MLA110508533913_042026-F.jpg"
  },
@@ -11099,8 +11099,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:56",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_653093-MLA119043893630_112026-F.jpg"
  },
@@ -11183,9 +11183,9 @@
     "preco": 2332.22
    }
   ],
-  "preco_original": 3499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:58",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_750412-MLA108743699852_032026-F.jpg"
  },
@@ -11253,8 +11253,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:58",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_798903-MLA95579597211_102025-F.jpg"
  },
@@ -11338,8 +11338,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:02:59",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_976857-MLA114607312864_082026-F.jpg"
  },
@@ -11415,8 +11415,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:00",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:53",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_997328-MLA101890264991_122025-F.jpg"
  },
@@ -11488,8 +11488,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:01",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:54",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_666008-MLA89842004306_082025-F.jpg"
  },
@@ -11572,9 +11572,9 @@
     "preco": 2629
    }
   ],
-  "preco_original": 3248.75,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:02",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_807592-MLA96970001108_112025-F.jpg"
  },
@@ -11654,8 +11654,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:03",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:55",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_860772-MLA110473904657_042026-F.jpg"
  },
@@ -11696,7 +11696,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:03:03",
+  "atualizado": "2026-11-24T12:01:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_991131-MLA110474358921_042026-F.jpg"
  },
@@ -11779,9 +11779,9 @@
     "preco": 3649
    }
   ],
-  "preco_original": 5799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:04",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_712967-MLA96969981644_112025-F.jpg"
  },
@@ -11864,9 +11864,9 @@
     "preco": 4085.11
    }
   ],
-  "preco_original": 4699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:05",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_646248-MLA114585948654_082026-F.jpg"
  },
@@ -11950,8 +11950,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:58",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_747617-MLA94556160281_102025-F.jpg"
  },
@@ -12035,8 +12035,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:07",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_847052-MLA99450901188_112025-F.jpg"
  },
@@ -12119,9 +12119,9 @@
     "preco": 1045.82
    }
   ],
-  "preco_original": 1249,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:08",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:01:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_895373-MLA115962251521_082026-F.jpg"
  },
@@ -12204,9 +12204,9 @@
     "preco": 1619.99
    }
   ],
-  "preco_original": 1849,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:09",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_957852-MLA114585921650_082026-F.jpg"
  },
@@ -12290,8 +12290,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:10",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_882487-MLA92677639078_092025-F.jpg"
  },
@@ -12375,8 +12375,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:10",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:02",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_603690-MLA93305557455_092025-F.jpg"
  },
@@ -12459,9 +12459,9 @@
     "preco": 3559
    }
   ],
-  "preco_original": 4445.31,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:11",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_966485-MLA106907952364_022026-F.jpg"
  },
@@ -12541,8 +12541,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:12",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:03",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_712062-MLA100005051907_122025-F.jpg"
  },
@@ -12625,9 +12625,9 @@
     "preco": 2299
    }
   ],
-  "preco_original": 2699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:13",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_647538-MLA114600858616_082026-F.jpg"
  },
@@ -12710,9 +12710,9 @@
     "preco": 2099
    }
   ],
-  "preco_original": 2999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:14",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_764025-MLA99481366708_112025-F.jpg"
  },
@@ -12807,9 +12807,9 @@
     "preco": 1555
    }
   ],
-  "preco_original": 2285,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:16",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_904392-MLA99951959503_112025-F.jpg"
  },
@@ -12876,9 +12876,9 @@
     "preco": 2006
    }
   ],
-  "preco_original": 2069,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:16",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_858401-MLA108581993365_032026-F.jpg"
  },
@@ -12986,8 +12986,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:18",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_837435-MLA116824598567_082026-F.jpg"
  },
@@ -13071,8 +13071,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_690510-MLA112810253038_072026-F.jpg"
  },
@@ -13105,7 +13105,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:03:20",
+  "atualizado": "2026-11-24T12:02:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_670986-MLA110474291383_042026-F.jpg"
  },
@@ -13201,8 +13201,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_688946-MLA99433685134_112025-F.jpg"
  },
@@ -13285,9 +13285,9 @@
     "preco": 5751.14
    }
   ],
-  "preco_original": 7442.42,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_686037-MLA114686763130_082026-F.jpg"
  },
@@ -13370,9 +13370,9 @@
     "preco": 2129
    }
   ],
-  "preco_original": 2999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_868771-MLA99401762570_112025-F.jpg"
  },
@@ -13455,9 +13455,9 @@
     "preco": 2599
    }
   ],
-  "preco_original": 4999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg"
  },
@@ -13536,9 +13536,9 @@
     "preco": 2499
    }
   ],
-  "preco_original": 3099,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:26",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_651129-MLA92926667074_092025-F.jpg"
  },
@@ -13622,8 +13622,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:27",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744440-MLA99458039046_112025-F.jpg"
  },
@@ -13746,9 +13746,9 @@
     "preco": 2699
    }
   ],
-  "preco_original": 4299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:30",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-F.jpg"
  },
@@ -13765,7 +13765,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:03:30",
+  "atualizado": "2026-11-24T12:02:17",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_763684-MLA106909210912_022026-F.jpg",
   "frete_gratis": true
  },
@@ -13848,9 +13848,9 @@
     "preco": 2198.9
    }
   ],
-  "preco_original": 2799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:31",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_959212-MLA117862689135_092026-F.jpg"
  },
@@ -13883,7 +13883,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:03:32",
+  "atualizado": "2026-11-24T12:02:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_652060-MLA113728659072_072026-F.jpg"
  },
@@ -13967,8 +13967,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:33",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:19",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_857357-MLA116062135096_092026-F.jpg"
  },
@@ -14051,9 +14051,9 @@
     "preco": 2999.99
    }
   ],
-  "preco_original": 3999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:34",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_873476-MLA119586676329_102026-F.jpg"
  },
@@ -14133,8 +14133,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:35",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_657737-MLA115400704411_072026-F.jpg"
  },
@@ -14217,9 +14217,9 @@
     "preco": 6968.99
    }
   ],
-  "preco_original": 7999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:36",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_698095-MLA115948241117_082026-F.jpg"
  },
@@ -14302,9 +14302,9 @@
     "preco": 2702
    }
   ],
-  "preco_original": 3599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:36",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg"
  },
@@ -14399,9 +14399,9 @@
     "preco": 3299
    }
   ],
-  "preco_original": 4499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:42",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_792275-MLA99470991702_112025-F.jpg"
  },
@@ -14484,9 +14484,9 @@
     "preco": 2799
    }
   ],
-  "preco_original": 4199,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:42",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_830301-MLA99949667885_112025-F.jpg"
  },
@@ -14570,8 +14570,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:28",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_759351-MLU77118311686_062024-F.jpg"
  },
@@ -14654,9 +14654,9 @@
     "preco": 3369
    }
   ],
-  "preco_original": 4427.14,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:44",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:29",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_692920-MLA100061644521_122025-F.jpg"
  },
@@ -14735,9 +14735,9 @@
     "preco": 5899.9
    }
   ],
-  "preco_original": 8369.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:45",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_670475-MLA99453294496_112025-F.jpg"
  },
@@ -14754,7 +14754,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:03:46",
+  "atualizado": "2026-11-24T12:02:31",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_834206-MLA99852609423_112025-F.jpg",
   "frete_gratis": false
  },
@@ -14837,9 +14837,9 @@
     "preco": 3781.1
    }
   ],
-  "preco_original": 5799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:47",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_902725-MLA113038325332_072026-F.jpg"
  },
@@ -14922,9 +14922,9 @@
     "preco": 4318.07
    }
   ],
-  "preco_original": 4999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:47",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_704459-MLA99979883783_112025-F.jpg"
  },
@@ -15008,8 +15008,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:48",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_888709-MLA79403192756_092024-F.jpg"
  },
@@ -15042,7 +15042,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:03:49",
+  "atualizado": "2026-11-24T12:02:34",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_708611-MLA99896047685_112025-F.jpg",
   "frete_gratis": true
  },
@@ -15126,8 +15126,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:50",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_718154-MLA99988492837_112025-F.jpg"
  },
@@ -15210,9 +15210,9 @@
     "preco": 3769
    }
   ],
-  "preco_original": 3999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:51",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_995527-MLA99554953104_122025-F.jpg"
  },
@@ -15295,9 +15295,9 @@
     "preco": 3749
    }
   ],
-  "preco_original": 4299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_722728-MLA110061030541_042026-F.jpg"
  },
@@ -15381,8 +15381,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:53",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_600475-MLA113038325206_072026-F.jpg"
  },
@@ -15465,9 +15465,9 @@
     "preco": 1998.89
    }
   ],
-  "preco_original": 2855.71,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:54",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_769255-MLA99631513405_112025-F.jpg"
  },
@@ -15551,8 +15551,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:55",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_923397-MLA121211649207_112026-F.jpg"
  },
@@ -15635,9 +15635,9 @@
     "preco": 1699
    }
   ],
-  "preco_original": 2299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:56",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_802807-MLA119495088576_112026-F.jpg"
  },
@@ -15721,8 +15721,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:57",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_977701-MLA114258720849_072026-F.jpg"
  },
@@ -15786,8 +15786,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:03:58",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_705031-MLA92611852323_092025-F.jpg"
  },
@@ -15871,8 +15871,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:00",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_783638-MLA99935870185_112025-F.jpg"
  },
@@ -15955,9 +15955,9 @@
     "preco": 4191.43
    }
   ],
-  "preco_original": 5524,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:01",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_602930-MLA111944189869_052026-F.jpg"
  },
@@ -16040,9 +16040,9 @@
     "preco": 4499.9
    }
   ],
-  "preco_original": 5999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:01",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_702840-MLA99396320340_112025-F.jpg"
  },
@@ -16091,7 +16091,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:02",
+  "atualizado": "2026-11-24T12:02:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_610078-MLA100473387869_122025-F.jpg"
  },
@@ -16108,7 +16108,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:03",
+  "atualizado": "2026-11-24T12:02:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_993330-MLA118254148259_092026-F.jpg"
  },
@@ -16192,8 +16192,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_672234-MLA99467658012_112025-F.jpg"
  },
@@ -16277,8 +16277,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:05",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_812981-MLA107509143633_022026-F.jpg"
  },
@@ -16358,8 +16358,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_854118-MLA115407357920_082026-F.jpg"
  },
@@ -16439,8 +16439,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:07",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_717474-MLA99531627236_122025-F.jpg"
  },
@@ -16523,9 +16523,9 @@
     "preco": 3684.17
    }
   ],
-  "preco_original": 4699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:08",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_967344-MLA98386191356_112025-F.jpg"
  },
@@ -16609,8 +16609,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_601440-MLA100034623519_122025-F.jpg"
  },
@@ -16666,8 +16666,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:09",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:50",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_601734-MLA99992564339_112025-F.jpg",
   "frete_gratis": true
  },
@@ -16735,8 +16735,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_784497-MLA100064134661_122025-F.jpg"
  },
@@ -16819,9 +16819,9 @@
     "preco": 13999
    }
   ],
-  "preco_original": 15999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:11",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_653695-MLA104541114261_012026-F.jpg"
  },
@@ -16858,7 +16858,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:12",
+  "atualizado": "2026-11-24T12:02:53",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_848979-MLA118254221509_092026-F.jpg"
  },
@@ -16938,8 +16938,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:13",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:53",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_648665-MLA102411169465_122025-F.jpg"
  },
@@ -17038,9 +17038,9 @@
     "preco": 6597
    }
   ],
-  "preco_original": 7099,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:14",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:55",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_779657-MLA112045545304_062026-F.jpg"
  },
@@ -17124,8 +17124,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:15",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:55",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_933021-MLA99446594058_112025-F.jpg"
  },
@@ -17162,7 +17162,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:16",
+  "atualizado": "2026-11-24T12:02:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_634501-MLA99874074933_112025-F.jpg"
  },
@@ -17246,8 +17246,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:17",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_621941-MLA106863964483_022026-F.jpg"
  },
@@ -17326,9 +17326,9 @@
     "preco": 2916.85
    }
   ],
-  "preco_original": 6398,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:18",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_642308-MLA108657097903_032026-F.jpg"
  },
@@ -17428,8 +17428,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:20",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:02:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_747730-MLA110889776327_042026-F.jpg"
  },
@@ -17513,8 +17513,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:21",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_629252-MLA110830026104_052026-F.jpg"
  },
@@ -17598,8 +17598,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_815942-MLA109216021790_042026-F.jpg"
  },
@@ -17678,9 +17678,9 @@
     "preco": 9299
    }
   ],
-  "preco_original": 11599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:22",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_727317-MLA101294168698_122025-F.jpg"
  },
@@ -17763,9 +17763,9 @@
     "preco": 5693.91
    }
   ],
-  "preco_original": 5990,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:03",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_962643-MLA99450381718_112025-F.jpg"
  },
@@ -17849,8 +17849,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:25",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_701154-MLA99470629082_112025-F.jpg"
  },
@@ -17934,8 +17934,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:26",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_842080-MLA109454435224_042026-F.jpg"
  },
@@ -18018,9 +18018,9 @@
     "preco": 5181.15
    }
   ],
-  "preco_original": 6095.47,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:27",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_788058-MLA108114860853_032026-F.jpg"
  },
@@ -18104,8 +18104,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:29",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_733401-MLA108121122079_032026-F.jpg"
  },
@@ -18184,9 +18184,9 @@
     "preco": 2839
    }
   ],
-  "preco_original": 2999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:29",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_972674-MLA113064679728_072026-F.jpg"
  },
@@ -18266,8 +18266,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:30",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_780499-MLA110515042589_042026-F.jpg"
  },
@@ -18351,8 +18351,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:32",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_951511-MLA107400263710_032026-F.jpg"
  },
@@ -18365,7 +18365,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:32",
+  "atualizado": "2026-11-24T12:03:09",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_717940-MLA113360037850_072026-F.jpg"
  },
  "notebook-asus-vivobook-intel-core-i7": {
@@ -18479,9 +18479,9 @@
     "preco": 3282
    }
   ],
-  "preco_original": 6998,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:34",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_931589-MLA113307957276_072026-F.jpg"
  },
@@ -18564,9 +18564,9 @@
     "preco": 8643.99
    }
   ],
-  "preco_original": 9099,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:35",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_681297-MLA115540716254_082026-F.jpg"
  },
@@ -18619,7 +18619,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:36",
+  "atualizado": "2026-11-24T12:03:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_970721-MLU74110422270_012024-F.jpg"
  },
@@ -18699,8 +18699,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_611387-MLA118640306724_102026-F.jpg"
  },
@@ -18780,8 +18780,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:39",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_620748-MLA113036988063_062026-F.jpg"
  },
@@ -18794,7 +18794,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:04:39",
+  "atualizado": "2026-11-24T12:03:16",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_627371-MLU77126363972_062024-F.jpg"
  },
  "notebook-dell-latitude-5420-i5-8gb": {
@@ -18889,8 +18889,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:41",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:17",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_849461-MLA95658914868_102025-F.jpg"
  },
@@ -18969,9 +18969,9 @@
     "preco": 6852
    }
   ],
-  "preco_original": 8699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:42",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_866866-MLU79369652007_092024-F.jpg"
  },
@@ -19082,9 +19082,9 @@
     "preco": 1482.71
    }
   ],
-  "preco_original": 2349,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:48",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_765444-MLA120009570640_112026-F.jpg"
  },
@@ -19167,9 +19167,9 @@
     "preco": 2121.94
    }
   ],
-  "preco_original": 3032.15,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:49",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_840023-MLA115978083965_082026-F.jpg"
  },
@@ -19252,9 +19252,9 @@
     "preco": 1098.89
    }
   ],
-  "preco_original": 1749,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:50",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_611717-MLA106533716665_022026-F.jpg"
  },
@@ -19337,11 +19337,11 @@
     "preco": 1469.59
    }
   ],
-  "preco_original": 1899,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:25",
   "frete_gratis": true,
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_655070-MLA121376137497_112026-F.jpg"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_828904-MLA120430806776_112026-F.jpg"
  },
  "tablet-positivo-vision-tab-7-processador": {
   "historico": [
@@ -19422,9 +19422,9 @@
     "preco": 429
    }
   ],
-  "preco_original": 699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:26",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_656533-MLA111594960631_052026-F.jpg"
  },
@@ -19496,8 +19496,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:54",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:26",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_610253-MLA96138811881_102025-F.jpg"
  },
@@ -19596,9 +19596,9 @@
     "preco": 1819
    }
   ],
-  "preco_original": 1949,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:55",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_786165-MLA104009600019_012026-F.jpg"
  },
@@ -19681,9 +19681,9 @@
     "preco": 909.48
    }
   ],
-  "preco_original": 1259,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:56",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_634912-MLA121750347599_112026-F.jpg"
  },
@@ -19762,9 +19762,9 @@
     "preco": 446.25
    }
   ],
-  "preco_original": 595,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:57",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:29",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_753338-MLA96118104505_102025-F.jpg"
  },
@@ -19843,9 +19843,9 @@
     "preco": 2975.17
    }
   ],
-  "preco_original": 3419.79,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:59",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_830808-MLA96086344025_102025-F.jpg"
  },
@@ -19925,8 +19925,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:04:59",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_807691-MLA95669871706_102025-F.jpg"
  },
@@ -20006,8 +20006,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:01",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_662146-MLA99949012619_112025-F.jpg"
  },
@@ -20087,8 +20087,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:02",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_832304-MLA87216780377_072025-F.jpg"
  },
@@ -20168,8 +20168,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_770482-MLA99970227225_112025-F.jpg"
  },
@@ -20249,8 +20249,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:05",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_898461-MLA88817038639_072025-F.jpg"
  },
@@ -20334,8 +20334,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_721211-MLA118925997102_112026-F.jpg"
  },
@@ -20415,8 +20415,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:07",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_990826-MLA119514897188_112026-F.jpg"
  },
@@ -20500,8 +20500,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_761112-MLA84476856728_052025-F.jpg"
  },
@@ -20580,9 +20580,9 @@
     "preco": 533.97
    }
   ],
-  "preco_original": 759,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:08",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_625856-MLA111279122901_052026-F.jpg"
  },
@@ -20654,8 +20654,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:09",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_936563-MLA96081296517_102025-F.jpg"
  },
@@ -20739,8 +20739,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:10",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_681634-MLA100021287705_122025-F.jpg"
  },
@@ -20819,9 +20819,9 @@
     "preco": 481.6
    }
   ],
-  "preco_original": 602,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:12",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_787465-MLA96125092843_102025-F.jpg"
  },
@@ -20926,8 +20926,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:13",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_934070-MLA116317834095_082026-F.jpg"
  },
@@ -21011,8 +21011,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:14",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_755815-MLA96149302861_102025-F.jpg"
  },
@@ -21096,8 +21096,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:15",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_622219-MLA95671104614_102025-F.jpg"
  },
@@ -21110,7 +21110,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:05:16",
+  "atualizado": "2026-11-24T12:03:42",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_747568-MLA99498591174_112025-F.jpg"
  },
  "apple-ipad-11-wi-fi-128gb": {
@@ -21193,8 +21193,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:17",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_735215-MLA99461786136_112025-F.jpg"
  },
@@ -21273,9 +21273,9 @@
     "preco": 2152.8
    }
   ],
-  "preco_original": 2990,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:18",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_874846-MLA101895854627_122025-F.jpg"
  },
@@ -21359,8 +21359,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_908499-MLA105887605914_022026-F.jpg"
  },
@@ -21396,8 +21396,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_623450-MLA99466061948_112025-F.jpg"
  },
@@ -21480,9 +21480,9 @@
     "preco": 6399
    }
   ],
-  "preco_original": 8999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:20",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_769438-MLA113072868508_072026-F.jpg"
  },
@@ -21561,9 +21561,9 @@
     "preco": 775.08
    }
   ],
-  "preco_original": 1099,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:21",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_640230-MLA99506164566_112025-F.jpg"
  },
@@ -21686,7 +21686,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:05:22",
+  "atualizado": "2026-11-24T12:03:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_734029-MLA96642469036_112025-F.jpg"
  },
@@ -21766,8 +21766,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:23",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_819077-MLA112268678415_052026-F.jpg"
  },
@@ -21799,8 +21799,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:24",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_603318-MLA99954207433_112025-F.jpg"
  },
@@ -21879,9 +21879,9 @@
     "preco": 2137.5
    }
   ],
-  "preco_original": 2250,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_624783-MLA114039732289_072026-F.jpg"
  },
@@ -21965,8 +21965,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:26",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_833644-MLA99493020966_112025-F.jpg"
  },
@@ -22050,8 +22050,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:55",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_948051-MLA119960877876_112026-F.jpg"
  },
@@ -22135,8 +22135,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:56",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-F.jpg"
  },
@@ -22219,9 +22219,9 @@
     "preco": 169.9
    }
   ],
-  "preco_original": 259.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:57",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg"
  },
@@ -22304,11 +22304,11 @@
     "preco": 369.99
    }
   ],
-  "preco_original": 499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:58",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:53",
   "frete_gratis": true,
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_602393-MLA119196715218_112026-F.jpg"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_667654-MLA120508511048_112026-F.jpg"
  },
  "fone-de-ouvido-jbl-quantum-100m2": {
   "historico": [
@@ -22389,9 +22389,9 @@
     "preco": 139.9
    }
   ],
-  "preco_original": 193.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:59",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_913023-MLA110131689717_042026-F.jpg"
  },
@@ -22427,8 +22427,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_971864-MLA91925160023_092025-F.jpg"
  },
@@ -22511,9 +22511,9 @@
     "preco": 267.17
    }
   ],
-  "preco_original": 298.91,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:07",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_987051-MLA88535124534_072025-F.jpg"
  },
@@ -22585,8 +22585,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:10",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_632101-MLA110165481061_042026-F.jpg"
  },
@@ -22693,9 +22693,9 @@
     "preco": 10439.54
    }
   ],
-  "preco_original": 10989,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:14",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_727482-MLA99962144409_112025-F.jpg"
  },
@@ -22735,10 +22735,10 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:17",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:01",
   "frete_gratis": true,
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_667226-MLA96871260244_112025-F.jpg"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_759031-MLA120439839994_112026-F.jpg"
  },
  "controle-sem-fio-dualsense-playstation-5": {
   "historico": [
@@ -22815,9 +22815,9 @@
     "preco": 449
    }
   ],
-  "preco_original": 549.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:18",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_840115-MLA100077871957_122025-F.jpg"
  },
@@ -22901,8 +22901,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-F.jpg"
  },
@@ -22986,8 +22986,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:20",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:03",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_968379-MLA114116877009_072026-F.jpg"
  },
@@ -23071,8 +23071,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:23",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-F.jpg"
  },
@@ -23156,8 +23156,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:24",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:05",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744855-MLA95675768770_102025-F.jpg"
  },
@@ -23241,8 +23241,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:26",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_896814-MLA103008145561_122025-F.jpg"
  },
@@ -23326,8 +23326,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:27",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_988275-MLA99995954413_112025-F.jpg"
  },
@@ -23410,9 +23410,9 @@
     "preco": 259
    }
   ],
-  "preco_original": 459.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:42",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_876806-MLA99469873464_112025-F.jpg"
  },
@@ -23492,8 +23492,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:28",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_907647-MLA99908789931_112025-F.jpg"
  },
@@ -23576,9 +23576,9 @@
     "preco": 328
    }
   ],
-  "preco_original": 339,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:29",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_751963-MLA99485331850_112025-F.jpg"
  },
@@ -23661,9 +23661,9 @@
     "preco": 144.9
    }
   ],
-  "preco_original": 209,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:30",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_743438-MLA105468591979_012026-F.jpg"
  },
@@ -23746,9 +23746,9 @@
     "preco": 157.7
    }
   ],
-  "preco_original": 319,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:31",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_871062-MLA99504223338_112025-F.jpg"
  },
@@ -23831,9 +23831,9 @@
     "preco": 216
    }
   ],
-  "preco_original": 279,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:32",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_857089-MLA99931574605_112025-F.jpg"
  },
@@ -23913,8 +23913,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:33",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_791846-MLU70663323517_072023-F.jpg"
  },
@@ -23997,9 +23997,9 @@
     "preco": 421
    }
   ],
-  "preco_original": 599.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:33",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_698165-MLA86671767786_062025-F.jpg"
  },
@@ -24079,8 +24079,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:35",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_676107-MLA95500678420_102025-F.jpg"
  },
@@ -24164,8 +24164,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:36",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:14",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_849034-MLU77358479773_062024-F.jpg"
  },
@@ -24270,8 +24270,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:37",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_732657-MLA99990199265_112025-F.jpg"
  },
@@ -24351,8 +24351,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:39",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_736865-MLA117916549613_092026-F.jpg"
  },
@@ -24432,8 +24432,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:40",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_925310-MLA96862732927_102025-F.jpg"
  },
@@ -24517,8 +24517,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:42",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_628684-MLA114125243853_072026-F.jpg"
  },
@@ -24602,8 +24602,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:17",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_652595-MLU70518626684_072023-F.jpg"
  },
@@ -24639,8 +24639,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:46",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_703707-MLA99434332646_112025-F.jpg"
  },
@@ -24724,8 +24724,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:47",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_781647-MLA99866336307_112025-F.jpg"
  },
@@ -24808,9 +24808,9 @@
     "preco": 305.67
    }
   ],
-  "preco_original": 443,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:48",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_610312-MLA99557005144_122025-F.jpg"
  },
@@ -24893,9 +24893,9 @@
     "preco": 329.97
    }
   ],
-  "preco_original": 443,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:49",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_753677-MLA99567103900_122025-F.jpg"
  },
@@ -24979,8 +24979,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:50",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_954659-MLA99372574674_112025-F.jpg"
  },
@@ -25063,9 +25063,9 @@
     "preco": 228.87
    }
   ],
-  "preco_original": 254.3,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_948256-MLA99851284999_112025-F.jpg"
  },
@@ -25148,9 +25148,9 @@
     "preco": 237.17
    }
   ],
-  "preco_original": 499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_633912-MLA114009025784_072026-F.jpg"
  },
@@ -25229,9 +25229,9 @@
     "preco": 470.12
    }
   ],
-  "preco_original": 494.92,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:54",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_721330-MLA91958342301_092025-F.jpg"
  },
@@ -25314,9 +25314,9 @@
     "preco": 148.07
    }
   ],
-  "preco_original": 197.43,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:55",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_813771-MLA109219355845_032026-F.jpg"
  },
@@ -25396,8 +25396,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:03",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_750146-MLA99972052003_112025-F.jpg"
  },
@@ -25481,8 +25481,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_743607-MLA99448480554_112025-F.jpg"
  },
@@ -25566,8 +25566,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:05",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_960092-MLA99984773865_112025-F.jpg"
  },
@@ -25647,8 +25647,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_613784-MLA99515800290_112025-F.jpg"
  },
@@ -25728,8 +25728,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA100007892529_122025-F.jpg"
  },
@@ -25812,9 +25812,9 @@
     "preco": 339.38
    }
   ],
-  "preco_original": 442.89,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:09",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_626890-MLA110008226933_042026-F.jpg"
  },
@@ -25893,9 +25893,9 @@
     "preco": 332
    }
   ],
-  "preco_original": 544.27,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:10",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_606157-MLA99994099203_112025-F.jpg"
  },
@@ -25975,8 +25975,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_970950-MLA99542536742_122025-F.jpg"
  },
@@ -26056,8 +26056,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:12",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_855317-MLA118464798297_092026-F.jpg"
  },
@@ -26117,10 +26117,10 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:49",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:45",
   "frete_gratis": true,
-  "imagem": "https://http2.mlstatic.com/D_NQ_NP_639067-MLA114816196520_082026-F.jpg"
+  "imagem": "https://http2.mlstatic.com/D_NQ_NP_773549-MLA122232367963_112026-F.jpg"
  },
  "nintendo-switch-oled-64gb-controle-azul": {
   "historico": [
@@ -26202,8 +26202,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:13",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_926528-MLA118485578113_092026-F.jpg"
  },
@@ -26287,8 +26287,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:14",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_792071-MLA99414394224_112025-F.jpg"
  },
@@ -26413,8 +26413,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:15",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_948879-MLA99491895658_112025-F.jpg"
  },
@@ -26426,8 +26426,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:16",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:39",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_692183-MLA116841319356_092026-F.jpg"
  },
  "controle-sem-fio-microsoft-xbox-elite": {
@@ -26510,8 +26510,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:18",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_798112-MLA99984973243_112025-F.jpg"
  },
@@ -26624,8 +26624,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_813984-MLA110707980983_042026-F.jpg"
  },
@@ -26721,8 +26721,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:20",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_758069-MLA116701281297_082026-F.jpg"
  },
@@ -26802,8 +26802,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_881104-MLA115527858355_082026-F.jpg"
  },
@@ -26883,8 +26883,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:23",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_735918-MLA99419833500_112025-F.jpg"
  },
@@ -26967,9 +26967,9 @@
     "preco": 458.86
    }
   ],
-  "preco_original": 596.3,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:50",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_977038-MLA88802648920_082025-F.jpg"
  },
@@ -27052,9 +27052,9 @@
     "preco": 253.99
    }
   ],
-  "preco_original": 490,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_887030-MLA99930209673_112025-F.jpg"
  },
@@ -27134,8 +27134,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:25",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_793083-MLA99126402146_112025-F.jpg"
  },
@@ -27218,9 +27218,9 @@
     "preco": 239.9
    }
   ],
-  "preco_original": 716.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:43",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_775407-MLA99776749612_122025-F.jpg"
  },
@@ -27248,8 +27248,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:48",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744049-MLA99539379058_122025-F.jpg"
  },
@@ -27329,8 +27329,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:49",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:58",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg"
  },
@@ -27434,9 +27434,9 @@
     "preco": 469.9
    }
   ],
-  "preco_original": 899,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:50",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_900387-MLA109507200694_042026-F.jpg"
  },
@@ -27519,9 +27519,9 @@
     "preco": 59.9
    }
   ],
-  "preco_original": 89.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:33",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:56",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-F.jpg"
  },
@@ -27601,8 +27601,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:51",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_751167-MLA99943522395_112025-F.jpg"
  },
@@ -27685,9 +27685,9 @@
     "preco": 299
    }
   ],
-  "preco_original": 349,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg"
  },
@@ -27766,9 +27766,9 @@
     "preco": 162
    }
   ],
-  "preco_original": 300,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_957387-MLA95501959460_102025-F.jpg"
  },
@@ -27847,9 +27847,9 @@
     "preco": 119.77
    }
   ],
-  "preco_original": 127.42,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:54",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_769335-MLA99425803926_112025-F.jpg"
  },
@@ -27929,8 +27929,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:55",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:03",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_843498-MLA113779468044_072026-F.jpg"
  },
@@ -28009,9 +28009,9 @@
     "preco": 99.9
    }
   ],
-  "preco_original": 265,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:56",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_766837-MLA98259429221_112025-F.jpg"
  },
@@ -28091,8 +28091,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:57",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:04",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_889663-MLA99526755784_122025-F.jpg"
  },
@@ -28175,9 +28175,9 @@
     "preco": 89.9
    }
   ],
-  "preco_original": 154.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:58",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_856315-MLA99920847933_112025-F.jpg"
  },
@@ -28260,9 +28260,9 @@
     "preco": 141.9
    }
   ],
-  "preco_original": 229.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:59",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_980379-MLA100008293867_122025-F.jpg"
  },
@@ -28362,9 +28362,9 @@
     "preco": 80.46
    }
   ],
-  "preco_original": 99.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:00",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_739925-MLA99502704536_112025-F.jpg"
  },
@@ -28448,8 +28448,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:01",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_930129-MLU78451929490_082024-F.jpg"
  },
@@ -28501,8 +28501,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_748680-MLA110349046897_042026-F.jpg"
  },
@@ -28585,9 +28585,9 @@
     "preco": 89.89
    }
   ],
-  "preco_original": 94.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:05",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:09",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_868166-MLA90028576901_082025-F.jpg"
  },
@@ -28670,9 +28670,9 @@
     "preco": 177.84
    }
   ],
-  "preco_original": 299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:06",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_864038-MLA100027785333_122025-F.jpg"
  },
@@ -28756,8 +28756,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_814549-MLA118334012041_092026-F.jpg"
  },
@@ -28840,9 +28840,9 @@
     "preco": 66.84
    }
   ],
-  "preco_original": 69,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:09",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:11",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_752259-MLA113182771920_072026-F.jpg"
  },
@@ -28926,8 +28926,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:10",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:12",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_853755-MLA110062386715_042026-F.jpg"
  },
@@ -29011,8 +29011,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_834911-MLA113520035601_062026-F.jpg"
  },
@@ -29096,8 +29096,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:14",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_804267-MLA120067018649_102026-F.jpg"
  },
@@ -29181,8 +29181,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:15",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_743281-MLA98398038226_112025-F.jpg"
  },
@@ -29265,9 +29265,9 @@
     "preco": 393
    }
   ],
-  "preco_original": 679.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:16",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_869080-MLA100697402193_122025-F.jpg"
  },
@@ -29346,9 +29346,9 @@
     "preco": 489
    }
   ],
-  "preco_original": 779.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:17",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:17",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_998097-MLA115435101684_082026-F.jpg"
  },
@@ -29428,8 +29428,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_626577-MLA99520084810_112025-F.jpg"
  },
@@ -29513,8 +29513,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:20",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_863194-MLA118534430667_092026-F.jpg"
  },
@@ -29598,8 +29598,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-F.jpg"
  },
@@ -29679,8 +29679,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:23",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_817281-MLA107167838581_022026-F.jpg"
  },
@@ -29763,9 +29763,9 @@
     "preco": 177
    }
   ],
-  "preco_original": 199,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_628878-MLA114426044122_082026-F.jpg"
  },
@@ -29848,9 +29848,9 @@
     "preco": 159.9
    }
   ],
-  "preco_original": 219.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_972267-MLA104454717208_012026-F.jpg"
  },
@@ -29933,9 +29933,9 @@
     "preco": 530.41
    }
   ],
-  "preco_original": 899,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:26",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_646055-MLA99511429566_112025-F.jpg"
  },
@@ -30014,9 +30014,9 @@
     "preco": 286.72
    }
   ],
-  "preco_original": 592.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:27",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_885713-MLA99522058136_122025-F.jpg"
  },
@@ -30099,9 +30099,9 @@
     "preco": 144
    }
   ],
-  "preco_original": 249,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:28",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_975660-MLA108296246717_032026-F.jpg"
  },
@@ -30180,9 +30180,9 @@
     "preco": 59.99
    }
   ],
-  "preco_original": 78.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:29",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:25",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg"
  },
@@ -30265,9 +30265,9 @@
     "preco": 271.26
    }
   ],
-  "preco_original": 369,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:37",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_705864-MLA99523953334_122025-F.jpg"
  },
@@ -30350,9 +30350,9 @@
     "preco": 125
    }
   ],
-  "preco_original": 299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:38",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg"
  },
@@ -30435,9 +30435,9 @@
     "preco": 89
    }
   ],
-  "preco_original": 199,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:39",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_638013-MLA99988533713_112025-F.jpg"
  },
@@ -30517,8 +30517,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:30",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:25",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_867266-MLA114707041229_072026-F.jpg"
  },
@@ -30597,9 +30597,9 @@
     "preco": 239
    }
   ],
-  "preco_original": 450,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:31",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:26",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_627428-MLA99989583243_112025-F.jpg"
  },
@@ -30678,9 +30678,9 @@
     "preco": 104.46
    }
   ],
-  "preco_original": 199.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:32",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_698442-MLA99998734381_112025-F.jpg"
  },
@@ -30780,9 +30780,9 @@
     "preco": 74
    }
   ],
-  "preco_original": 74.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:33",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:28",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_767799-MLA99448427144_112025-F.jpg"
  },
@@ -30865,9 +30865,9 @@
     "preco": 169
    }
   ],
-  "preco_original": 499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:34",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:29",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_740344-MLA113061165432_072026-F.jpg"
  },
@@ -30946,9 +30946,9 @@
     "preco": 129
    }
   ],
-  "preco_original": 177.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:36",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_665973-MLA95688273664_102025-F.jpg"
  },
@@ -31031,9 +31031,9 @@
     "preco": 119.9
    }
   ],
-  "preco_original": 170.52,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:37",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_894097-MLA99482246298_112025-F.jpg"
  },
@@ -31112,9 +31112,9 @@
     "preco": 265
    }
   ],
-  "preco_original": 280.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:38",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_943360-MLA100001035423_112025-F.jpg"
  },
@@ -31193,9 +31193,9 @@
     "preco": 179
    }
   ],
-  "preco_original": 258.71,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:40",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:32",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_866766-MLA116256502055_082026-F.jpg"
  },
@@ -31274,9 +31274,9 @@
     "preco": 1205
    }
   ],
-  "preco_original": 1269.33,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:41",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_777283-MLA99935494153_112025-F.jpg"
  },
@@ -31356,8 +31356,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:43",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_726537-MLA109481599090_042026-F.jpg"
  },
@@ -31436,9 +31436,9 @@
     "preco": 184.99
    }
   ],
-  "preco_original": 197.17,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:44",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:35",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_867310-MLA99990299109_112025-F.jpg"
  },
@@ -31474,8 +31474,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:47",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_687217-MLA99434238876_112025-F.jpg"
  },
@@ -31555,8 +31555,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:48",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:36",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_679868-MLA108913066234_032026-F.jpg"
  },
@@ -31664,9 +31664,9 @@
     "preco": 329
    }
   ],
-  "preco_original": 473.1,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:52",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_788191-MLA105750115584_022026-F.jpg"
  },
@@ -31749,9 +31749,9 @@
     "preco": 429
    }
   ],
-  "preco_original": 719,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_762385-MLA99889045659_112025-F.jpg"
  },
@@ -31834,9 +31834,9 @@
     "preco": 429
    }
   ],
-  "preco_original": 599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_764838-MLU76812765496_062024-F.jpg"
  },
@@ -31915,9 +31915,9 @@
     "preco": 134.9
    }
   ],
-  "preco_original": 159.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:55",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:42",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744545-MLA116380152181_082026-F.jpg"
  },
@@ -32000,9 +32000,9 @@
     "preco": 336.74
    }
   ],
-  "preco_original": 509.47,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:55",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:43",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_824355-MLA99481966886_112025-F.jpg"
  },
@@ -32085,9 +32085,9 @@
     "preco": 141.91
    }
   ],
-  "preco_original": 289,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:56",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744777-MLA118142201652_102026-F.jpg"
  },
@@ -32170,9 +32170,9 @@
     "preco": 135.85
    }
   ],
-  "preco_original": 289,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:57",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_699984-MLA119782608699_102026-F.jpg"
  },
@@ -32251,9 +32251,9 @@
     "preco": 145
    }
   ],
-  "preco_original": 299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:59",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_892928-MLA119927917158_112026-F.jpg"
  },
@@ -32321,8 +32321,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:59",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:45",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_613935-MLA107106208353_022026-F.jpg"
  },
@@ -32405,9 +32405,9 @@
     "preco": 189.86
    }
   ],
-  "preco_original": 311.25,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:00",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_919783-MLA99989975911_112025-F.jpg"
  },
@@ -32490,9 +32490,9 @@
     "preco": 236.39
    }
   ],
-  "preco_original": 286.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:01",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:47",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_812206-MLA93073248860_092025-F.jpg"
  },
@@ -32575,9 +32575,9 @@
     "preco": 261.74
    }
   ],
-  "preco_original": 359,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:49",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_943163-MLA107461023513_022026-F.jpg"
  },
@@ -32661,8 +32661,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:50",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:06",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg"
  },
@@ -32746,8 +32746,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:51",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_674204-MLA99446580250_112025-F.jpg"
  },
@@ -32830,9 +32830,9 @@
     "preco": 172.2
    }
   ],
-  "preco_original": 219,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:02",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_828055-MLA93305570205_092025-F.jpg"
  },
@@ -32915,9 +32915,9 @@
     "preco": 1297
    }
   ],
-  "preco_original": 2999,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:03",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_825005-MLA112458910702_062026-F.jpg"
  },
@@ -32997,8 +32997,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:04",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_853211-MLA89578985576_082025-F.jpg"
  },
@@ -33081,9 +33081,9 @@
     "preco": 1239.9
    }
   ],
-  "preco_original": 2699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:05",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_864411-MLA99591392870_122025-F.jpg"
  },
@@ -33187,9 +33187,9 @@
     "preco": 61.99
    }
   ],
-  "preco_original": 109.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:06",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:51",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_612538-MLA95682157074_102025-F.jpg"
  },
@@ -33268,9 +33268,9 @@
     "preco": 81.9
    }
   ],
-  "preco_original": 99.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:07",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_964366-MLA99936975991_112025-F.jpg"
  },
@@ -33353,9 +33353,9 @@
     "preco": 69.93
    }
   ],
-  "preco_original": 99.46,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:08",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:52",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_863915-MLA99955334931_112025-F.jpg"
  },
@@ -33435,8 +33435,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:09",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:53",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_922246-MLA99988034526_122025-F.jpg"
  },
@@ -33516,8 +33516,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:09",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:54",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_929605-MLA99901220681_112025-F.jpg"
  },
@@ -33596,9 +33596,9 @@
     "preco": 639
    }
   ],
-  "preco_original": 699,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:10",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-F.jpg"
  },
@@ -33677,9 +33677,9 @@
     "preco": 489
    }
   ],
-  "preco_original": 679,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:11",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:55",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_858642-MLA99436181956_112025-F.jpg"
  },
@@ -33758,9 +33758,9 @@
     "preco": 432.79
    }
   ],
-  "preco_original": 499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:12",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:56",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_744601-MLA99934274785_112025-F.jpg"
  },
@@ -33839,9 +33839,9 @@
     "preco": 433
    }
   ],
-  "preco_original": 852,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:13",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_905180-MLA99925316749_112025-F.jpg"
  },
@@ -33917,8 +33917,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:14",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_990441-MLU78914620136_092024-F.jpg"
  },
@@ -33994,8 +33994,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:16",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:58",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_655473-MLA120427982087_102026-F.jpg"
  },
@@ -34070,9 +34070,9 @@
     "preco": 118
    }
   ],
-  "preco_original": 227.68,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:16",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:59",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_663052-MLA99972044161_112025-F.jpg"
  },
@@ -34147,9 +34147,9 @@
     "preco": 349
    }
   ],
-  "preco_original": 549.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:17",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_615987-MLA88000407342_072025-F.jpg"
  },
@@ -34225,8 +34225,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:18",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:00",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_883011-MLA94921098264_102025-F.jpg"
  },
@@ -34302,8 +34302,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:01",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_656930-MLA109682504445_032026-F.jpg"
  },
@@ -34382,9 +34382,9 @@
     "preco": 59.9
    }
   ],
-  "preco_original": 75.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:20",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:02",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_751105-MLA99906883639_112025-F.jpg"
  },
@@ -34463,9 +34463,9 @@
     "preco": 124.9
    }
   ],
-  "preco_original": 299.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:21",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:03",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_899751-MLA99504871320_112025-F.jpg"
  },
@@ -34529,8 +34529,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:04",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_739879-MLU77507044263_072024-F.jpg"
  },
@@ -34589,9 +34589,9 @@
     "preco": 64.89
    }
   ],
-  "preco_original": 139,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:23",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:04",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_851625-MLA111650159287_052026-F.jpg"
  },
@@ -34670,9 +34670,9 @@
     "preco": 179
    }
   ],
-  "preco_original": 349.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:05",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_812534-MLA99524049864_122025-F.jpg"
  },
@@ -34751,9 +34751,9 @@
     "preco": 58
    }
   ],
-  "preco_original": 64.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:06",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_703992-MLA104696080268_012026-F.jpg"
  },
@@ -34874,9 +34874,9 @@
     "preco": 971.9
    }
   ],
-  "preco_original": 1999.98,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:25",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_918831-MLU77978537612_082024-F.jpg"
  },
@@ -34951,9 +34951,9 @@
     "preco": 366.15
    }
   ],
-  "preco_original": 585.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:26",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_688438-MLA99935266235_112025-F.jpg"
  },
@@ -35077,9 +35077,9 @@
     "preco": 579.9
    }
   ],
-  "preco_original": 899.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:27",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_682821-MLA101424826295_122025-F.jpg"
  },
@@ -35147,8 +35147,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:28",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_830667-MLB50890345433_072022-F.jpg"
  },
@@ -35228,8 +35228,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:29",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_757657-MLA99984543749_112025-F.jpg"
  },
@@ -35408,9 +35408,9 @@
     "preco": 1265.65
    }
   ],
-  "preco_original": 1489,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:30",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_907544-MLA113626006882_072026-F.jpg"
  },
@@ -35490,8 +35490,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:31",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_772094-MLA114806763330_082026-F.jpg"
  },
@@ -35575,8 +35575,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:53",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:07",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_807622-MLA99441338344_112025-F.jpg"
  },
@@ -35660,8 +35660,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:54",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:08",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_706032-MLA100013265379_122025-F.jpg"
  },
@@ -35740,9 +35740,9 @@
     "preco": 64.59
    }
   ],
-  "preco_original": 68,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:32",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:12",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_871627-MLU74185859147_012024-F.jpg"
  },
@@ -35817,9 +35817,9 @@
     "preco": 55.19
    }
   ],
-  "preco_original": 68.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:33",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:13",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_999127-MLA115147911862_082026-F.jpg"
  },
@@ -35898,9 +35898,9 @@
     "preco": 43.19
    }
   ],
-  "preco_original": 78.5,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:34",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:14",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_892426-MLA114405725604_082026-F.jpg"
  },
@@ -35975,9 +35975,9 @@
     "preco": 206
    }
   ],
-  "preco_original": 299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:35",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_804923-MLA114376583165_072026-F.jpg"
  },
@@ -36057,8 +36057,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:37",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_619509-MLA118552449350_102026-F.jpg"
  },
@@ -36137,9 +36137,9 @@
     "preco": 148.3
    }
   ],
-  "preco_original": 148.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:37",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:16",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_646674-MLA114923047939_072026-F.jpg"
  },
@@ -36215,8 +36215,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:39",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_687498-MLA99506245010_112025-F.jpg"
  },
@@ -36292,8 +36292,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:40",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:17",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_707013-MLA99927877625_112025-F.jpg"
  },
@@ -36409,9 +36409,9 @@
     "preco": 382.76
    }
   ],
-  "preco_original": 649,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:40",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_776743-MLA120067213965_102026-F.jpg"
  },
@@ -36487,8 +36487,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:42",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_821901-MLA102932682504_012026-F.jpg"
  },
@@ -36588,9 +36588,9 @@
     "preco": 149.9
    }
   ],
-  "preco_original": 266.56,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:43",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:20",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_804829-MLA114453336411_072026-F.jpg"
  },
@@ -36665,9 +36665,9 @@
     "preco": 134.98
    }
   ],
-  "preco_original": 199.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:46",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_987217-MLA99928502679_112025-F.jpg"
  },
@@ -36746,9 +36746,9 @@
     "preco": 143.41
    }
   ],
-  "preco_original": 213,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:47",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_795694-MLA99918818561_112025-F.jpg"
  },
@@ -36828,8 +36828,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:48",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_737351-MLU74835937314_032024-F.jpg"
  },
@@ -36904,9 +36904,9 @@
     "preco": 126.96
    }
   ],
-  "preco_original": 138,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:49",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_731011-MLA99850412233_112025-F.jpg"
  },
@@ -37011,8 +37011,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:19",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_995450-MLA115160493419_072026-F.jpg"
  },
@@ -37103,9 +37103,9 @@
     "preco": 572.2
    }
   ],
-  "preco_original": 899.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:50",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:26",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_797994-MLA115782693417_082026-F.jpg"
  },
@@ -37184,9 +37184,9 @@
     "preco": 534.99
    }
   ],
-  "preco_original": 838,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:51",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_616056-MLA111238600781_052026-F.jpg"
  },
@@ -37262,8 +37262,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:52",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_968455-MLA114824513814_082026-F.jpg"
  },
@@ -37339,8 +37339,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:54",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_691408-MLA99576697758_122025-F.jpg"
  },
@@ -37646,8 +37646,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:55",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:09",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_907248-MLA121749502019_112026-F.jpg"
  },
@@ -37747,9 +37747,9 @@
     "preco": 192
    }
   ],
-  "preco_original": 599,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:20",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_935772-MLA100259540334_122025-F.jpg"
  },
@@ -37842,8 +37842,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:56",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_720604-MLA100008286363_122025-F.jpg"
  },
@@ -37923,8 +37923,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:25",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:29",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_934190-MLA99498691082_112025-F.jpg"
  },
@@ -38004,8 +38004,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:26",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:30",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_664393-MLA103275720855_122025-F.jpg"
  },
@@ -38084,9 +38084,9 @@
     "preco": 551.93
    }
   ],
-  "preco_original": 569,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:27",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_799626-MLA99949974853_112025-F.jpg"
  },
@@ -38166,8 +38166,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:28",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:31",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_838589-MLA111608387824_062026-F.jpg"
  },
@@ -38279,9 +38279,9 @@
     "preco": 1299
    }
   ],
-  "preco_original": 2707,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:29",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:33",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_948561-MLA99497292352_112025-F.jpg"
  },
@@ -38361,8 +38361,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:31",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_864096-MLA100014841609_122025-F.jpg"
  },
@@ -38442,8 +38442,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:32",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:34",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_894557-MLA99961025711_112025-F.jpg"
  },
@@ -38523,8 +38523,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:33",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:35",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_860983-MLA100002940699_112025-F.jpg"
  },
@@ -38604,8 +38604,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:34",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:36",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_862249-MLA99978261957_112025-F.jpg"
  },
@@ -38685,8 +38685,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:21",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:26",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_971789-MLA99988147045_112025-F.jpg"
  },
@@ -38731,7 +38731,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:06:35",
+  "atualizado": "2026-11-24T12:04:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_724517-MLA99464760674_112025-F.jpg"
  },
@@ -38810,9 +38810,9 @@
     "preco": 2702.37
    }
   ],
-  "preco_original": 3299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:36",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_879454-MLA99956235047_112025-F.jpg"
  },
@@ -38892,8 +38892,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:36",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:38",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_773522-MLA96143327207_102025-F.jpg"
  },
@@ -38972,9 +38972,9 @@
     "preco": 4496.37
    }
   ],
-  "preco_original": 5499,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:41",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_932535-MLA95405131986_102025-F.jpg"
  },
@@ -39054,8 +39054,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:58",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:10",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_654384-MLA88062175998_072025-F.jpg"
  },
@@ -39135,8 +39135,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:38",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:39",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_932901-MLA111490185995_052026-F.jpg"
  },
@@ -39215,9 +39215,9 @@
     "preco": 195.65
    }
   ],
-  "preco_original": 215,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:39",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:40",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_833603-MLA96421762836_102025-F.jpg"
  },
@@ -39297,8 +39297,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:40",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:41",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_952269-MLA99572307968_122025-F.jpg"
  },
@@ -39390,8 +39390,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:59",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:11",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_834575-MLA121837736505_112026-F.jpg"
  },
@@ -39492,8 +39492,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:22",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_718187-MLA99495693162_112025-F.jpg"
  },
@@ -39573,8 +39573,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:23",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_837680-MLA99853094051_112025-F.jpg"
  },
@@ -39653,9 +39653,9 @@
     "preco": 193.9
    }
   ],
-  "preco_original": 199.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:35",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:57",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_835925-MLA120021091030_112026-F.jpg"
  },
@@ -39694,9 +39694,9 @@
     "preco": 115.43
    }
   ],
-  "preco_original": 197,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:40",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_602851-MLA99948071465_112025-F.jpg"
  },
@@ -39796,9 +39796,9 @@
     "preco": 59.9
    }
   ],
-  "preco_original": 89.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:00",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:12",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_717750-MLA99264122874_112025-F.jpg"
  },
@@ -39821,9 +39821,9 @@
     "preco": 73.72
    }
   ],
-  "preco_original": 149,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:01",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:13",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_910594-MLA99707738716_122025-F.jpg"
  },
@@ -39903,8 +39903,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:02",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:13",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_668195-MLA99454647096_112025-F.jpg"
  },
@@ -39983,9 +39983,9 @@
     "preco": 129
    }
   ],
-  "preco_original": 239,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:03",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:14",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_913703-MLA98303780032_112025-F.jpg"
  },
@@ -40106,9 +40106,9 @@
     "preco": 113.08
    }
   ],
-  "preco_original": 199,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:04",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:15",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_918148-MLA99934729459_112025-F.jpg"
  },
@@ -40221,8 +40221,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:41",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:01",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_705870-MLA96151128483_102025-F.jpg"
  },
@@ -40302,8 +40302,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:44",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:02",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_974021-MLA118751850053_102026-F.jpg"
  },
@@ -40382,9 +40382,9 @@
     "preco": 399
    }
   ],
-  "preco_original": 799,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:05",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_973601-MLA99939959693_112025-F.jpg"
  },
@@ -40464,8 +40464,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:06",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:16",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_809310-MLA99937181133_112025-F.jpg"
  },
@@ -40545,8 +40545,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:08",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:17",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_649243-MLA99510187712_112025-F.jpg"
  },
@@ -40625,9 +40625,9 @@
     "preco": 219.9
    }
   ],
-  "preco_original": 529.97,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:09",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_967872-MLA87279987383_072025-F.jpg"
  },
@@ -40691,8 +40691,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:10",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:18",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_748392-MLA96126661479_102025-F.jpg"
  },
@@ -40772,8 +40772,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:12",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:19",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_677633-MLA99566835762_122025-F.jpg"
  },
@@ -40853,8 +40853,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:13",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:20",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_909236-MLA95697732036_102025-F.jpg"
  },
@@ -40975,9 +40975,9 @@
     "preco": 43.6
    }
   ],
-  "preco_original": 45.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:24",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:28",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_977062-MLA99577226654_122025-F.jpg"
  },
@@ -41111,8 +41111,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:32",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:55",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_688992-MLA96115225319_102025-F.jpg"
  },
@@ -41192,8 +41192,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:36",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:57",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_782417-MLA100101491389_122025-F.jpg"
  },
@@ -41272,9 +41272,9 @@
     "preco": 69.9
    }
   ],
-  "preco_original": 99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:46",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:03",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_782983-MLA117651919424_102026-F.jpg"
  },
@@ -41354,8 +41354,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:47",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:04",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_951677-MLA120548540857_102026-F.jpg"
  },
@@ -41434,9 +41434,9 @@
     "preco": 45.61
    }
   ],
-  "preco_original": 59,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:48",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:04",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_825607-MLA120023610392_112026-F.jpg"
  },
@@ -41515,9 +41515,9 @@
     "preco": 110.48
    }
   ],
-  "preco_original": 199,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:14",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_994484-MLA99471127956_112025-F.jpg"
  },
@@ -41596,9 +41596,9 @@
     "preco": 59.9
    }
   ],
-  "preco_original": 89.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:15",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:21",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_979821-MLA99395425753_112025-F.jpg"
  },
@@ -41677,9 +41677,9 @@
     "preco": 109.61
    }
   ],
-  "preco_original": 199,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:16",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:22",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_722670-MLA99487743664_112025-F.jpg"
  },
@@ -41758,9 +41758,9 @@
     "preco": 105
    }
   ],
-  "preco_original": 239,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:17",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:23",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_776643-MLA97452664977_112025-F.jpg"
  },
@@ -41835,9 +41835,9 @@
     "preco": 139
    }
   ],
-  "preco_original": 237,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:18",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:24",
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_732288-MLA120945643813_112026-F.jpg",
   "frete_gratis": true
  },
@@ -41893,8 +41893,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:51",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:47",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_836773-MLA113000722584_072026-F.jpg"
  },
@@ -41997,9 +41997,9 @@
     "preco": 159.96
    }
   ],
-  "preco_original": 202.49,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:29",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_780259-MLB112721099226_062026-F.jpg"
  },
@@ -42078,9 +42078,9 @@
     "preco": 148.07
    }
   ],
-  "preco_original": 227.81,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:56",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:24",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_684593-MLA97378557252_112025-F.jpg"
  },
@@ -42159,9 +42159,9 @@
     "preco": 168.78
    }
   ],
-  "preco_original": 299,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:43",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_628100-MLA99480320238_112025-F.jpg"
  },
@@ -42240,9 +42240,9 @@
     "preco": 174.5
    }
   ],
-  "preco_original": 198,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:44",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:43",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_955745-MLA99460748174_112025-F.jpg"
  },
@@ -42321,9 +42321,9 @@
     "preco": 154.9
    }
   ],
-  "preco_original": 249,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:45",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:44",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_877627-MLA99998011217_112025-F.jpg"
  },
@@ -42402,9 +42402,9 @@
     "preco": 185.83
    }
   ],
-  "preco_original": 285.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:50",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_886636-MLA99964506397_112025-F.jpg"
  },
@@ -42483,9 +42483,9 @@
     "preco": 162.47
    }
   ],
-  "preco_original": 203.12,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:06:53",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:48",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_643229-CBT89010817631_072025-F.jpg"
  },
@@ -42577,8 +42577,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:26",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:46",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_734494-MLA99956903581_112025-F.jpg"
  },
@@ -42657,9 +42657,9 @@
     "preco": 320.1
    }
   ],
-  "preco_original": 330,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:30",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:49",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_784149-MLA99968213101_112025-F.jpg"
  },
@@ -42738,9 +42738,9 @@
     "preco": 618.66
    }
   ],
-  "preco_original": 698,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:31",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:50",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_910201-MLA105675923712_012026-F.jpg"
  },
@@ -42819,9 +42819,9 @@
     "preco": 697.36
    }
   ],
-  "preco_original": 758,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:32",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:51",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_719413-MLA99472512854_112025-F.jpg"
  },
@@ -42900,9 +42900,9 @@
     "preco": 123
    }
   ],
-  "preco_original": 349.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:01",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_697241-MLA95349422371_102025-F.jpg"
  },
@@ -42981,9 +42981,9 @@
     "preco": 54.9
    }
   ],
-  "preco_original": 114.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:02",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:55",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_762912-MLA105696431793_012026-F.jpg"
  },
@@ -43105,8 +43105,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:57",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:25",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_727608-MLA99936000747_112025-F.jpg"
  },
@@ -43282,8 +43282,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:58",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:26",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_638002-MLA99508042592_112025-F.jpg"
  },
@@ -43362,9 +43362,9 @@
     "preco": 47
    }
   ],
-  "preco_original": 78.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:59",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:27",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_651840-MLA99600361190_122025-F.jpg"
  },
@@ -43486,8 +43486,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:07:11",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:04:58",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_609638-MLA118178752531_092026-F.jpg"
  },
@@ -43567,8 +43567,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:00",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:27",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_622352-MLU77375274783_072024-F.jpg"
  },
@@ -43648,8 +43648,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:01",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:28",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_925886-MLA112213424652_062026-F.jpg"
  },
@@ -43728,9 +43728,9 @@
     "preco": 59.05
    }
   ],
-  "preco_original": 78.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:08:02",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:05:29",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_879663-MLA99455632688_112025-F.jpg"
  },
@@ -43843,7 +43843,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:08:33",
+  "atualizado": "2026-11-24T12:05:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_845114-MLB114179757081_072026-F.jpg"
  },
@@ -43912,7 +43912,7 @@
   ],
   "preco_original": null,
   "disponivel": false,
-  "atualizado": "2026-11-23T12:08:33",
+  "atualizado": "2026-11-24T12:05:52",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_864975-MLB112395448567_052026-F.jpg"
  },
@@ -44036,9 +44036,9 @@
     "preco": 84.59
    }
   ],
-  "preco_original": 149.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:49",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:37",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_691057-MLA99487298738_112025-F.jpg"
  },
@@ -44185,9 +44185,9 @@
     "preco": 119.59
    }
   ],
-  "preco_original": 179,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:10:44",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:07:21",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_876724-MLA99926459013_112025-F.jpg"
  },
@@ -44302,9 +44302,9 @@
     "preco": 29.49
    }
   ],
-  "preco_original": 78.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:12",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:13",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_923598-MLA113044313715_062026-F.jpg"
  },
@@ -44387,9 +44387,9 @@
     "preco": 47.09
    }
   ],
-  "preco_original": 59.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:50",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:38",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_832059-MLA111077771583_042026-F.jpg"
  },
@@ -44489,9 +44489,9 @@
     "preco": 18.52
    }
   ],
-  "preco_original": 49.99,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:13",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:14",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_658550-MLA110156406920_042026-F.jpg"
  },
@@ -44570,9 +44570,9 @@
     "preco": 23
    }
   ],
-  "preco_original": 26.9,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:09:51",
+  "preco_original": null,
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:06:39",
   "frete_gratis": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_995361-MLA110157953034_042026-F.jpg"
  },
@@ -44732,8 +44732,8 @@
    }
   ],
   "preco_original": null,
-  "disponivel": true,
-  "atualizado": "2026-11-23T12:05:31",
+  "disponivel": false,
+  "atualizado": "2026-11-24T12:03:54",
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_788348-MLA98523141527_112025-F.jpg"
  },
@@ -44796,11 +44796,11 @@
     "preco": 3221.11
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "preco_original": null,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_733885-MLA101679394133_122025-F.jpg",
-  "atualizado": "2026-11-23T12:10:55"
+  "atualizado": "2026-11-24T12:07:29"
  },
  "lenovo-ideapad-slim-3i-i5-linux": {
   "historico": [
@@ -44861,11 +44861,11 @@
     "preco": 3512
    }
   ],
-  "disponivel": true,
-  "preco_original": 7798,
+  "disponivel": false,
+  "preco_original": null,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_932252-MLA100025720637_122025-F.jpg",
-  "atualizado": "2026-11-23T12:10:58"
+  "atualizado": "2026-11-24T12:07:32"
  },
  "poco-m8-pro": {
   "historico": [
@@ -44914,11 +44914,11 @@
     "preco": 2299
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_831700-MLA113140182361_062026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:10:59"
+  "atualizado": "2026-11-24T12:07:32"
  },
  "galaxy-a07-8gb": {
   "historico": [
@@ -44967,11 +44967,11 @@
     "preco": 1270
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_778917-MLA91526601104_092025-F.jpg",
-  "preco_original": 1797,
-  "atualizado": "2026-11-23T12:11:00"
+  "preco_original": null,
+  "atualizado": "2026-11-24T12:07:33"
  },
  "realme-c71": {
   "historico": [
@@ -44996,10 +44996,10 @@
     "preco": 1499
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_713426-MLA96266248116_102025-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:03",
+  "atualizado": "2026-11-24T12:07:34",
   "frete_gratis": true
  },
  "redmi-15": {
@@ -45049,11 +45049,11 @@
     "preco": 1598.5
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_758920-MLA99420370660_112025-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:04"
+  "atualizado": "2026-11-24T12:07:35"
  },
  "poco-m7-pro": {
   "historico": [
@@ -45102,11 +45102,11 @@
     "preco": 2360
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_790531-MLA92043835467_092025-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:06"
+  "atualizado": "2026-11-24T12:07:35"
  },
  "edge-70-pro": {
   "historico": [
@@ -45155,11 +45155,11 @@
     "preco": 3149
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_660092-MLA110410356432_052026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:06"
+  "atualizado": "2026-11-24T12:07:36"
  },
  "redmi-note-15-5g": {
   "historico": [
@@ -45204,11 +45204,11 @@
     "preco": 2299
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_603436-MLA107251205745_022026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:07"
+  "atualizado": "2026-11-24T12:07:37"
  },
  "redmi-note-15-pro-256": {
   "historico": [
@@ -45249,11 +45249,11 @@
     "preco": 2230
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_930687-MLA108180651336_032026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:09"
+  "atualizado": "2026-11-24T12:07:38"
  },
  "positivo-vision-r15m-r5-16gb": {
   "historico": [
@@ -45262,10 +45262,10 @@
     "preco": 4073.03
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_693801-MLA101174785252_122025-F.jpg",
-  "preco_original": 4199,
-  "atualizado": "2026-11-23T12:10:56",
+  "preco_original": null,
+  "atualizado": "2026-11-24T12:07:30",
   "frete_gratis": true
  },
  "positivo-vision-r15m-r7-32gb": {
@@ -45273,7 +45273,7 @@
   "disponivel": false,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_686844-MLA110062347137_042026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:10:57"
+  "atualizado": "2026-11-24T12:07:31"
  },
  "redmi-note-15-4g-256": {
   "historico": [
@@ -45294,11 +45294,11 @@
     "preco": 1645
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_603831-MLA105673014660_012026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:10"
+  "atualizado": "2026-11-24T12:07:38"
  },
  "poco-m8-5g-256": {
   "historico": [
@@ -45319,11 +45319,11 @@
     "preco": 1890
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_652437-MLA104695809776_012026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:11"
+  "atualizado": "2026-11-24T12:07:39"
  },
  "poco-f8-pro-256": {
   "historico": [
@@ -45344,10 +45344,10 @@
     "preco": 3680
    }
   ],
-  "disponivel": true,
+  "disponivel": false,
   "frete_gratis": true,
   "imagem": "https://http2.mlstatic.com/D_NQ_NP_982540-MLA119364487870_112026-F.jpg",
   "preco_original": null,
-  "atualizado": "2026-11-23T12:11:12"
+  "atualizado": "2026-11-24T12:07:40"
  }
 }
