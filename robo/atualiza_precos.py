@@ -6,6 +6,7 @@ O refresh token do ML só pode ser usado uma vez: o novo é gravado em ML_NOVO_R
 salvar de volta no secret. Sem credenciais, o robô avisa e sai sem erro (o site continua com o último preço).
 """
 import json
+import re
 import os
 import sys
 import time
@@ -101,7 +102,12 @@ def consulta_produto(mlb, token):
     if not (melhor and melhor.get("price")):
         try:
             ofertas = pedir(f"/products/{mlb}/items?limit=50", token).get("results", [])
-        except urllib.error.HTTPError:
+        except urllib.error.HTTPError as e:
+            # 404 = o produto não tem nenhuma oferta (esgotado de verdade). Qualquer outro erro (ex.: 403
+            # "PolicyAgent", que o ML passou a devolver em 24/11/2026) é bloqueio da API, não falta de
+            # estoque: sobe o erro e o robô mantém o último preço e o link de afiliado como estavam.
+            if e.code != 404:
+                raise
             ofertas = []
         ofertas = sorted((o for o in ofertas if o.get("price") and o.get("condition", "new") == "new"),
                          key=lambda o: o["price"])
@@ -131,57 +137,100 @@ def consulta_item(mlb, token):
     }
 
 
+PAUSA_PAGINA = 1.5  # segundos entre páginas do ML: devagar, como uma pessoa navegando
+
+
+def preco_pagina(cat):
+    """Reserva quando a API não dá preço (desde 24/11/2026 o ML não devolve mais o vendedor em destaque nem a
+    lista de vendedores para apps). Abre o link de afiliado do próprio Matheus (meli.la -> página pública de
+    afiliado, sem login) e lê o produto em destaque: "<nome> - R$ 1.824". Só aceita se o nome bater com o do
+    catálogo. Devolve (info, situação) com situação 'ok', 'vazia' (página sem o produto) ou 'erro'."""
+    from conferir_links import LIMITE, destaque, parecido
+    try:
+        titulo = destaque(cat["afiliado"])
+    except Exception:
+        return None, "erro"
+    finally:
+        time.sleep(PAUSA_PAGINA)
+    titulo = titulo.replace("&quot;", '"').replace("&amp;", "&")
+    m = re.search(r"R\$\s*([\d.]+)(?:,(\d{1,2}))?\s*$", titulo)
+    if not titulo or "Perfil Social" in titulo or not m:
+        return None, "vazia"
+    if parecido(cat["nome"], titulo) < LIMITE and not cat.get("afiliado_ok"):
+        return None, "vazia"
+    preco = float(m.group(1).replace(".", "") + "." + (m.group(2) or "0"))
+    return {"disponivel": True, "preco": preco, "fonte": "pagina"}, "ok"
+
+
 def main():
     produtos = ler_json(ARQ_PRODUTOS)
     precos = ler_json(ARQ_PRECOS)
     try:
         token = token_ml()
     except urllib.error.HTTPError as e:
-        print(f"ERRO: o Mercado Livre recusou o token ({e.code}). Refaça a autorização (LEIA-ME).", file=sys.stderr)
-        return 1
+        print(f"AVISO: o Mercado Livre recusou o token ({e.code}); seguindo só com as páginas de afiliado. "
+              "Refaça a autorização (LEIA-ME).", file=sys.stderr)
+        token = None
     if not token:
-        print("Sem credenciais do Mercado Livre: preços não atualizados (o site usa os últimos).")
-        return 0
+        print("Sem a API do Mercado Livre: preços só pelas páginas de afiliado.")
 
-    lidos = 0
+    lidos, pela_pagina, marcar, desmarcar = 0, 0, set(), set()
     for pid, cat in produtos["produtos"].items():
-        errado = cat.get("afiliado_errado")  # meli.la aponta para outro produto: não ler preço por ele
-        ref = (("item", cat["item"]) if cat.get("item") else None) or id_ml(cat.get("ml")) \
-            or (None if errado else id_ml(precos.get(pid, {}).get("ml_resolvido")))
-        if not ref and cat.get("afiliado") and not errado:
-            destino = resolver(cat["afiliado"])
-            ref = id_ml(destino)
-            if ref:
-                precos.setdefault(pid, {"historico": []})["ml_resolvido"] = destino
-        if not ref:
-            print(f"- {pid}: sem link do ML ainda, pulando")
-            continue
-        time.sleep(0.25)  # sem pressa: o ML derruba conexões quando as consultas vêm coladas
-        try:
-            info = (consulta_produto if ref[0] == "produto" else consulta_item)(ref[1], token)
-        except urllib.error.HTTPError as e:
-            print(f"- {pid}: erro {e.code} no ML, mantendo o último preço")
-            continue
-        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
-            print(f"- {pid}: falha de conexão ({e}), mantendo o último preço")
+        errado = cat.get("afiliado_errado")  # página do meli.la sem o produto: não ler preço por ele via API
+        ref = (("item", cat["item"]) if cat.get("item") else None) or id_ml(cat.get("ml"))             or (None if errado else id_ml(precos.get(pid, {}).get("ml_resolvido")))
+        info, nota = None, ""
+        if ref and token:
+            time.sleep(0.25)  # sem pressa: o ML derruba conexões quando as consultas vêm coladas
+            try:
+                info = (consulta_produto if ref[0] == "produto" else consulta_item)(ref[1], token)
+            except urllib.error.HTTPError as e:
+                nota = f" [API: erro {e.code}]"
+            except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+                nota = " [API: sem conexão]"
+        if not (info and info.get("preco")) and cat.get("afiliado"):
+            pag, situacao = preco_pagina(cat)
+            if situacao == "ok":
+                info = dict(info or {}, **pag)
+                pela_pagina += 1
+                if errado:
+                    desmarcar.add(pid)
+            elif situacao == "vazia" and not cat.get("afiliado_ok"):
+                marcar.add(pid)  # o botão vai para a página do produto/busca até o vendedor voltar
+        if not info:
+            print(f"- {pid}: sem preço hoje, mantendo o último{nota}")
             continue
         lidos += 1
         if lidos % 50 == 0:  # salva o progresso de tempos em tempos
             gravar_json(ARQ_PRECOS, precos)
         reg = precos.setdefault(pid, {"historico": []})
-        reg.update({k: v for k, v in info.items() if k != "preco" and v is not None})
+        reg.update({k: v for k, v in info.items() if k not in ("preco", "fonte") and v is not None})
         reg["disponivel"] = info["disponivel"]
         reg["preco_original"] = info.get("preco_original")  # sem promoção hoje -> some a fitinha
-        reg.pop("fonte", None)
+        if info.get("fonte"):
+            reg["fonte"] = info["fonte"]
+        else:
+            reg.pop("fonte", None)
         reg["atualizado"] = agora_iso()
         if info.get("preco"):
             # um ponto por dia: a leitura mais recente substitui a anterior do mesmo dia
             h = [x for x in reg["historico"] if x["data"] != hoje()]
             reg["historico"] = h + [{"data": hoje(), "preco": info["preco"]}]
-        print(f"- {pid}: {'R$ %.2f' % info['preco'] if info.get('preco') else 'indisponível'}")
+        print(f"- {pid}: {'R$ %.2f' % info['preco'] if info.get('preco') else 'indisponível'}"
+              + (" (página de afiliado)" if info.get("fonte") == "pagina" else "") + nota)
 
     gravar_json(ARQ_PRECOS, precos)
-    print(f"\n{lidos} de {len(produtos['produtos'])} produtos consultados com sucesso.")
+    if marcar or desmarcar:  # lê de novo antes de gravar: o hub também escreve nesse arquivo
+        dados = ler_json(ARQ_PRODUTOS)
+        for pid in marcar & set(dados["produtos"]):
+            dados["produtos"][pid]["afiliado_errado"] = True
+        for pid in desmarcar & set(dados["produtos"]):
+            dados["produtos"][pid].pop("afiliado_errado", None)
+        gravar_json(ARQ_PRODUTOS, dados)
+    print(f"\n{lidos} de {len(produtos['produtos'])} produtos com preço hoje ({pela_pagina} pela página de afiliado). "
+          f"Página sem o produto: {len(marcar)}; voltaram: {len(desmarcar)}.")
+    if lidos == 0:
+        print("ERRO: nenhum preço lido. Nada foi mudado no site.", file=sys.stderr)
+        return 1
     return 0
 
 

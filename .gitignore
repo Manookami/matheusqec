@@ -10,3 +10,5 @@ motion/*.mp4
 motion/*.png
 motion/*.wav
 robo/ultima_rodada.txt
+dados/*.bak_*
+robo/rodada_manual_*.log

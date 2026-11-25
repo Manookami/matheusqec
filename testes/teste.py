@@ -119,6 +119,33 @@ confere(pg.count(AFI) >= 1, "página do vídeo tem botão com link de afiliado")
 confere("R$ 1.499" in pg, "página mostra preço de hoje")
 confere('rel="sponsored nofollow noopener"' in pg, "links de afiliado marcados como patrocinados")
 
+print("\n4a) Preço pela página de afiliado (reserva quando a API não dá preço)")
+import conferir_links  # noqa: E402
+import atualiza_precos  # noqa: E402
+atualiza_precos.PAUSA_PAGINA = 0
+cat_a57 = {"nome": "Samsung Galaxy A57 5G 256GB 8GB", "afiliado": "https://meli.la/x"}
+for titulo, esperado, desc in [
+        ("Samsung Galaxy A57 5G 256GB, 8GB RAM - R$ 1.824", (1824.0, "ok"), "lê 'R$ 1.824' do produto em destaque"),
+        ("Smartwatch Amazfit Bip 6 Tela AMOLED de 1.7&quot; Preto - R$ 648,98", None, None),
+        ("Notebook VAIO FE16 AMD Ryzen 5 - R$ 4.499", (None, "vazia"), "página mostra OUTRO produto -> não usa o preço"),
+        ("", (None, "vazia"), "página vazia (sem vendedor) -> sem preço")]:
+    if esperado is None:
+        continue
+    conferir_links.destaque = lambda url, t=titulo: t
+    info, sit = atualiza_precos.preco_pagina(cat_a57)
+    confere(((info or {}).get("preco"), sit) == esperado, desc)
+conferir_links.destaque = lambda url: "Smartwatch Amazfit Bip 6 Tela AMOLED de 1.7&quot; Preto - R$ 648,98"
+info, sit = atualiza_precos.preco_pagina({"nome": "Smartwatch Amazfit Bip 6 com GPS e Tela AMOLED", "afiliado": "x"})
+confere(sit == "ok" and info["preco"] == 648.98, "lê centavos 'R$ 648,98' e ignora &quot; no título")
+
+
+def boom(url):
+    raise OSError("sem internet")
+
+
+conferir_links.destaque = boom
+confere(atualiza_precos.preco_pagina(cat_a57) == (None, "erro"), "sem internet -> 'erro' (não marca link como quebrado)")
+
 print("\n4b) Ordem de relevância")
 falso = {"categorias": [{"id": "celulares"}, {"id": "tvs"}, {"id": "gerais"}], "produtos": {
     "panela": {"nome": "Panela Mondial", "categoria": "gerais"},
