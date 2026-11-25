@@ -201,8 +201,7 @@
    "videos": [],
    "busca": "smartphone motorola moto g06 128gb azul marinho",
    "vendidos": 100000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "samsung-galaxy-a15-dual-sim-4g": {
    "nome": "Samsung Galaxy A15 Dual SIM 4G 256GB Azul escuro 8GB RAM",
@@ -734,8 +733,7 @@
    "videos": [],
    "busca": "xiaomi poco x6 pro 5g dual sim 256 gb preto 8 gb",
    "vendidos": 10000,
-   "nota": 4.8,
-   "afiliado_errado": true
+   "nota": 4.8
   },
   "celular-xiaomi-redmi-note-13-8gb": {
    "nome": "Celular Xiaomi Redmi Note 13 8gb/256gb Midnight Black",
@@ -1650,8 +1648,7 @@
    "videos": [],
    "busca": "smart tv philco 50 p50vik 4k uhd led roku dolby audio wi",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "smart-tv-samsung-led-50-lh50befh4ggxzd": {
    "nome": "Smart Tv Samsung Led 50 Lh50befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v",
@@ -2513,7 +2510,8 @@
    "videos": [],
    "busca": "notebook asus vivobook 15 intel core i5 1334u 16gb ram 1tb ssd",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "notebook-15-6-acer-aspire-go-2": {
    "nome": "Notebook 15.6\" Acer Aspire Go com Tela Full HD Processador Intel Core i5 de 13ª Geração",
