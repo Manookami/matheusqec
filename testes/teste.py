@@ -190,6 +190,11 @@ golpe = serie((25, 1, 2400), (0, 0, 699))
 confere(desconto_de(golpe) == 0, "caiu 71% de um dia pro outro -> suspeito, sem fitinha")
 pouco = serie((20, 1, 2400), (0, 0, 2340))
 confere(desconto_de(pouco) == 0, "caiu só 2,5% -> sem fitinha")
+pico = serie((25, 18, 1657), (17, 9, 5000), (8, 0, 1799))
+confere(desconto_de(pico) == 0, "vendedor cobrou R$ 5.000 por 9 dias e voltou a R$ 1.799 -> não é 47% de desconto")
+confere(not any(q["produto"] == "poco-x8-pro" for q in comum.quedas(
+    {"produtos": {"poco-x8-pro": produtos["produtos"]["poco-x8-pro"]}, "categorias": []},
+    {"poco-x8-pro": serie((25, 3, 1799), (2, 1, 5000), (0, 0, 1799))})), "pico de 2 dias não vira 'caiu nos últimos dias'")
 um_dia = serie((20, 1, 1300), (0, 0, 607))
 confere(desconto_de(um_dia) == 0, "caiu 53% num dia só (DualSense Edge a R$ 607) -> espera confirmar, sem fitinha")
 confirmado = serie((20, 2, 1300), (1, 0, 800))

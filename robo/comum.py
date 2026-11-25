@@ -109,6 +109,17 @@ PRECO_VALIDO_DIAS = 3     # preço mais velho que isso vira "Ver preço no Merca
 DESCONTO_MAX = 0.60       # acima disso não é promoção: costuma ser golpe ou anúncio errado
 DESCONTO_MIN_LEITURAS = 3 # leituras de preço necessárias (com o robô diário, isso sai em 3 dias)
 DESCONTO_CONFIRMAR = 0.30 # queda desse tamanho ou maior precisa aparecer em 2 leituras seguidas
+PICO = 1.5                # preço 50% acima do "piso" do produto é pico de vendedor (ex.: Redmi a R$ 5.000), não preço normal
+
+
+def sem_picos(valores):
+    """Tira os preços absurdos (acima de 1,5x o 1º quartil): um vendedor que fica dias em destaque cobrando R$ 5.000
+    num celular de R$ 1.799 não pode virar o "preço normal", senão a volta ao normal parece 47% de desconto."""
+    v = sorted(valores)
+    if len(v) < 4:
+        return v
+    piso = v[len(v) // 4]
+    return [x for x in v if x <= piso * PICO]
 
 
 def desconto_real(h, hoje_iso=None):
@@ -124,7 +135,7 @@ def desconto_real(h, hoje_iso=None):
     if date.fromisoformat(h[0]["data"]) > d_atual - timedelta(days=DESCONTO_MIN_DIAS):
         return None
     inicio = (d_atual - timedelta(days=DESCONTO_JANELA)).isoformat()
-    antes = sorted(x["preco"] for x in h[:-1] if x["data"] >= inicio)
+    antes = sem_picos(x["preco"] for x in h[:-1] if x["data"] >= inicio)
     if not antes:  # sem leituras recentes: compara com a última leitura conhecida
         antes = [h[-2]["preco"]]
     meio = len(antes) // 2
@@ -224,7 +235,9 @@ def quedas(produtos, precos, queda_minima=0.05, dias=7):
         if not r or not r["ao_vivo"] or precos[pid].get("disponivel") is False:
             continue
         limite = (date.fromisoformat(r["data"]) - timedelta(days=dias)).isoformat()
-        janela = [x["preco"] for x in r["pontos"] if limite <= x["data"] < r["data"]]
+        mes = [x["preco"] for x in r["pontos"] if x["data"] < r["data"]][-30:]
+        teto = max(sem_picos(mes)) if mes else 0
+        janela = [x["preco"] for x in r["pontos"] if limite <= x["data"] < r["data"] and x["preco"] <= teto]
         if not janela:
             continue
         antes = max(janela)
