@@ -201,7 +201,8 @@
    "videos": [],
    "busca": "smartphone motorola moto g06 128gb azul marinho",
    "vendidos": 100000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "samsung-galaxy-a15-dual-sim-4g": {
    "nome": "Samsung Galaxy A15 Dual SIM 4G 256GB Azul escuro 8GB RAM",
@@ -509,8 +510,7 @@
    "videos": [],
    "busca": "apple iphone 15 256 gb azul distribuidor autorizado",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "celular-smartphone-realme-c73-256gb-8gb": {
    "nome": "Celular Smartphone Realme C73 256gb 8gb Ram Dual Sim 120hz 6000mAh Verde",
@@ -699,7 +699,8 @@
    "videos": [],
    "busca": "smartphone moto g75 5g 256gb vegan leather cor azul motorola",
    "vendidos": 10000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "motorola-edge-40-neo-5g-dual": {
    "nome": "Motorola Edge 40 Neo 5G Dual SIM 256 GB Black beauty 8 GB RAM",
@@ -1046,7 +1047,8 @@
    "videos": [],
    "busca": "xiaomi redmi note 13 4g esim dual sim 256 gb azul 8",
    "vendidos": 5000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "celular-realme-c75-dual-sim-256": {
    "nome": "Celular Realme C75 Dual Sim 256 Gb 8 Gb Ram Smartphone Dourado",
@@ -1164,7 +1166,8 @@
    "videos": [],
    "busca": "iphone 17 pro 256gb azul profundo distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "iphone-17-pro-max-256gb-prateado": {
    "nome": "iPhone 17 Pro Max 256GB - Prateado - Distribuidor Autorizado",
@@ -1187,7 +1190,8 @@
    "videos": [],
    "busca": "iphone 17 pro max 512gb azul profundo distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "iphone-17-512-gb-preto-distribuidor": {
    "nome": "iPhone 17 512 GB - Preto - Distribuidor Autorizado",
@@ -1646,7 +1650,8 @@
    "videos": [],
    "busca": "smart tv philco 50 p50vik 4k uhd led roku dolby audio wi",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "smart-tv-samsung-led-50-lh50befh4ggxzd": {
    "nome": "Smart Tv Samsung Led 50 Lh50befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v",
@@ -1690,8 +1695,7 @@
    "videos": [],
    "busca": "smart tv tcl 55 polegadas qled 4k p7k wifi bluetooth google tv",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "smart-tv-samsung-led-55-lh55befh4ggxzd": {
    "nome": "Smart Tv Samsung Led 55 Lh55befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v",
@@ -2328,8 +2332,7 @@
    "videos": [],
    "busca": "notebook lenovo ideapad slim 3 15irh10 intel core i5 13420h 16gb 512gb",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "notebook-lenovo-ideapad-1-15iru7-intel": {
    "nome": "Notebook Lenovo Ideapad 1 15iru7 Intel Core i3-1315u 8gb 256gb Ssd Windows 11 15.6 -",
@@ -3599,7 +3602,8 @@
    "videos": [],
    "busca": "fone qcy t17 bluetooth 5 1 modo game e cancelamento de ruido",
    "vendidos": 50000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "fone-headphone-jbl-tune-520bt-bluetooth": {
    "nome": "Fone Headphone JBL Tune 520BT Bluetooth Branco",
@@ -3775,7 +3779,8 @@
    "videos": [],
    "busca": "fone de ouvido bluetooth dapon h02d bluetooth 5 1 modo sem fio",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "fone-de-ouvido-bluetooth-sem-fio": {
    "nome": "Fone De Ouvido Bluetooth Sem Fio Branco Wave Buds 2 Jbl",
@@ -4128,7 +4133,8 @@
    "videos": [],
    "busca": "apple watch se 3 gps caixa estelar de aluminio 40 mm pulseira",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "apple-watch-se-3-gps-caixa-2": {
    "nome": "Apple Watch SE 3 GPS • Caixa meia-noite de alumínio – 40 mm • Pulseira esportiva meia-noit",
@@ -4999,7 +5005,8 @@
    "videos": [],
    "busca": "pokemon pokopia ns2",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "nintendo-switch-oled-64gb-controle-azul": {
    "nome": "Nintendo Switch OLED 64GB - Controle Azul e vermelho neon",
