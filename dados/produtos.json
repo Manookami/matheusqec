@@ -282,7 +282,8 @@
    "videos": [],
    "busca": "redmi note 13 4g dual sim 256gb preto 8 gb ram",
    "vendidos": 50000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "samsung-galaxy-s25-5g-256gb-12gb": {
    "nome": "Samsung Galaxy S25 5G, 256GB, 12GB, Câmera Tripla - Azul marinho",
@@ -487,7 +488,8 @@
    "videos": [],
    "busca": "apple iphone 15 128 gb azul distribuidor autorizado",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "apple-iphone-16-128-gb-ultramarine": {
    "nome": "Apple iPhone 16 (128 GB) - Ultramarine - Distribuidor Autorizado",
@@ -675,8 +677,7 @@
    "videos": [],
    "busca": "samsung galaxy a34 5g 256 gb preto 8 gb ram",
    "vendidos": 10000,
-   "nota": 4.8,
-   "afiliado_errado": true
+   "nota": 4.8
   },
   "smartphone-motorola-edge-50-fusion-5g": {
    "nome": "Smartphone Motorola Edge 50 Fusion 5G - 256GB 8GB RAM + 8GB RAM Boost 50MP Sony AI Camera",
@@ -687,8 +688,7 @@
    "videos": [],
    "busca": "smartphone motorola edge 50 fusion 5g 256gb 8gb ram 8gb ram boost",
    "vendidos": 10000,
-   "nota": 4.8,
-   "afiliado_errado": true
+   "nota": 4.8
   },
   "smartphone-moto-g75-5g-256gb-vegan": {
    "nome": "Smartphone Moto G75 5g 256gb Vegan Leather Cor Azul Motorola",
@@ -734,7 +734,8 @@
    "videos": [],
    "busca": "xiaomi poco x6 pro 5g dual sim 256 gb preto 8 gb",
    "vendidos": 10000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "celular-xiaomi-redmi-note-13-8gb": {
    "nome": "Celular Xiaomi Redmi Note 13 8gb/256gb Midnight Black",
@@ -1288,7 +1289,8 @@
    "ml": "https://www.mercadolivre.com.br/apple-iphone-15-128-gb-preto-distribuidor-autorizado/p/MLB1027172677",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_680991-MLA95497804976_102025-O.webp",
    "videos": [],
-   "busca": "iphone 15 apple"
+   "busca": "iphone 15 apple",
+   "afiliado_errado": true
   },
   "galaxy-a56": {
    "nome": "Samsung Galaxy A56 5G 256GB",
@@ -2599,7 +2601,8 @@
    "videos": [],
    "busca": "notebook gamer acer nitro v15 anv15 52 52vn intel core i5 13420h",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "notebook-acer-gamer-nitro-v15-core": {
    "nome": "Notebook Acer Gamer Nitro V15 Core I7 13ªger. 16gb 512ssd W11 Rtx4050 6gb Nvidia Geforce",
@@ -3486,7 +3489,8 @@
    "ml": "https://www.mercadolivre.com.br/tablet-samsung-galaxy-tab-a9-wi-fi-64gb-4gb-ram-tela-11-grafite-sm-x210nzaazto/p/MLB29687357",
    "imagem": "https://http2.mlstatic.com/D_NQ_NP_669379-MLA95704100626_102025-O.webp",
    "videos": [],
-   "busca": "samsung galaxy tab a9 plus tablet"
+   "busca": "samsung galaxy tab a9 plus tablet",
+   "afiliado_errado": true
   },
   "redmi-pad-2": {
    "nome": "Xiaomi Redmi Pad 2 256GB",
@@ -6197,7 +6201,8 @@
    "videos": [],
    "busca": "monitor lg ultragear 24g411a b 24 fhd 144hz 1ms mbr nvidia g",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "monitor-aoc-24-100hz-1ms-gaming": {
    "nome": "Monitor AOC 24\" 100Hz 1ms Gaming HDMI 24B35HM2",
