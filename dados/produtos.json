@@ -146,13 +146,13 @@
    "nome": "Motorola Edge 70 5G 256GB",
    "categoria": "celulares",
    "atalho": "edge70",
-   "afiliado": "https://meli.la/1jMwJ5E",
-   "ml": "https://www.mercadolivre.com.br/smartphone-edge-70-67-polegadas-256gb-5g-camera-dupla-50mp-motorola/p/MLB65304414",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_727625-MLA106043504782_022026-O.webp",
+   "afiliado": "https://meli.la/1GiP3Yr",
+   "ml": "https://www.mercadolivre.com.br/p/MLB65304413",
    "videos": [
     "celulares5"
    ],
-   "busca": "motorola edge 70"
+   "busca": "motorola edge 70",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_620287-MLA106660644779_022026-O.webp"
   },
   "galaxy-s25-fe": {
    "nome": "Samsung Galaxy S25 FE 128GB",
@@ -1296,11 +1296,11 @@
    "nome": "Samsung Galaxy A56 5G 256GB",
    "categoria": "celulares",
    "atalho": "a56",
-   "afiliado": "https://meli.la/1Cq5kbC",
-   "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a56-5g-256gb-8gb-ram-cinza/p/MLB47114363",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_858591-MLA115297984999_072026-O.webp",
+   "afiliado": "https://meli.la/2cWyWk5",
+   "ml": "https://www.mercadolivre.com.br/p/MLB47113930",
    "videos": [],
-   "busca": "samsung galaxy a56"
+   "busca": "samsung galaxy a56",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_956669-MLA100187157363_122025-O.webp"
   },
   "galaxy-a36": {
    "nome": "Samsung Galaxy A36 5G 128GB",
@@ -1318,11 +1318,11 @@
    "nome": "Redmi Note 14 Pro 5G 256GB",
    "categoria": "celulares",
    "atalho": "redmi14pro",
-   "afiliado": "https://meli.la/1XyQCkS",
-   "ml": "https://www.mercadolivre.com.br/xiaomi-redmi-note-14-pro-5g-verde-256-gb-8-ram-200-mpx/p/MLB46477687",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_975639-MLA95350669097_102025-O.webp",
+   "afiliado": "https://meli.la/1xtjGca",
+   "ml": "https://www.mercadolivre.com.br/p/MLB46477577",
    "videos": [],
-   "busca": "redmi note 14 pro xiaomi"
+   "busca": "redmi note 14 pro xiaomi",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_647453-MLA110189560928_052026-O.webp"
   },
   "tv-aoc-50u7045": {
    "nome": "Smart TV AOC 50\" 4K Roku 50U7045",
@@ -2512,8 +2512,7 @@
    "videos": [],
    "busca": "notebook asus vivobook 15 intel core i5 1334u 16gb ram 1tb ssd",
    "vendidos": 5000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "notebook-15-6-acer-aspire-go-2": {
    "nome": "Notebook 15.6\" Acer Aspire Go com Tela Full HD Processador Intel Core i5 de 13ª Geração",
@@ -5004,8 +5003,7 @@
    "videos": [],
    "busca": "pokemon pokopia ns2",
    "vendidos": 5000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "nintendo-switch-oled-64gb-controle-azul": {
    "nome": "Nintendo Switch OLED 64GB - Controle Azul e vermelho neon",
@@ -6795,13 +6793,13 @@
    "nome": "Samsung Galaxy A07 8GB 256GB",
    "categoria": "celulares",
    "atalho": "a07",
-   "afiliado": "https://meli.la/2eKCiJz",
-   "ml": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-camera-50mp-verde/p/MLB54963045",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_778917-MLA91526601104_092025-O.webp",
+   "afiliado": "https://meli.la/1E6w5nr",
+   "ml": "https://www.mercadolivre.com.br/p/MLB54961556",
    "videos": [
     "cel-ate-1000"
    ],
-   "busca": "galaxy a07"
+   "busca": "galaxy a07",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-O.webp"
   },
   "realme-c71": {
    "nome": "Realme C71 8GB 256GB",
@@ -6819,13 +6817,13 @@
    "nome": "Xiaomi Redmi 15 8GB 256GB",
    "categoria": "celulares",
    "atalho": "redmi15",
-   "afiliado": "https://meli.la/2D3NSbb",
-   "ml": "https://www.mercadolivre.com.br/smartphone-xiaomi-redmi-15-8gb-256gb-tela-69-144hz-bateria-7000-mah-50-mp-roxo/p/MLB61511999",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_758920-MLA99420370660_112025-O.webp",
+   "afiliado": "https://meli.la/1YvLgtE",
+   "ml": "https://www.mercadolivre.com.br/p/MLB54570111",
    "videos": [
     "cel-ate-1000"
    ],
-   "busca": "redmi 15"
+   "busca": "redmi 15",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_776912-MLA99367333406_112025-O.webp"
   },
   "poco-m7-pro": {
    "nome": "Xiaomi Poco M7 Pro 5G 8GB 256GB",
@@ -6868,13 +6866,13 @@
    "nome": "Redmi Note 15 Pro 5G 256GB 8GB",
    "categoria": "celulares",
    "atalho": "note15pro",
-   "afiliado": "https://meli.la/1CXADfn",
-   "ml": "https://www.mercadolivre.com.br/smartphone-xiaomi-redmi-note-15-pro-5g-256gb-8gb-ram-amoled-683-120hz-azul/p/MLB66799329",
-   "imagem": "https://http2.mlstatic.com/D_NQ_NP_930687-MLA108180651336_032026-O.webp",
+   "afiliado": "https://meli.la/2e5rpa1",
+   "ml": "https://www.mercadolivre.com.br/p/MLB66140724",
    "videos": [
     "redmi-note-15-vs-pro"
    ],
-   "busca": "redmi note 15 pro 5g 256gb"
+   "busca": "redmi note 15 pro 5g 256gb",
+   "imagem": "https://http2.mlstatic.com/D_NQ_NP_620544-MLA108009160235_032026-O.webp"
   },
   "redmi-note-15-4g-256": {
    "nome": "Redmi Note 15 4G 256GB 8GB",
