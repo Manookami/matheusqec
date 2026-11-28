@@ -316,8 +316,7 @@
    "videos": [],
    "busca": "samsung galaxy s24 fe 8gb ram 256gb rom 5g grafite",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "smartphone-samsung-galaxy-a36-5g-128gb": {
    "nome": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp",
@@ -452,7 +451,8 @@
    "busca": "iphone 16e 128 gb preto distribuidor autorizado",
    "vendidos": 10000,
    "nota": 4.9,
-   "atalho": "iphone16e"
+   "atalho": "iphone16e",
+   "afiliado_errado": true
   },
   "iphone-17-256-gb-8-gb": {
    "nome": "iPhone 17 256 GB 8 GB Preto - Distribuidor Autorizado",
@@ -850,7 +850,8 @@
    "videos": [],
    "busca": "apple iphone 11 128 gb branco",
    "vendidos": 10000,
-   "nota": 4.6
+   "nota": 4.6,
+   "afiliado_errado": true
   },
   "celular-samsung-galaxy-s25-fe-jetblack": {
    "nome": "Celular Samsung Galaxy S25 Fe Jetblack 256gb",
@@ -1190,7 +1191,8 @@
    "videos": [],
    "busca": "iphone 17 pro max 512gb azul profundo distribuidor autorizado",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "iphone-17-512-gb-preto-distribuidor": {
    "nome": "iPhone 17 512 GB - Preto - Distribuidor Autorizado",
@@ -1693,8 +1695,7 @@
    "videos": [],
    "busca": "smart tv tcl 55 polegadas qled 4k p7k wifi bluetooth google tv",
    "vendidos": 10000,
-   "nota": 4.9,
-   "afiliado_errado": true
+   "nota": 4.9
   },
   "smart-tv-samsung-led-55-lh55befh4ggxzd": {
    "nome": "Smart Tv Samsung Led 55 Lh55befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v",
@@ -2567,7 +2568,8 @@
    "videos": [],
    "busca": "notebook inspiron i15 i1300 a80p i7 16gb 1tb w11 preto dell",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "notebook-samsung-galaxy-book-go-snapdragon": {
    "nome": "Notebook Samsung Galaxy Book Go Snapdragon 7c Kryo 468 Octa-core 4GB RAM 128GB SSD 14\"",
@@ -2635,7 +2637,8 @@
    "videos": [],
    "busca": "notebook gamer asus tuf gaming a16 amd ryzen 7 rtx 4050 16gb",
    "vendidos": 1000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "notebook-acer-nitro-v15-anv15-52": {
    "nome": "Notebook Acer Nitro V15 ANV15‑52‑51E4 – Intel Core i5-13420H 13ª Geração 16GB DDR5 NVIDIA",
@@ -2747,7 +2750,8 @@
    "videos": [],
    "busca": "notebook asus vivobook 16 intel core i7 1355u 16gb ram 1tb ssd",
    "vendidos": 1000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "notebook-lenovo-ideapad-1-amd-ryzen": {
    "nome": "Notebook Lenovo Ideapad 1 AMD Ryzen 3 7320U 4gb 256gb SSD Linux 15.6 HD 82x5s00600",
@@ -2758,7 +2762,8 @@
    "videos": [],
    "busca": "notebook lenovo ideapad 1 amd ryzen 3 7320u 4gb 256gb ssd linux",
    "vendidos": 1000,
-   "nota": 4.8
+   "nota": 4.8,
+   "afiliado_errado": true
   },
   "notebook-asus-vivobook-s-14-s5406sa": {
    "nome": "Notebook ASUS Vivobook S 14 S5406SA Copilot+ PC Intel Core Ultra 7 256 V 16GB RAM 512GB",
@@ -3867,7 +3872,8 @@
    "videos": [],
    "busca": "fone de ouvido galaxy buds fe grafite",
    "vendidos": 10000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "samsung-galaxy-buds-3-pro-cinza": {
    "nome": "Samsung Galaxy Buds 3 Pro cinza",
@@ -5003,7 +5009,8 @@
    "videos": [],
    "busca": "pokemon pokopia ns2",
    "vendidos": 5000,
-   "nota": 4.9
+   "nota": 4.9,
+   "afiliado_errado": true
   },
   "nintendo-switch-oled-64gb-controle-azul": {
    "nome": "Nintendo Switch OLED 64GB - Controle Azul e vermelho neon",
